@@ -279,6 +279,30 @@ def generate_dashboard():
     nx.write_graphml(B, "dvp_bipartite_network.graphml")
     print("Saved 'dvp_bipartite_network.graphml'")
 
+    # --- Create unified ZIP Archive containing all exported datasets ---
+    import zipfile
+    files_to_zip = [
+        "deep_visual_proteomics_papers.csv",
+        "dvp_authors.csv",
+        "dvp_keywords.csv",
+        "dvp_coauthorship_nodes.csv",
+        "dvp_coauthorship_edges.csv",
+        "dvp_coauthorship_network.graphml",
+        "dvp_bipartite_nodes.csv",
+        "dvp_bipartite_edges.csv",
+        "dvp_bipartite_network.graphml",
+        "plot_network.py"
+    ]
+    zip_filename = "dvp_all_datasets.zip"
+    try:
+        with zipfile.ZipFile(zip_filename, 'w', zipfile.ZIP_DEFLATED) as zipf:
+            for f in files_to_zip:
+                if os.path.exists(f):
+                    zipf.write(f)
+        print(f"Successfully archived all datasets into '{zip_filename}'")
+    except Exception as e:
+        print(f"Failed to create datasets archive: {e}")
+
     # --- 9. Papers & Citations List ---
     papers_list = []
     for _, row in df_papers.iterrows():
@@ -727,7 +751,7 @@ def generate_dashboard():
         }}
 
         /* Slider Styling */
-        .slider {{
+        .range-slider {{
             -webkit-appearance: none;
             width: 100%;
             height: 6px;
@@ -736,7 +760,7 @@ def generate_dashboard():
             outline: none;
             margin: 0.5rem 0;
         }}
-        .slider::-webkit-slider-thumb {{
+        .range-slider::-webkit-slider-thumb {{
             -webkit-appearance: none;
             appearance: none;
             width: 14px;
@@ -746,7 +770,7 @@ def generate_dashboard():
             cursor: pointer;
             transition: transform 0.1s ease;
         }}
-        .slider::-webkit-slider-thumb:hover {{
+        .range-slider::-webkit-slider-thumb:hover {{
             transform: scale(1.2);
         }}
 
@@ -969,6 +993,12 @@ def generate_dashboard():
                         <a href="dvp_bipartite_nodes.csv" download>Bipartite Nodes (CSV)</a>
                         <a href="dvp_bipartite_edges.csv" download>Bipartite Edges (CSV)</a>
                         <a href="dvp_bipartite_network.graphml" download>Bipartite GraphML</a>
+                        
+                        <div style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border-color); border-top: 1px solid var(--border-color); text-transform: uppercase; letter-spacing: 0.05em; background: rgba(0,0,0,0.2);">All Material</div>
+                        <a href="dvp_all_datasets.zip" download style="font-weight: bold; color: var(--accent-green); display: flex; align-items: center; gap: 0.35rem;">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                            Download All (ZIP)
+                        </a>
                     </div>
                 </div>
 
@@ -1092,7 +1122,7 @@ def generate_dashboard():
                                 <span style="cursor: pointer; user-select: none;" onmouseover="this.style.color='var(--text-main)'" onmouseout="this.style.color='var(--text-muted)'" onclick="document.getElementById('network-threshold-slider').value = 2; updateNameThreshold();">Show more names</span>
                                 <span style="cursor: pointer; user-select: none;" onmouseover="this.style.color='var(--text-main)'" onmouseout="this.style.color='var(--text-muted)'" onclick="document.getElementById('network-threshold-slider').value = 15; updateNameThreshold();">Show key hubs</span>
                             </div>
-                            <input type="range" id="network-threshold-slider" min="2" max="15" value="10" class="slider" oninput="updateNameThreshold()">
+                            <input type="range" id="network-threshold-slider" min="2" max="15" value="10" class="range-slider" oninput="updateNameThreshold()">
                             <div style="font-size: 0.725rem; text-align: center; color: var(--text-muted);">
                                 Threshold: <span id="threshold-val">10</span>px
                             </div>
@@ -1115,7 +1145,12 @@ def generate_dashboard():
                                 <a href="dvp_bipartite_nodes.csv" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Nodes CSV</a>
                                 <a href="dvp_bipartite_edges.csv" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Edges CSV</a>
                             </div>
-                            <a href="dvp_bipartite_network.graphml" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Bipartite GraphML</a>
+                            <a href="dvp_bipartite_network.graphml" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center; margin-bottom: 0.4rem;">Bipartite GraphML</a>
+                            
+                            <a href="dvp_all_datasets.zip" download class="btn-download" style="font-size: 0.7rem; padding: 0.4rem 0.5rem; justify-content: center; width: 100%; background: var(--accent-blue); border-color: var(--accent-blue); color: white;">
+                                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right: 0.2rem;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+                                Download All (ZIP)
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -1144,6 +1179,10 @@ def generate_dashboard():
                     <a href="dvp_keywords.csv" download class="btn-download" style="font-size: 0.75rem; padding: 0.4rem 0.75rem;">
                         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
                         Keywords CSV
+                    </a>
+                    <a href="dvp_all_datasets.zip" download class="btn-download" style="font-size: 0.75rem; padding: 0.4rem 0.75rem; background: var(--accent-blue); border-color: var(--accent-blue); color: white;">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+                        Download All (ZIP)
                     </a>
                 </div>
             </div>
