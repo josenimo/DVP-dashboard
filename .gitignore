@@ -1,0 +1,43 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Environment variables
+# Keep your secrets and environment-specific settings out of git
+.env
+*.env.*
+
+# IDE and editor configuration
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary data from scraping
+# *.log
+# *.csv
+# *.json
+# *.db

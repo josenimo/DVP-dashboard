@@ -1,0 +1,439 @@
+PMID,Author Name,Last Name,Author Order,Institution,Country,Is Corresponding,Affiliation
+42013410,Min J,Min,1,New York University Langone Medical Center United States,United States,False,New York University Langone Medical Center United States.
+42013410,Schweizer L,Schweizer,2,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Zonderland G,Zonderland,3,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Chellakkan Selvanesan B,Chellakkan Selvanesan,4,The University of Texas MD Anderson Cancer Center Houston United States,United States,False,The University of Texas MD Anderson Cancer Center Houston United States.
+42013410,Thomsen JH,Thomsen,5,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Oldenburg L,Oldenburg,6,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Bae SW,Bae,7,New York University New York,United States,False,"New York University New York, New York United States."
+42013410,Kim B,Kim,8,NYU Langone's Laura and Isaac Perlmutter Cancer Center New York,United States,False,"NYU Langone's Laura and Isaac Perlmutter Cancer Center New York, NY United States."
+42013410,Hernandez SD,Hernandez,9,Resolute Bio København Ø,Denmark,False,"Resolute Bio København Ø, Hovedstaden Denmark."
+42013410,Jez G,Jez,10,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Bernard V,Bernard,11,The University of Texas MD Anderson Cancer Center Houston,United States,False,"The University of Texas MD Anderson Cancer Center Houston, TX United States."
+42013410,Swanson BJ,Swanson,12,University of Nebraska Medical Center Omaha,United States,False,"University of Nebraska Medical Center Omaha, Nebraska United States."
+42013410,Klute KA,Klute,13,University of Nebraska Medical Center Omaha,United States,False,"University of Nebraska Medical Center Omaha, NE United States."
+42013410,Wang H,Wang,14,The University of Texas MD Anderson Cancer Center Houston,United States,False,"The University of Texas MD Anderson Cancer Center Houston, TX United States."
+42013410,Caffrey TC,Caffrey,15,University of Nebraska Medical Center Omaha,United States,False,"University of Nebraska Medical Center Omaha, NE United States."
+42013410,Grandgenett PM,Grandgenett,16,University of Nebraska Medical Center Omaha,United States,False,"University of Nebraska Medical Center Omaha, NE United States."
+42013410,Hollingsworth MA,Hollingsworth,17,University of Nebraska Medical Center Omaha,United States,False,"University of Nebraska Medical Center Omaha, NE United States."
+42013410,Ummat I,Ummat,18,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Strauss MT,Strauss,19,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Mund A,Mund,20,Unknown,Denmark,False,Resolute Bio Copenhagen Denmark.
+42013410,Maitra A,Maitra,21,Unknown,United States,False,NYU Langone Health Houston United States.
+PPR1242524,Weiss CAM,Weiss,1,Unknown,Unknown,False,
+PPR1242524,Sjöstedt E,Sjöstedt,2,Unknown,Unknown,False,
+PPR1242524,Debnath A,Debnath,3,Unknown,Unknown,False,
+PPR1242524,Ben-Moshe S,Ben-Moshe,4,Unknown,Unknown,False,
+PPR1242524,Diedrich L,Diedrich,5,Unknown,Unknown,False,
+PPR1242524,Zwahlen M,Zwahlen,6,Unknown,Unknown,False,
+PPR1242524,Oeller M,Oeller,7,Unknown,Unknown,False,
+PPR1242524,Wahle M,Wahle,8,Unknown,Unknown,False,
+PPR1242524,Skarwan E,Skarwan,9,Unknown,Unknown,False,
+PPR1242524,Heymann T,Heymann,10,Unknown,Unknown,False,
+PPR1242524,Oliinyk D,Oliinyk,11,Unknown,Unknown,False,
+PPR1242524,Kratz E,Kratz,12,Unknown,Unknown,False,
+PPR1242524,Metousis A,Metousis,13,Unknown,Unknown,False,
+PPR1242524,Braun C,Braun,14,Unknown,Unknown,False,
+PPR1242524,Schunkert H,Schunkert,15,Unknown,Unknown,False,
+PPR1242524,Johansson F,Johansson,16,Unknown,Unknown,False,
+PPR1242524,Lundberg E,Lundberg,17,Unknown,Unknown,False,
+PPR1242524,von Feilitzen K,von Feilitzen,18,Unknown,Unknown,False,
+PPR1242524,Lindskog C,Lindskog,19,Unknown,Unknown,False,
+PPR1242524,Rosenberger FA,Rosenberger,20,Unknown,Unknown,False,
+PPR1242524,von Scheidt M,von Scheidt,21,Unknown,Unknown,False,
+PPR1242524,Uhlén M,Uhlén,22,Unknown,Unknown,False,
+PPR1242524,Mann M,Mann,23,Unknown,Unknown,False,
+40934911,Post F,Post,1,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Hausmann A,Hausmann,2,University of Copenhagen,Switzerland,True,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark; Department of Health Sciences and Technology, ETH Zürich, 8092 Zürich, Switzerland. Electronic address: annika.hausmann@hest.ethz.ch."
+40934911,Kabatnik S,Kabatnik,3,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Steigerwald S,Steigerwald,4,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40934911,Brand A,Brand,5,University of Copenhagen,Denmark,False,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Clement DL,Clement,6,University of Copenhagen,Denmark,False,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Skov J,Skov,7,University of Copenhagen,Denmark,False,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Lõhmussaar K,Lõhmussaar,8,University of Copenhagen,Denmark,False,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Larsen HL,Larsen,9,University of Copenhagen,Denmark,False,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Maimets M,Maimets,10,University of Copenhagen,Denmark,False,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Boye TL,Boye,11,University of Copenhagen,Denmark,False,"Department of Gastroenterology, Herlev Hospital, University of Copenhagen, 2730 Herlev, Denmark."
+40934911,Jez G,Jez,12,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Sato T,Sato,13,Keio University School of Medicine,Japan,False,"Department of Integrated Medicine and Biochemistry, Keio University School of Medicine, Tokyo 160-8582, Japan."
+40934911,Steenholdt C,Steenholdt,14,University of Southern Denmark,Denmark,False,"Department of Medical Gastrointestinal Diseases S, Odense University Hospital, 5000 Odense, Denmark; Department of Clinical Research, Research Unit of Medical Gastroenterology, University of Southern Denmark, 5230 Odense, Denmark."
+40934911,Rosenberger F,Rosenberger,15,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40934911,Mund A,Mund,16,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40934911,Nielsen OH,Nielsen,17,University of Copenhagen,Denmark,False,"Department of Gastroenterology, Herlev Hospital, University of Copenhagen, 2730 Herlev, Denmark."
+40934911,Jensen KB,Jensen,18,University of Copenhagen,Denmark,True,"reNEW, Novo Nordisk Foundation Center for Stem Cell Medicine, Department of Biomedical Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark. Electronic address: kim.jensen@sund.ku.dk."
+40934911,Mann M,Mann,19,Max Planck Institute of Biochemistry,Germany,True,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark; Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany. Electronic address: mmann@biochem.mpg.de."
+41629712,Fritzsche S,Fritzsche,1,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+41629712,Coscia F,Coscia,2,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany. fabian.coscia@mdc-berlin.de."
+40675342,Manickavel P,Manickavel,1,Western University,Canada,False,"Transplant AI Initiative, Ajmera Transplant Program, University Health Network, Toronto, Ontario, Canada; Schulich School of Medicine & Dentistry, Western University, London, Ontario, Canada."
+40675342,Bhat M,Bhat,2,University Health Network,Canada,False,"Transplant AI Initiative, Ajmera Transplant Program, Toronto, Ontario, Canada; Toronto General Hospital Research Institute, University Health Network, Toronto, Ontario, Canada; Department of Medicine, University of Toronto, Toronto, Ontario, Canada; Division of Gastroenterology and Hepatology, University Health Network, Toronto, Ontario, Canada."
+40360936,Hindson J,Hindson,1,Unknown,Unknown,True,"Nature Reviews Gastroenterology & Hepatology, . nrgasthep@nature.com."
+41629719,Gasparello T,Gasparello,1,University of Edinburgh,United Kingdom,False,"Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+41629719,Pearson M,Pearson,2,University of Edinburgh,United Kingdom,False,"Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+41629719,von Kriegsheim A,von Kriegsheim,3,University of Edinburgh,United Kingdom,True,"Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. Alex.VonKriegsheim@ed.ac.uk."
+PPR1010749,Mardamshina M,Mardamshina,1,Unknown,Unknown,False,
+PPR1010749,Dorka N,Dorka,2,Unknown,Unknown,False,
+PPR1010749,Thielert M,Thielert,3,Unknown,Unknown,False,
+PPR1010749,Björklund F,Björklund,4,Unknown,Unknown,False,
+PPR1010749,Navarro FB,Navarro,5,Unknown,Unknown,False,
+PPR1010749,Casals AM,Casals,6,Unknown,Unknown,False,
+PPR1010749,Kovacs F,Kovacs,7,Unknown,Unknown,False,
+PPR1010749,Manning Fox JE,Manning Fox,8,Unknown,Unknown,False,
+PPR1010749,Horvath P,Horvath,9,Unknown,Unknown,False,
+PPR1010749,MacDonald PE,MacDonald,10,Unknown,Unknown,False,
+PPR1010749,Mann M,Mann,11,Unknown,Unknown,False,
+PPR1010749,Lundberg E,Lundberg,12,Unknown,Unknown,False,
+40680990,Guedes J,Guedes,1,Lund University,Sweden,False,"Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden."
+40680990,Woldmar N,Woldmar,2,Lund University,Sweden,False,"Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden."
+40680990,Szasz AM,Szasz,3,Semmelweis University,Unknown,False,"Department of Bioinformatics, Semmelweis University, Budapest, Hungary."
+40680990,Wieslander E,Wieslander,4,Lund University,Sweden,False,"Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden."
+40680990,Pawłowski K,Pawłowski,5,University of Texas Southwestern Medical Center,United States,False,"Department of Molecular Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA."
+40680990,Horvatovich P,Horvatovich,6,University of Groningen,Netherlands,False,"Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden; Department of Analytical Biochemistry, Faculty of Science and Engineering, University of Groningen, Groningen, the Netherlands."
+40680990,Malm J,Malm,7,Lund University,Sweden,False,"Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden."
+40680990,Szadai L,Szadai,8,University of Szeged,Unknown,False,"Department of Dermatology and Allergology, University of Szeged, Szeged, Hungary."
+40680990,Németh IB,Németh,9,University of Szeged,Unknown,False,"Department of Dermatology and Allergology, University of Szeged, Szeged, Hungary."
+40680990,Marko-Varga G,Marko-Varga,10,Tokyo Medical University,Japan,False,"Clinical Protein Science & Imaging, Biomedical Centre, Department of Biomedical Engineering, Lund University, Lund, Sweden; Chemical Genomics Global Research Lab, Department of Biotechnology, College of Life Science and Biotechnology, Yonsei University, Seoul, Republic of Korea; 1st Department of Surgery, Tokyo Medical University, Tokyo, Japan."
+40680990,Gil J,Gil,11,Lund University,Sweden,True,"Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden. Electronic address: jeovanis.gil_valdes@med.lu.se."
+41965357,Chakrabarti S,Chakrabarti,1,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany. Sampurna.chakrabarti@helmholtz-hzi.de."
+41965357,Makhmut A,Makhmut,2,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, 13125, Berlin, Germany."
+41965357,Mohammadi A,Mohammadi,3,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
+41965357,Luo W,Luo,4,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
+41965357,Wang L,Wang,5,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
+41965357,Lewin GR,Lewin,6,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany. glewin@mdc-berlin.de."
+41965357,Coscia F,Coscia,7,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, 13125, Berlin, Germany. fabian.coscia@mdc-berlin.de."
+41655216,Wang Y,Wang,1,Nanjing Medical University,China,False,"Department of Oncology, Wuxi Medical Center, Wuxi Maternal and Child Health Care Hospital, Nanjing Medical University, Wuxi, China."
+41655216,Wu Y,Wu,2,Institute of Molecular and Cell Biology (IMCB),Singapore,False,"Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore."
+41655216,Zhang F,Zhang,3,Nanjing Medical University,China,False,"Department of Oncology, Wuxi Medical Center, Wuxi Maternal and Child Health Care Hospital, Nanjing Medical University, Wuxi, China."
+41655216,Periasamy P,Periasamy,4,Institute of Molecular and Cell Biology (IMCB),Singapore,False,"Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore."
+41655216,You H,You,5,Jiangnan University,China,False,"Department of Oncology, Wuxi Maternity and Child Health Care Hospital, Women's Hospital of Jiangnan University, Jiangnan University, Wuxi, China."
+41655216,Goh D,Goh,6,Institute of Molecular and Cell Biology (IMCB),Singapore,False,"Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore."
+41655216,Fincham REA,Fincham,7,Singapore General Hospital (SGH),Singapore,False,"Department of Anatomical Pathology, Singapore General Hospital (SGH), Singapore, Singapore."
+41655216,Ning X,Ning,8,Jiangnan University,China,False,"Department of Oncology, Wuxi Maternity and Child Health Care Hospital, Women's Hospital of Jiangnan University, Jiangnan University, Wuxi, China."
+41655216,Wu D,Wu,9,Jiangnan University,China,False,"Department of Oncology, Wuxi Maternity and Child Health Care Hospital, Women's Hospital of Jiangnan University, Jiangnan University, Wuxi, China."
+41655216,Liu L,Liu,10,Jiangnan University,China,False,"Department of Oncology, Wuxi Maternity and Child Health Care Hospital, Women's Hospital of Jiangnan University, Jiangnan University, Wuxi, China."
+41655216,Jiang Y,Jiang,11,Jiangnan University,China,False,"Department of Oncology, Wuxi Maternity and Child Health Care Hospital, Women's Hospital of Jiangnan University, Jiangnan University, Wuxi, China."
+41655216,Qian Z,Qian,12,Nanjing Medical University,China,False,"Department of Oncology, Wuxi Medical Center, Wuxi Maternal and Child Health Care Hospital, Nanjing Medical University, Wuxi, China."
+41655216,Yeong J,Yeong,13,Institute of Molecular and Cell Biology (IMCB),Singapore,False,"Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore."
+41655216,Zhang Y,Zhang,14,Nanjing Medical University,China,False,"Department of Oncology, Wuxi Medical Center, Wuxi Maternal and Child Health Care Hospital, Nanjing Medical University, Wuxi, China."
+39814024,Zheng X,Zheng,1,Aarhus University,Denmark,True,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen 2200, Copenhagen, Denmark; Department of Biomedicine, Aarhus University, Aarhus 8000, Denmark. Electronic address: xiang.zheng@cpr.ku.dk."
+39814024,Mund A,Mund,2,BioInnovation Institute,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen 2200, Copenhagen, Denmark; OmicVision Biosciences, BioInnovation Institute, Copenhagen 2200, Denmark."
+39814024,Mann M,Mann,3,Max Planck Institute of Biochemistry,Germany,True,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen 2200, Copenhagen, Denmark; Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried 82152, Germany. Electronic address: mmann@biochem.mpg.de."
+PPR1068194,Xu TT,Xu,1,Unknown,Unknown,False,
+PPR1068194,Metousis A,Metousis,2,Unknown,Unknown,False,
+PPR1068194,Kainacher L,Kainacher,3,Unknown,Unknown,False,
+PPR1068194,Zhang X,Zhang,4,Unknown,Unknown,False,
+PPR1068194,Steigenberger B,Steigenberger,5,Unknown,Unknown,False,
+PPR1068194,Madden KG,Madden,6,Unknown,Unknown,False,
+PPR1068194,Schweizer L,Schweizer,7,Unknown,Unknown,False,
+PPR1068194,Duteil C,Duteil,8,Unknown,Unknown,False,
+PPR1068194,Rossini S,Rossini,9,Unknown,Unknown,False,
+PPR1068194,Lengyel E,Lengyel,10,Unknown,Unknown,False,
+PPR1068194,Obermayr E,Obermayr,11,Unknown,Unknown,False,
+PPR1068194,Shulman Z,Shulman,12,Unknown,Unknown,False,
+PPR1068194,Nordmann TM,Nordmann,13,Unknown,Unknown,False,
+PPR1068194,Lindberg EL,Lindberg,14,Unknown,Unknown,False,
+PPR1068194,Mann M,Mann,15,Unknown,Unknown,False,
+PPR1068194,Murray PJ,Murray,16,Unknown,Unknown,False,
+PPR1052391,Nimo J,Nimo,1,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Fritzsche S,Fritzsche,2,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Valdes DS,Valdes,3,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Trinh M,Trinh,4,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Pentimalli T,Pentimalli,5,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Klingeberg M,Klingeberg,6,Institute of Pathology,Unknown,False,"Institute of Pathology, , corporate member of and , ,"
+PPR1052391,Schallenberg S,Schallenberg,7,Institute of Pathology,Unknown,False,"Institute of Pathology, , ,"
+PPR1052391,Klauschen F,Klauschen,8,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Herse F,Herse,9,Institute of Pathology,Unknown,False,"Institute of Pathology, , corporate member of and , ,"
+PPR1052391,Florian S,Florian,10,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Rajewsky N,Rajewsky,11,Unknown,Unknown,False,"for Molecular Medicine in the Helmholtz Association (MDC), ,"
+PPR1052391,Coscia F,Coscia,12,Unknown,Unknown,False,
+PPR1029109,Oliinyk D,Oliinyk,1,Unknown,Unknown,False,
+PPR1029109,Heymann T,Heymann,2,Unknown,Unknown,False,
+PPR1029109,Henneberg L,Henneberg,3,Unknown,Unknown,False,
+PPR1029109,Bardziukova A,Bardziukova,4,Unknown,Unknown,False,
+PPR1029109,Thielert M,Thielert,5,Unknown,Unknown,False,
+PPR1029109,Kjærgaard J,Kjærgaard,6,Unknown,Unknown,False,
+PPR1029109,Zwiebel M,Zwiebel,7,Unknown,Unknown,False,
+PPR1029109,Vasconez S,Vasconez,8,Unknown,Unknown,False,
+PPR1029109,Oeller M,Oeller,9,Unknown,Unknown,False,
+PPR1029109,Metousis A,Metousis,10,Unknown,Unknown,False,
+PPR1029109,Ugur E,Ugur,11,Unknown,Unknown,False,
+PPR1029109,Rodriguez EH,Rodriguez,12,Unknown,Unknown,False,
+PPR1029109,Rosenberger FA,Rosenberger,13,Unknown,Unknown,False,
+PPR1029109,Schallenberg S,Schallenberg,14,Unknown,Unknown,False,
+PPR1029109,Klauschen F,Klauschen,15,Unknown,Unknown,False,
+PPR1029109,Mann M,Mann,16,Unknown,Unknown,False,
+39910169,Kabatnik S,Kabatnik,1,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39910169,Zheng X,Zheng,2,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39910169,Pappas G,Pappas,3,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39910169,Steigerwald S,Steigerwald,4,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+39910169,Padula MP,Padula,5,University of Technology Sydney,Australia,True,"School of Life Sciences and Proteomics Core Facility, Faculty of Science, University of Technology Sydney, Ultimo, Australia. Matthew.Padula@uts.edu.au."
+39910169,Mann M,Mann,6,University of Copenhagen,Denmark,True,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark. mmann@biochem.mpg.de."
+PPR866889,Zheng X,Zheng,1,Unknown,Unknown,False,
+PPR866889,Pedersen LM,Pedersen,2,Unknown,Unknown,False,
+PPR866889,Bzorek M,Bzorek,3,Unknown,Unknown,False,
+PPR866889,Mund A,Mund,4,Unknown,Unknown,False,
+PPR866889,Gjerdrum LMR,Gjerdrum,5,Unknown,Unknown,False,
+PPR866889,Mann M,Mann,6,Unknown,Unknown,False,
+41721135,Weiss CAM,Weiss,1,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41721135,Brown LA,Brown,2,National Cancer Institute,United States,False,"Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+41721135,Miranda L,Miranda,3,Max Planck Institute of Biochemistry,Germany,False,"Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41721135,Pellizzoni P,Pellizzoni,4,Max Planck Institute of Biochemistry,Germany,False,"Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41721135,Steigerwald S,Steigerwald,5,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41721135,Remmert K,Remmert,6,National Cancer Institute,United States,False,"Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+41721135,Hernandez JM,Hernandez,7,National Cancer Institute,United States,False,"Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+41721135,Borgwardt K,Borgwardt,8,Max Planck Institute of Biochemistry,Germany,False,"Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41721135,Kleiner DE,Kleiner,9,National Cancer Institute,United States,False,"Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+41721135,Ben-Moshe S,Ben-Moshe,10,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41721135,Rosenberger FA,Rosenberger,11,Max Planck Institute of Biochemistry,Germany,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. rosenberger@biochem.mpg.de."
+41721135,Porat-Shliom N,Porat-Shliom,12,National Cancer Institute,United States,True,"Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA. natalie.porat-shliom@nih.gov."
+41721135,Mann M,Mann,13,Max Planck Institute of Biochemistry,Germany,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
+PPR1002479,Migh E,Migh,1,Unknown,Unknown,False,
+PPR1002479,Miczán V,Miczán,2,Unknown,Unknown,False,
+PPR1002479,Post F,Post,3,Unknown,Unknown,False,
+PPR1002479,Koos K,Koos,4,Unknown,Unknown,False,
+PPR1002479,Beleon A,Beleon,5,Unknown,Unknown,False,
+PPR1002479,Kokai D,Kokai,6,Unknown,Unknown,False,
+PPR1002479,Iván ZZ,Iván,7,Unknown,Unknown,False,
+PPR1002479,Grexa I,Grexa,8,Unknown,Unknown,False,
+PPR1002479,Moshkov N,Moshkov,9,Unknown,Unknown,False,
+PPR1002479,Hollandi R,Hollandi,10,Unknown,Unknown,False,
+PPR1002479,Csikos D,Csikos,11,Unknown,Unknown,False,
+PPR1002479,Hapek N,Hapek,12,Unknown,Unknown,False,
+PPR1002479,Kaptás F,Kaptás,13,Unknown,Unknown,False,
+PPR1002479,Kovacs F,Kovacs,14,Unknown,Unknown,False,
+PPR1002479,Kriston A,Kriston,15,Unknown,Unknown,False,
+PPR1002479,Mahdessian D,Mahdessian,16,Unknown,Unknown,False,
+PPR1002479,Axelsson U,Axelsson,17,Unknown,Unknown,False,
+PPR1002479,Pal C,Pal,18,Unknown,Unknown,False,
+PPR1002479,Lundberg E,Lundberg,19,Unknown,Unknown,False,
+PPR1002479,Manczinger M,Manczinger,20,Unknown,Unknown,False,
+PPR1002479,Mund A,Mund,21,Unknown,Unknown,False,
+PPR1002479,Mann M,Mann,22,Unknown,Unknown,False,
+PPR1002479,Horvath P,Horvath,23,Unknown,Unknown,False,
+40240610,Rosenberger FA,Rosenberger,1,Max Planck Institute of Biochemistry,Germany,True,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. rosenberger@biochem.mpg.de."
+40240610,Mädler SC,Mädler,2,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Thorhauge KH,Thorhauge,3,Centre for Liver Research,Denmark,False,"Department of Gastroenterology and Hepatology, Centre for Liver Research, Odense, Denmark."
+40240610,Steigerwald S,Steigerwald,4,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Fromme M,Fromme,5,University Hospital RWTH,Germany,False,"Medical Clinic III, Gastroenterology, Metabolic Diseases and Intensive Care, University Hospital RWTH, AachenHealth Care Provider of the European Reference Network on Rare Liver Disorders (ERN RARE LIVER), Aachen, Germany."
+40240610,Lebedev M,Lebedev,6,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Weiss CAM,Weiss,7,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Oeller M,Oeller,8,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Wahle M,Wahle,9,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Metousis A,Metousis,10,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Zwiebel M,Zwiebel,11,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Schmacke NA,Schmacke,12,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+40240610,Detlefsen S,Detlefsen,13,University of Southern Denmark,Denmark,False,"Department of Clinical Research, Faculty of Health Sciences, University of Southern Denmark, Odense, Denmark."
+40240610,Boor P,Boor,14,Aachen University,Germany,False,"Institute of Pathology, University Hospital Aachen RWTH, Aachen University, Aachen, Germany."
+40240610,Fabián O,Fabián,15,Institute for Clinical and Experimental Medicine,Czech Republic,False,"Clinical and Transplant Pathology Centre, Institute for Clinical and Experimental Medicine, Prague, Czech Republic."
+40240610,Fraňková S,Fraňková,16,Institute for Clinical and Experimental Medicine,Czech Republic,False,"Department of Hepatogastroenterology, Institute for Clinical and Experimental Medicine, Prague, Czech Republic."
+40240610,Krag A,Krag,17,Centre for Liver Research,Denmark,False,"Department of Gastroenterology and Hepatology, Centre for Liver Research, Odense, Denmark."
+40240610,Strnad P,Strnad,18,University Hospital RWTH,Germany,False,"Medical Clinic III, Gastroenterology, Metabolic Diseases and Intensive Care, University Hospital RWTH, AachenHealth Care Provider of the European Reference Network on Rare Liver Disorders (ERN RARE LIVER), Aachen, Germany."
+40240610,Mann M,Mann,19,Max Planck Institute of Biochemistry,Germany,True,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
+40027887,Boottanun P,Boottanun,1,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+40027887,Fuseya S,Fuseya,2,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+40027887,Kuno A,Kuno,3,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+40536875,Zheng X,Zheng,1,Aarhus University,Denmark,True,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 2200 Copenhagen, Denmark; Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark. Electronic address: xiang.zheng@cpr.ku.dk."
+40536875,Mund A,Mund,2,BioInnovation Institute,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 2200 Copenhagen, Denmark; OmicVision Biosciences, BioInnovation Institute, 2200 Copenhagen, Denmark."
+40536875,Mann M,Mann,3,Max Planck Institute of Biochemistry,Germany,False,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 2200 Copenhagen, Denmark; Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Schweizer L,Schweizer,1,The University of Chicago,United States,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany; Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Kenny HA,Kenny,2,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Krishnan R,Krishnan,3,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Kelliher L,Kelliher,4,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Bilecz AJ,Bilecz,5,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Heide J,Heide,6,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Donle L,Donle,7,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Shimizu A,Shimizu,8,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Metousis A,Metousis,9,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Mendoza R,Mendoza,10,The University of Chicago,United States,False,"Department of Pathology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Nordmann TM,Nordmann,11,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Rauch S,Rauch,12,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Richter S,Richter,13,Technical University of Munich,Germany,False,"Institute of Computational Biology, Computational Health Center, Helmholtz Munich, 85764 Neuherberg, Germany; TUM School of Life Sciences Weihenstephan, Technical University of Munich, 85354 Freising, Germany."
+40578359,Li Y,Li,14,The University of Chicago,United States,False,"Center for Research Informatics, The University of Chicago, 60637 Chicago, IL, USA."
+40578359,Rosenberger FA,Rosenberger,15,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Strauss MT,Strauss,16,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40578359,Kurnit KC,Kurnit,17,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Thielert M,Thielert,18,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Rodriguez E,Rodriguez,19,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Müller-Reif JB,Müller-Reif,20,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
+40578359,Yamada SD,Yamada,21,The University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Theis FJ,Theis,22,Technical University of Munich,Germany,False,"Institute of Computational Biology, Computational Health Center, Helmholtz Munich, 85764 Neuherberg, Germany; TUM School of Life Sciences Weihenstephan, Technical University of Munich, 85354 Freising, Germany."
+40578359,Mund A,Mund,23,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark."
+40578359,Lastra RR,Lastra,24,The University of Chicago,United States,False,"Department of Pathology, The University of Chicago, Chicago, IL 60637, USA."
+40578359,Mann M,Mann,25,University of Copenhagen,Denmark,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany; Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark. Electronic address: mmann@biochem.mpg.de."
+40578359,Lengyel E,Lengyel,26,The University of Chicago,United States,True,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA. Electronic address: elengyel@uchicago.edu."
+39252972,Kabatnik S,Kabatnik,1,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39252972,Post F,Post,2,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39252972,Drici L,Drici,3,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39252972,Bartels AS,Bartels,4,University of Copenhagen,Denmark,False,"Precision Cancer Medicine Laboratory, Department of Drug Design and Pharmacology, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+39252972,Strauss MT,Strauss,5,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39252972,Zheng X,Zheng,6,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39252972,Madsen GI,Madsen,7,Odense University Hospital,Denmark,False,"Department of Pathology, Odense University Hospital, Odense, Denmark."
+39252972,Mund A,Mund,8,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+39252972,Rosenberger FA,Rosenberger,9,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+39252972,Moreira J,Moreira,10,University of Copenhagen,Denmark,False,"Precision Cancer Medicine Laboratory, Department of Drug Design and Pharmacology, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+39252972,Mann M,Mann,11,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
+PPR1051520,Valdes DS,Valdes,1,,Unknown,False,", Hypertension-mediated end organ damage Group, ,"
+PPR1051520,Nimo J,Nimo,2,,Unknown,False,", Spatial Proteomics Group, ,"
+PPR1051520,Nonn O,Nonn,3,Experimental and Clinical Research Center,Unknown,False,"Experimental and Clinical Research Center, a cooperation between the and the , ,"
+PPR1051520,Ulrich J,Ulrich,4,,Unknown,False,", Hypertension-mediated end organ damage Group, ,"
+PPR1051520,Forstner D,Forstner,5,Gottfried Schatz Research Center,Unknown,False,"Division of Cell Biology, Histology and Embryology, Gottfried Schatz Research Center, , ,"
+PPR1051520,Haider S,Haider,6,Department of Obstetrics and Gynaecology,Unknown,False,"Department of Obstetrics and Gynaecology, Reproductive Biology Unit, , ,"
+PPR1051520,Ressler M,Ressler,7,Institute of Biomedical Science,Unknown,False,"Institute of Biomedical Science, Department of Health Studies, , ,"
+PPR1051520,Pignitter M,Pignitter,8,Department of Physiological Chemistry,Unknown,False,"Department of Physiological Chemistry, Faculty of Chemistry, , ,"
+PPR1051520,Müller DN,Müller,9,,Unknown,False,", Hypertension-mediated end organ damage Group, ,"
+PPR1051520,Dechend R,Dechend,10,,Unknown,False,", Hypertension-mediated end organ damage Group, ,"
+PPR1051520,Gauster M,Gauster,11,Gottfried Schatz Research Center,Unknown,False,"Division of Cell Biology, Histology and Embryology, Gottfried Schatz Research Center, , ,"
+PPR1051520,Coscia F,Coscia,12,,Unknown,False,", Spatial Proteomics Group, ,"
+PPR1051520,Herse F,Herse,13,,Unknown,False,", Hypertension-mediated end organ damage Group, ,"
+37909047,Makhmut A,Makhmut,1,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+37909047,Qin D,Qin,2,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+37909047,Fritzsche S,Fritzsche,3,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+37909047,Nimo J,Nimo,4,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+37909047,König J,König,5,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+37909047,Coscia F,Coscia,6,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany. Electronic address: fabian.coscia@mdc-berlin.de."
+40229558,Horvath P,Horvath,1,HUN-REN,Unknown,True,"Synthetic and Systems Biology Unit, Biological Research Centre, HUN-REN, Szeged, Hungary. horvath.peter@brc.hu."
+40229558,Coscia F,Coscia,2,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany. fabian.coscia@mdc-berlin.de."
+37683827,Nordmann TM,Nordmann,1,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37683827,Schweizer L,Schweizer,2,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37683827,Metousis A,Metousis,3,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37683827,Thielert M,Thielert,4,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37683827,Rodriguez E,Rodriguez,5,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37683827,Rahbek-Gjerdrum LM,Rahbek-Gjerdrum,6,Zealand University Hospital,Denmark,False,"Department of Pathology, Zealand University Hospital, Roskilde, Denmark."
+37683827,Stadler PC,Stadler,7,University Hospital,Germany,False,"Department of Dermatology and Allergy, University Hospital, LMU Munich, Germany."
+37683827,Bzorek M,Bzorek,8,Zealand University Hospital,Denmark,False,"Department of Pathology, Zealand University Hospital, Roskilde, Denmark."
+37683827,Mund A,Mund,9,University of Copenhagen,Denmark,False,"Proteomics Program, Faculty of Health and Medical Sciences, Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen, Denmark."
+37683827,Rosenberger FA,Rosenberger,10,Max Planck Institute of Biochemistry,Germany,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. Electronic address: rosenberger@biochem.mpg.de."
+37683827,Mann M,Mann,11,University of Copenhagen,Denmark,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany; Proteomics Program, Faculty of Health and Medical Sciences, Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen, Denmark. Electronic address: mmann@biochem.mpg.de."
+39415009,Nordmann TM,Nordmann,1,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,True,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany. nordmann@biochem.mpg.de."
+39415009,Anderton H,Anderton,2,Walter and Eliza Hall Institute of Medical Research,Australia,False,"Inflammation division, Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia."
+39415009,Hasegawa A,Hasegawa,3,Niigata University Graduate School of Medical and Dental Sciences,Japan,False,"Division of Dermatology, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan."
+39415009,Schweizer L,Schweizer,4,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Zhang P,Zhang,5,The First Affiliated Hospital of Fujian Medical University,China,False,"Department of Dermatology, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China."
+39415009,Stadler PC,Stadler,6,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Sinha A,Sinha,7,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Metousis A,Metousis,8,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Rosenberger FA,Rosenberger,9,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Zwiebel M,Zwiebel,10,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Satoh TK,Satoh,11,Ludwig Maximilian University (LMU) Munich,Germany,False,"Department of Dermatology and Allergy, University Hospital, Ludwig Maximilian University (LMU) Munich, Munich, Germany."
+39415009,Anzengruber F,Anzengruber,12,University of Zurich,Switzerland,False,"Department of Dermatology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+39415009,Strauss MT,Strauss,13,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Faculty of Health and Medical Sciences, Copenhagen, Denmark."
+39415009,Tanzer MC,Tanzer,14,Walter and Eliza Hall Institute of Medical Research,Australia,False,"Inflammation division, Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia."
+39415009,Saito Y,Saito,15,Niigata University Graduate School of Medical and Dental Sciences,Japan,False,"Division of Dermatology, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan."
+39415009,Gong T,Gong,16,The First Affiliated Hospital of Fujian Medical University,China,False,"Department of Dermatology, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China."
+39415009,Thielert M,Thielert,17,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Kimura H,Kimura,18,Niigata University Graduate School of Medical and Dental Sciences,Japan,False,"Division of Dermatology, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan."
+39415009,Silke N,Silke,19,Walter and Eliza Hall Institute of Medical Research,Australia,False,"Inflammation division, Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia."
+39415009,Rodriguez EH,Rodriguez,20,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Restivo G,Restivo,21,University of Zurich,Switzerland,False,"Department of Dermatology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+39415009,Nguyen HH,Nguyen,22,Niigata University Graduate School of Medical and Dental Sciences,Japan,False,"Division of Dermatology, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan."
+39415009,Gross A,Gross,23,Max Planck Institute of Biochemistry,Germany,False,"Immunoregulation Research Group, Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Feldmeyer L,Feldmeyer,24,University of Bern,Switzerland,False,"Department of Dermatology, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+39415009,Joerg L,Joerg,25,University of Bern,Switzerland,False,"Division of Allergology and Clinical Immunology, Department of Pneumology, Allergology and Clinical Immunology, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+39415009,Levesque MP,Levesque,26,University of Zurich,Switzerland,False,"Department of Dermatology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+39415009,Murray PJ,Murray,27,Max Planck Institute of Biochemistry,Germany,False,"Immunoregulation Research Group, Max Planck Institute of Biochemistry, Martinsried, Germany."
+39415009,Ingen-Housz-Oro S,Ingen-Housz-Oro,28,Henri Mondor Hospital,France,False,"Dermatology Department, AP-HP, Henri Mondor Hospital, Créteil, France."
+39415009,Mund A,Mund,29,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Faculty of Health and Medical Sciences, Copenhagen, Denmark."
+39415009,Abe R,Abe,30,Niigata University Graduate School of Medical and Dental Sciences,Japan,False,"Division of Dermatology, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan."
+39415009,Silke J,Silke,31,Walter and Eliza Hall Institute of Medical Research,Australia,False,"Inflammation division, Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia."
+39415009,Ji C,Ji,32,The First Affiliated Hospital of Fujian Medical University,China,True,"Department of Dermatology, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China. jichaofy@fjmu.edu.cn."
+39415009,French LE,French,33,Ludwig Maximilian University (LMU) Munich,Germany,True,"Department of Dermatology and Allergy, University Hospital, Ludwig Maximilian University (LMU) Munich, Munich, Germany. Lars.French@med.uni-muenchen.de."
+39415009,Mann M,Mann,34,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,Germany,True,"Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
+38513891,Makhmut A,Makhmut,1,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+38513891,Qin D,Qin,2,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+38513891,Hartlmayr D,Hartlmayr,3,Cellenion SASU,France,False,"Cellenion SASU, Lyon, France."
+38513891,Seth A,Seth,4,Cellenion SASU,France,False,"Cellenion SASU, Lyon, France."
+38513891,Coscia F,Coscia,5,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany. Electronic address: fabian.coscia@mdc-berlin.de."
+37783884,Rosenberger FA,Rosenberger,1,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Thielert M,Thielert,2,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Strauss MT,Strauss,3,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+37783884,Schweizer L,Schweizer,4,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Ammar C,Ammar,5,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Mädler SC,Mädler,6,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Metousis A,Metousis,7,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Skowronek P,Skowronek,8,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Wahle M,Wahle,9,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Madden K,Madden,10,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Gote-Schniering J,Gote-Schniering,11,Helmholtz Munich; Member of the German Center for Lung Research (DZL),Germany,False,"Comprehensive Pneumology Center (CPC) / Institute of Lung Health and Immunity (LHI), Helmholtz Munich; Member of the German Center for Lung Research (DZL), Munich, Germany."
+37783884,Semenova A,Semenova,12,Helmholtz Munich; Member of the German Center for Lung Research (DZL),Germany,False,"Comprehensive Pneumology Center (CPC) / Institute of Lung Health and Immunity (LHI), Helmholtz Munich; Member of the German Center for Lung Research (DZL), Munich, Germany."
+37783884,Schiller HB,Schiller,13,Helmholtz Munich; Member of the German Center for Lung Research (DZL),Germany,False,"Comprehensive Pneumology Center (CPC) / Institute of Lung Health and Immunity (LHI), Helmholtz Munich; Member of the German Center for Lung Research (DZL), Munich, Germany."
+37783884,Rodriguez E,Rodriguez,14,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Nordmann TM,Nordmann,15,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37783884,Mund A,Mund,16,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+37783884,Mann M,Mann,17,Max Planck Institute of Biochemistry,Germany,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
+37602975,Thielert M,Thielert,1,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Itang EC,Itang,2,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Ammar C,Ammar,3,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Rosenberger FA,Rosenberger,4,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Bludau I,Bludau,5,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Schweizer L,Schweizer,6,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Nordmann TM,Nordmann,7,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Skowronek P,Skowronek,8,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Wahle M,Wahle,9,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Zeng WF,Zeng,10,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Zhou XX,Zhou,11,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Brunner AD,Brunner,12,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Richter S,Richter,13,Institute of Computational Biology,Germany,False,"Helmholtz Zentrum München - German Research Center for Environmental Health, Institute of Computational Biology, Neuherberg, Germany."
+37602975,Levesque MP,Levesque,14,University of Zurich Hospital,Switzerland,False,"Department of Dermatology, University of Zurich, University of Zurich Hospital, Zurich, Switzerland."
+37602975,Theis FJ,Theis,15,Institute of Computational Biology,Germany,False,"Helmholtz Zentrum München - German Research Center for Environmental Health, Institute of Computational Biology, Neuherberg, Germany."
+37602975,Steger M,Steger,16,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+37602975,Mann M,Mann,17,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+41418981,Klingeberg M,Klingeberg,1,Germany; Humboldt University of Berlin,Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany; MDC-Bruker Center of Excellence for Single Cell Omics, Berlin, Germany; Humboldt University of Berlin, Faculty of Life Science, Berlin, Germany."
+41418981,Krisp C,Krisp,2,MDC-Bruker Center of Excellence for Single Cell Omics,Germany,False,"MDC-Bruker Center of Excellence for Single Cell Omics, Berlin, Germany; Bruker Daltonik GmbH & Co KG, Bremen, Germany."
+41418981,Fritzsche S,Fritzsche,3,Germany; Humboldt University of Berlin,Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany; MDC-Bruker Center of Excellence for Single Cell Omics, Berlin, Germany; Humboldt University of Berlin, Faculty of Life Science, Berlin, Germany."
+41418981,Schallenberg S,Schallenberg,4,Institute of Pathology,Germany,False,"Institute of Pathology, Charité - Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität Berlin, Berlin, Germany."
+41418981,Hornburg D,Hornburg,5,Billerica,United States,False,"Bruker Scientific LLC, Billerica, Massachusetts, USA."
+41418981,Coscia F,Coscia,6,Germany; MDC-Bruker Center of Excellence for Single Cell Omics,Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany; MDC-Bruker Center of Excellence for Single Cell Omics, Berlin, Germany. Electronic address: fabian.coscia@mdc-berlin.de."
+35590073,Mund A,Mund,1,University of Copenhagen,Denmark,True,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark. andreas.mund@cpr.ku.dk."
+35590073,Coscia F,Coscia,2,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+35590073,Kriston A,Kriston,3,Eötvös Loránd Research Network,Unknown,False,"Synthetic and Systems Biology Unit, Biological Research Centre, Eötvös Loránd Research Network, Szeged, Hungary."
+35590073,Hollandi R,Hollandi,4,Eötvös Loránd Research Network,Unknown,False,"Synthetic and Systems Biology Unit, Biological Research Centre, Eötvös Loránd Research Network, Szeged, Hungary."
+35590073,Kovács F,Kovács,5,Eötvös Loránd Research Network,Unknown,False,"Synthetic and Systems Biology Unit, Biological Research Centre, Eötvös Loránd Research Network, Szeged, Hungary."
+35590073,Brunner AD,Brunner,6,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+35590073,Migh E,Migh,7,Eötvös Loránd Research Network,Unknown,False,"Synthetic and Systems Biology Unit, Biological Research Centre, Eötvös Loránd Research Network, Szeged, Hungary."
+35590073,Schweizer L,Schweizer,8,Max Planck Institute of Biochemistry,Germany,False,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+35590073,Santos A,Santos,9,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+35590073,Bzorek M,Bzorek,10,Zealand University Hospital,Denmark,False,"Department of Pathology, Zealand University Hospital, Roskilde, Denmark."
+35590073,Naimy S,Naimy,11,Zealand University Hospital,Denmark,False,"Department of Pathology, Zealand University Hospital, Roskilde, Denmark."
+35590073,Rahbek-Gjerdrum LM,Rahbek-Gjerdrum,12,Zealand University Hospital,Denmark,False,"Department of Pathology, Zealand University Hospital, Roskilde, Denmark."
+35590073,Dyring-Andersen B,Dyring-Andersen,13,University of Copenhagen,Denmark,False,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+35590073,Bulkescher J,Bulkescher,14,University of Copenhagen,Denmark,False,"Protein Imaging Platform, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+35590073,Lukas C,Lukas,15,University of Copenhagen,Denmark,False,"Protein Imaging Platform, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+35590073,Eckert MA,Eckert,16,University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, University of Chicago, Chicago, IL, USA."
+35590073,Lengyel E,Lengyel,17,University of Chicago,United States,False,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, University of Chicago, Chicago, IL, USA."
+35590073,Gnann C,Gnann,18,KTH - Royal Institute of Technology,Sweden,False,"Science for Life Laboratory, School of Engineering Sciences in Chemistry, Biotechnology and Health, KTH - Royal Institute of Technology, Stockholm, Sweden."
+35590073,Lundberg E,Lundberg,19,KTH - Royal Institute of Technology,Sweden,False,"Science for Life Laboratory, School of Engineering Sciences in Chemistry, Biotechnology and Health, KTH - Royal Institute of Technology, Stockholm, Sweden."
+35590073,Horvath P,Horvath,20,Eötvös Loránd Research Network,Unknown,True,"Synthetic and Systems Biology Unit, Biological Research Centre, Eötvös Loránd Research Network, Szeged, Hungary. horvath.peter@brc.hu."
+35590073,Mann M,Mann,21,University of Copenhagen,Denmark,True,"Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark. mmann@biochem.mpg.de."
+41044418,Wünnemann F,Wünnemann,1,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Sicklinger F,Sicklinger,2,University Hospital Heidelberg,Germany,False,"Department of Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany."
+41044418,Bestak K,Bestak,3,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Nimo J,Nimo,4,Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+41044418,Thiemann T,Thiemann,5,University Hospital Heidelberg,Germany,False,"Department of Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany."
+41044418,Amrute JM,Amrute,6,Washington University School of Medicine,United States,False,"Center for Cardiovascular Research, Department of Medicine, Cardiovascular Division, Washington University School of Medicine, St. Louis, MO, USA."
+41044418,Nordbeck M,Nordbeck,7,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Hartmann N,Hartmann,8,University Hospital Heidelberg,Germany,False,"Department of Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany."
+41044418,Ibarra-Arellano MA,Ibarra-Arellano,9,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Tanevski J,Tanevski,10,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Chazotte M,Chazotte,11,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Heine C,Heine,12,University Hospital Heidelberg,Germany,False,"Department of Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany."
+41044418,Frey N,Frey,13,University Hospital Heidelberg,Germany,False,"Department of Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany."
+41044418,Lavine KJ,Lavine,14,Washington University School of Medicine,United States,False,"Center for Cardiovascular Research, Department of Medicine, Cardiovascular Division, Washington University School of Medicine, St. Louis, MO, USA."
+41044418,Coscia F,Coscia,15,Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+41044418,Saez-Rodriguez J,Saez-Rodriguez,16,University Hospital Heidelberg and Heidelberg University,Germany,False,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany."
+41044418,Leuschner F,Leuschner,17,University Hospital Heidelberg,Germany,True,"Department of Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany. florian.leuschner@med.uni-heidelberg.de."
+41044418,Schapiro D,Schapiro,18,University Hospital Heidelberg and Heidelberg University,Germany,True,"Institute for Computational Biomedicine, Faculty of Medicine, University Hospital Heidelberg and Heidelberg University, Heidelberg, Germany. denis.schapiro@uni-heidelberg.de."
+PPR669390,Schmacke NA,Schmacke,1,Gene Center and Department of Biochemistry,Germany,False,"Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany"
+PPR669390,Mädler SC,Mädler,2,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany"
+PPR669390,Wallmann G,Wallmann,3,Gene Center and Department of Biochemistry,Germany,False,"Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany"
+PPR669390,Metousis A,Metousis,4,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany"
+PPR669390,Bérouti M,Bérouti,5,Gene Center and Department of Biochemistry,Germany,False,"Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany"
+PPR669390,Harz H,Harz,6,Ludwig-Maximilians-Universität München,Germany,False,"Faculty of Biology, Human Biology and Bioimaging, Ludwig-Maximilians-Universität München, Planegg-Martinsried, Germany"
+PPR669390,Leonhardt H,Leonhardt,7,Ludwig-Maximilians-Universität München,Germany,False,"Faculty of Biology, Human Biology and Bioimaging, Ludwig-Maximilians-Universität München, Planegg-Martinsried, Germany"
+PPR669390,Mann M,Mann,8,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany"
+PPR669390,Hornung V,Hornung,9,Gene Center and Department of Biochemistry,Germany,False,"Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universität München, 81377 Munich, Germany"
+41233595,Makhmut A,Makhmut,1,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+41233595,Dragomir MP,Dragomir,2,Institute of Pathology,Germany,False,"Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Pathology, Berlin, Germany."
+41233595,Fritzsche S,Fritzsche,3,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,False,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany."
+41233595,Moebs M,Moebs,4,Institute of Pathology,Germany,False,"Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Pathology, Berlin, Germany."
+41233595,Schmitt WD,Schmitt,5,Institute of Pathology,Germany,False,"Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Pathology, Berlin, Germany."
+41233595,Taube ET,Taube,6,Institute of Pathology,Germany,False,"Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Pathology, Berlin, Germany."
+41233595,Coscia F,Coscia,7,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),Germany,True,"Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany. fabian.coscia@mdc-berlin.de."
