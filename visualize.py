@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import os
 import re
+import networkx as nx
 
 def get_last_name(fullname):
     """Extracts the last name from a full name string."""
@@ -172,6 +173,111 @@ def generate_dashboard():
             "value": weight,
             "title": f"Co-authored {weight} paper(s)"
         })
+
+    # --- Export Network Data for NetworkX / Matplotlib / Seaborn ---
+    # 1. One-mode co-authorship nodes CSV
+    nodes_df_data = []
+    for n in nodes:
+        nodes_df_data.append({
+            "Id": n["id"],
+            "Label": n["label"],
+            "Publications": n["value"],
+            "Country": n["group"],
+            "Institution": author_info.get(n["id"], {}).get("institution", "Unknown")
+        })
+    pd.DataFrame(nodes_df_data).to_csv("dvp_coauthorship_nodes.csv", index=False)
+    print("Saved 'dvp_coauthorship_nodes.csv'")
+    
+    # 2. One-mode co-authorship edges CSV
+    edges_df_data = []
+    for e in edges:
+        edges_df_data.append({
+            "Source": e["from"],
+            "Target": e["to"],
+            "Weight": e["value"]
+        })
+    pd.DataFrame(edges_df_data).to_csv("dvp_coauthorship_edges.csv", index=False)
+    print("Saved 'dvp_coauthorship_edges.csv'")
+    
+    # 3. One-mode GraphML using NetworkX
+    G = nx.Graph()
+    for n in nodes_df_data:
+        G.add_node(
+            n["Id"],
+            label=n["Label"],
+            publications=int(n["Publications"]),
+            country=n["Country"],
+            institution=n["Institution"]
+        )
+    for e in edges_df_data:
+        G.add_edge(
+            e["Source"],
+            e["Target"],
+            weight=int(e["Weight"])
+        )
+    nx.write_graphml(G, "dvp_coauthorship_network.graphml")
+    print("Saved 'dvp_coauthorship_network.graphml'")
+
+    # 4. Bipartite author-paper nodes CSV
+    bipartite_nodes = []
+    # Add Author nodes
+    for n in nodes_df_data:
+        bipartite_nodes.append({
+            "Id": n["Id"],
+            "Label": n["Label"],
+            "Type": "Author",
+            "Publications": n["Publications"],
+            "Country": n["Country"],
+            "Institution": n["Institution"],
+            "Year": "",
+            "Citations": ""
+        })
+    # Add Paper nodes
+    for _, row in df_papers.iterrows():
+        pmid_str = str(row["PMID"])
+        year_val = int(row["Publication Year"]) if pd.notna(row["Publication Year"]) else 0
+        bipartite_nodes.append({
+            "Id": pmid_str,
+            "Label": row["Title"],
+            "Type": "Paper",
+            "Publications": "",
+            "Country": "",
+            "Institution": "",
+            "Year": year_val,
+            "Citations": int(row["Citations"]) if pd.notna(row["Citations"]) else 0
+        })
+    pd.DataFrame(bipartite_nodes).to_csv("dvp_bipartite_nodes.csv", index=False)
+    print("Saved 'dvp_bipartite_nodes.csv'")
+
+    # 5. Bipartite author-paper edges CSV
+    bipartite_edges = []
+    for _, row in df_authors.iterrows():
+        bipartite_edges.append({
+            "Source": row["Author Name"],
+            "Target": str(row["PMID"]),
+            "Type": "Author-Paper"
+        })
+    pd.DataFrame(bipartite_edges).to_csv("dvp_bipartite_edges.csv", index=False)
+    print("Saved 'dvp_bipartite_edges.csv'")
+
+    # 6. Bipartite GraphML using NetworkX
+    B = nx.Graph()
+    for n in bipartite_nodes:
+        B.add_node(
+            n["Id"],
+            label=n["Label"],
+            type=n["Type"],
+            bipartite=0 if n["Type"] == "Author" else 1,
+            publications=n["Publications"] if n["Publications"] != "" else 0,
+            country=n["Country"],
+            institution=n["Institution"],
+            year=n["Year"] if n["Year"] != "" else 0,
+            citations=n["Citations"] if n["Citations"] != "" else 0
+        )
+    for e in bipartite_edges:
+        B.add_edge(e["Source"], e["Target"], type=e["Type"])
+    nx.write_graphml(B, "dvp_bipartite_network.graphml")
+    print("Saved 'dvp_bipartite_network.graphml'")
 
     # --- 9. Papers & Citations List ---
     papers_list = []
@@ -654,6 +760,63 @@ def generate_dashboard():
             flex-wrap: wrap;
         }}
 
+        .btn-download {{
+            background: var(--bg-hover);
+            color: var(--text-main);
+            border: 1px solid var(--border-color);
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.2s ease;
+        }}
+        .btn-download:hover {{
+            background: var(--border-color);
+            border-color: #64748b;
+            transform: translateY(-1px);
+        }}
+        .btn-download svg {{
+            flex-shrink: 0;
+        }}
+        .dropdown {{
+            position: relative;
+            display: inline-block;
+        }}
+        .dropdown-content {{
+            display: none;
+            position: absolute;
+            right: 0;
+            background-color: var(--bg-card);
+            min-width: 240px;
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.5), 0px 4px 6px -4px rgba(0,0,0,0.5);
+            z-index: 1000;
+            margin-top: 0.25rem;
+            overflow: hidden;
+        }}
+        .dropdown-content a {{
+            color: var(--text-main);
+            padding: 0.6rem 0.85rem;
+            text-decoration: none;
+            display: block;
+            font-size: 0.8rem;
+            font-weight: 500;
+            transition: background 0.15s ease;
+            text-align: left;
+        }}
+        .dropdown-content a:hover {{
+            background-color: var(--bg-hover);
+        }}
+        .dropdown:hover .dropdown-content {{
+            display: block;
+        }}
+
         .search-input {{
             background: var(--bg-main);
             border: 1px solid var(--border-color);
@@ -783,12 +946,39 @@ def generate_dashboard():
         </div>
         <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 0.5rem;">
             <div class="last-updated">Last updated: Jun 2026</div>
-            <div style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;">
-                <label class="switch" style="position: relative; display: inline-block; width: 34px; height: 20px; margin: 0;">
-                    <input type="checkbox" id="include-preprints-toggle" style="opacity: 0; width: 0; height: 0;" onchange="drawBarTimeline()">
-                    <span class="slider round" style="position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #334155; transition: .4s; border-radius: 34px;"></span>
-                </label>
-                <span style="font-size: 0.8rem; font-weight: 600; color: #cbd5e1; user-select: none;">Include Preprints</span>
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <!-- Download Data Dropdown -->
+                <div class="dropdown">
+                    <button class="btn-download" style="padding: 0.4rem 0.8rem; font-size: 0.8rem; height: 32px;">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                        Download Data
+                    </button>
+                    <div class="dropdown-content">
+                        <div style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border-color); text-transform: uppercase; letter-spacing: 0.05em; background: rgba(0,0,0,0.2);">Scraped Databases</div>
+                        <a href="deep_visual_proteomics_papers.csv" download>Publications (CSV)</a>
+                        <a href="dvp_authors.csv" download>Authors (CSV)</a>
+                        <a href="dvp_keywords.csv" download>Keywords (CSV)</a>
+                        
+                        <div style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border-color); border-top: 1px solid var(--border-color); text-transform: uppercase; letter-spacing: 0.05em; background: rgba(0,0,0,0.2);">Co-authorship Network</div>
+                        <a href="dvp_coauthorship_nodes.csv" download>Nodes (CSV)</a>
+                        <a href="dvp_coauthorship_edges.csv" download>Edges (CSV)</a>
+                        <a href="dvp_coauthorship_network.graphml" download>Network GraphML</a>
+                        
+                        <div style="font-size: 0.7rem; font-weight: 700; color: var(--text-muted); padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border-color); border-top: 1px solid var(--border-color); text-transform: uppercase; letter-spacing: 0.05em; background: rgba(0,0,0,0.2);">Bipartite Network</div>
+                        <a href="dvp_bipartite_nodes.csv" download>Bipartite Nodes (CSV)</a>
+                        <a href="dvp_bipartite_edges.csv" download>Bipartite Edges (CSV)</a>
+                        <a href="dvp_bipartite_network.graphml" download>Bipartite GraphML</a>
+                    </div>
+                </div>
+
+                <!-- Toggle Container -->
+                <div style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;">
+                    <label class="switch" style="position: relative; display: inline-block; width: 34px; height: 20px; margin: 0;">
+                        <input type="checkbox" id="include-preprints-toggle" style="opacity: 0; width: 0; height: 0;" onchange="drawBarTimeline()">
+                        <span class="slider round" style="position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #334155; transition: .4s; border-radius: 34px;"></span>
+                    </label>
+                    <span style="font-size: 0.8rem; font-weight: 600; color: #cbd5e1; user-select: none;">Include Preprints</span>
+                </div>
             </div>
         </div>
     </header>
@@ -907,7 +1097,24 @@ def generate_dashboard():
                         </div>
 
                         <div class="sidebar-title">Geographic Legend</div>
-                        <div class="legend-list" id="country-legend"></div>
+                        <div class="legend-list" id="country-legend" style="margin-bottom: 1.5rem;"></div>
+
+                        <div class="sidebar-title">Export Graph Data</div>
+                        <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                            <div style="font-size: 0.725rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase;">Co-authorship Network</div>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;">
+                                <a href="dvp_coauthorship_nodes.csv" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Nodes CSV</a>
+                                <a href="dvp_coauthorship_edges.csv" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Edges CSV</a>
+                            </div>
+                            <a href="dvp_coauthorship_network.graphml" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Download GraphML</a>
+                            
+                            <div style="font-size: 0.725rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-top: 0.4rem;">Bipartite Network</div>
+                            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;">
+                                <a href="dvp_bipartite_nodes.csv" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Nodes CSV</a>
+                                <a href="dvp_bipartite_edges.csv" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Edges CSV</a>
+                            </div>
+                            <a href="dvp_bipartite_network.graphml" download class="btn-download" style="font-size: 0.7rem; padding: 0.35rem 0.5rem; justify-content: center;">Bipartite GraphML</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -918,6 +1125,26 @@ def generate_dashboard():
     <div id="tab-publications" class="tab-content">
         <div class="card col-12">
             <div class="card-title">Directory of Enriched DVP Publications</div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem; border-bottom: 1px solid var(--border-color); padding-bottom: 1rem;">
+                <div style="font-size: 0.85rem; color: var(--text-muted);">
+                    Explore the complete curated DVP publications dataset. You can also download the raw structured databases:
+                </div>
+                <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                    <a href="deep_visual_proteomics_papers.csv" download class="btn-download" style="font-size: 0.75rem; padding: 0.4rem 0.75rem;">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+                        Papers CSV
+                    </a>
+                    <a href="dvp_authors.csv" download class="btn-download" style="font-size: 0.75rem; padding: 0.4rem 0.75rem;">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+                        Authors CSV
+                    </a>
+                    <a href="dvp_keywords.csv" download class="btn-download" style="font-size: 0.75rem; padding: 0.4rem 0.75rem;">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+                        Keywords CSV
+                    </a>
+                </div>
+            </div>
             
             <div class="table-controls">
                 <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
@@ -1596,6 +1823,10 @@ def generate_dashboard():
     with open("dvp_dashboard.html", "w", encoding="utf-8") as f:
         f.write(html_content)
     print("Dashboard saved to 'dvp_dashboard.html'")
+
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html_content)
+    print("Dashboard saved to 'index.html' (for GitHub Pages)")
 
 if __name__ == "__main__":
     generate_dashboard()

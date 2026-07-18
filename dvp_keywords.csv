@@ -1,4 +1,18 @@
 PMID,Keyword,Source
+42440036,image registration,Author Keyword
+42440036,Open-source Software,Author Keyword
+42440036,laser capture microdissection,Author Keyword
+42440036,Spatial Biology,Author Keyword
+42440036,Deep Visual Proteomics,Author Keyword
+42381461,Humans,MeSH Term
+42381461,Pancreatic Neoplasms,MeSH Term
+42381461,Proteomics,MeSH Term
+42427344,Mass spectrometry,Author Keyword
+42427344,Laser Microdissection,Author Keyword
+42427344,Ffpe Tissue,Author Keyword
+42427344,Spatial Proteomics,Author Keyword
+42427344,Single‐cell Proteomics,Author Keyword
+42427344,Deep Visual Proteomics,Author Keyword
 40934911,Colon,Author Keyword
 40934911,Mass spectrometry,Author Keyword
 40934911,Proteomics,Author Keyword
@@ -20,13 +34,14 @@ PMID,Keyword,Source
 41629712,Immunofluorescence Staining,Author Keyword
 41629712,Tissue Proteomics,Author Keyword
 41629712,Deep Visual Proteomics,Author Keyword
+41629712,Animals,MeSH Term
 41629712,Humans,MeSH Term
+41629712,Proteome,MeSH Term
 41629712,Fluorescent Antibody Technique,MeSH Term
-41629712,"Chromatography, Liquid",MeSH Term
 41629712,Tissue Fixation,MeSH Term
 41629712,Proteomics,MeSH Term
-41629712,Mass Spectrometry,MeSH Term
 41629712,Laser Capture Microdissection,MeSH Term
+41629712,Liquid Chromatography-Mass Spectrometry,MeSH Term
 41629719,Artificial intelligence,Author Keyword
 41629719,Formalin-fixed Paraffin-embedded,Author Keyword
 41629719,laser capture microdissection,Author Keyword
@@ -35,11 +50,21 @@ PMID,Keyword,Source
 41629719,Spatial Proteomics,Author Keyword
 41629719,Deep Visual Proteomics,Author Keyword
 41629719,Humans,MeSH Term
+41629719,Staining and Labeling,MeSH Term
+41629719,Paraffin Embedding,MeSH Term
+41629719,Tissue Fixation,MeSH Term
 41629719,Proteomics,MeSH Term
 41629719,Artificial Intelligence,MeSH Term
 41629719,Mass Spectrometry,MeSH Term
 41629719,Workflow,MeSH Term
 41629719,Laser Capture Microdissection,MeSH Term
+41629719,Intelligent Systems,MeSH Term
+42013410,Humans,MeSH Term
+42013410,"Carcinoma, Pancreatic Ductal",MeSH Term
+42013410,Pancreatic Neoplasms,MeSH Term
+42013410,Proteomics,MeSH Term
+42013410,Metabolic Reprogramming,MeSH Term
+42013410,Intelligent Systems,MeSH Term
 40680990,Melanoma,Author Keyword
 40680990,Proteomics,Author Keyword
 40680990,AI,Author Keyword
@@ -83,6 +108,8 @@ PMID,Keyword,Source
 41655216,Metabolomics,MeSH Term
 41655216,Tumor Microenvironment,MeSH Term
 41655216,Proteogenomics,MeSH Term
+41655216,Multiomics,MeSH Term
+41655216,Spatial Transcriptomics,MeSH Term
 39814024,Cancer,Author Keyword
 39814024,Mass spectrometry,Author Keyword
 39814024,Immunotherapy,Author Keyword
@@ -90,8 +117,8 @@ PMID,Keyword,Source
 39814024,Multiplexed Imaging,Author Keyword
 39814024,Tumor-infiltrating Lymphocytes,Author Keyword
 39814024,Spatial Proteomics,Author Keyword
-39814024,Spatial Medicine,Author Keyword
 39814024,Deep Visual Proteomics,Author Keyword
+39814024,Spatial Medicine,Author Keyword
 39814024,"T-Lymphocytes, Cytotoxic",MeSH Term
 39814024,"Lymphocytes, Tumor-Infiltrating",MeSH Term
 39814024,Macrophages,MeSH Term
@@ -102,6 +129,30 @@ PMID,Keyword,Source
 39814024,Single-Cell Analysis,MeSH Term
 39814024,Tumor Microenvironment,MeSH Term
 39814024,Laser Capture Microdissection,MeSH Term
+40578359,Pathology,Author Keyword
+40578359,Mass spectrometry,Author Keyword
+40578359,Proteomics,Author Keyword
+40578359,Ovarian cancer,Author Keyword
+40578359,Metastasis,Author Keyword
+40578359,Transcriptomics,Author Keyword
+40578359,Borderline Tumor,Author Keyword
+40578359,Low-grade Serous Cancer,Author Keyword
+40578359,Deep Visual Proteomics,Author Keyword
+40578359,"Cell Line, Tumor",MeSH Term
+40578359,Animals,MeSH Term
+40578359,Humans,MeSH Term
+40578359,Mice,MeSH Term
+40578359,"Cystadenocarcinoma, Serous",MeSH Term
+40578359,Ovarian Neoplasms,MeSH Term
+40578359,Neoplasm Invasiveness,MeSH Term
+40578359,Disease Progression,MeSH Term
+40578359,Gene Expression Profiling,MeSH Term
+40578359,Proteomics,MeSH Term
+40578359,"Gene Expression Regulation, Neoplastic",MeSH Term
+40578359,Female,MeSH Term
+40578359,Tumor Microenvironment,MeSH Term
+40578359,Transcriptome,MeSH Term
+40578359,"Carcinoma, Ovarian Epithelial",MeSH Term
 41721135,Liver,MeSH Term
 41721135,Hepatocytes,MeSH Term
 41721135,Animals,MeSH Term
@@ -109,7 +160,6 @@ PMID,Keyword,Source
 41721135,Mice,MeSH Term
 41721135,Proteome,MeSH Term
 41721135,Proteomics,MeSH Term
-41721135,Female,MeSH Term
 41721135,Male,MeSH Term
 41721135,Single-Cell Analysis,MeSH Term
 40240610,Liver,MeSH Term
@@ -145,30 +195,6 @@ PMID,Keyword,Source
 40536875,Single-Cell Analysis,MeSH Term
 40536875,Tumor Microenvironment,MeSH Term
 40536875,Laser Capture Microdissection,MeSH Term
-40578359,Pathology,Author Keyword
-40578359,Mass spectrometry,Author Keyword
-40578359,Proteomics,Author Keyword
-40578359,Ovarian cancer,Author Keyword
-40578359,Metastasis,Author Keyword
-40578359,Transcriptomics,Author Keyword
-40578359,Borderline Tumor,Author Keyword
-40578359,Low-grade Serous Cancer,Author Keyword
-40578359,Deep Visual Proteomics,Author Keyword
-40578359,"Cell Line, Tumor",MeSH Term
-40578359,Animals,MeSH Term
-40578359,Humans,MeSH Term
-40578359,Mice,MeSH Term
-40578359,"Cystadenocarcinoma, Serous",MeSH Term
-40578359,Ovarian Neoplasms,MeSH Term
-40578359,Neoplasm Invasiveness,MeSH Term
-40578359,Disease Progression,MeSH Term
-40578359,Gene Expression Profiling,MeSH Term
-40578359,Proteomics,MeSH Term
-40578359,"Gene Expression Regulation, Neoplastic",MeSH Term
-40578359,Female,MeSH Term
-40578359,Tumor Microenvironment,MeSH Term
-40578359,Transcriptome,MeSH Term
-40578359,"Carcinoma, Ovarian Epithelial",MeSH Term
 39252972,Artificial intelligence,Author Keyword
 39252972,Cancer,Author Keyword
 39252972,Proteomics,Author Keyword
@@ -274,11 +300,11 @@ PMID,Keyword,Source
 41418981,Ffpe,Author Keyword
 41418981,automation,Author Keyword
 41418981,Spatial Proteomics,Author Keyword
-41418981,Evosep One,Author Keyword
-41418981,Whisper Zoom,Author Keyword
-41418981,Timsultra,Author Keyword
 41418981,Diapasef,Author Keyword
 41418981,Cellenone,Author Keyword
+41418981,Whisper Zoom,Author Keyword
+41418981,Timsultra,Author Keyword
+41418981,Evosep One,Author Keyword
 41418981,Liver,MeSH Term
 41418981,Animals,MeSH Term
 41418981,Humans,MeSH Term
