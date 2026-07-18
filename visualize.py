@@ -797,7 +797,8 @@ def generate_dashboard():
             border-radius: 0.5rem;
             box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.5), 0px 4px 6px -4px rgba(0,0,0,0.5);
             z-index: 1000;
-            margin-top: 0.25rem;
+            margin-top: 0;
+            padding-top: 4px;
             overflow: hidden;
         }}
         .dropdown-content a {{
@@ -1013,6 +1014,7 @@ def generate_dashboard():
         <button class="tab-btn" onclick="switchTab('tab-journals-geography')">Journals & Geography</button>
         <button class="tab-btn" onclick="switchTab('tab-network')">Collaborator Network</button>
         <button class="tab-btn" onclick="switchTab('tab-publications')">Publications Directory</button>
+        <button class="tab-btn" onclick="switchTab('tab-how-it-works')">How This Works</button>
     </div>
 
     <!-- TAB 1: OVERVIEW & TIMELINE -->
@@ -1087,8 +1089,8 @@ def generate_dashboard():
                         <div class="sidebar-title">Name Visibility</div>
                         <div style="display: flex; flex-direction: column; gap: 0.4rem;">
                             <div style="display: flex; justify-content: space-between; font-size: 0.725rem; color: var(--text-muted);">
-                                <span>Show more names</span>
-                                <span>Show key hubs</span>
+                                <span style="cursor: pointer; user-select: none;" onmouseover="this.style.color='var(--text-main)'" onmouseout="this.style.color='var(--text-muted)'" onclick="document.getElementById('network-threshold-slider').value = 2; updateNameThreshold();">Show more names</span>
+                                <span style="cursor: pointer; user-select: none;" onmouseover="this.style.color='var(--text-main)'" onmouseout="this.style.color='var(--text-muted)'" onclick="document.getElementById('network-threshold-slider').value = 15; updateNameThreshold();">Show key hubs</span>
                             </div>
                             <input type="range" id="network-threshold-slider" min="2" max="15" value="10" class="slider" oninput="updateNameThreshold()">
                             <div style="font-size: 0.725rem; text-align: center; color: var(--text-muted);">
@@ -1177,6 +1179,80 @@ def generate_dashboard():
                         <!-- Filled by JS -->
                     </tbody>
                 </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- TAB 6: HOW THIS WORKS -->
+    <div id="tab-how-it-works" class="tab-content">
+        <div class="card col-12" style="line-height: 1.6;">
+            <div class="card-title">How the DVP Publication Dashboard Works</div>
+            
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: var(--accent-blue); margin-bottom: 0.75rem; font-size: 1.2rem;">Pipeline Overview</h3>
+                <p style="color: var(--text-muted); margin-bottom: 1rem;">
+                    This platform Curates and visualizes publications related to <strong>Deep Visual Proteomics (DVP)</strong>. The pipeline runs in Python, fetching the latest publications from the Europe PMC API (which indexes PubMed, PMC, bioRxiv, and medRxiv), filtering them for relevance, resolving preprints, and generating this interactive dashboard.
+                </p>
+                <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--border-color); border-radius: 0.75rem; padding: 1.25rem; margin-bottom: 1.5rem;">
+                    <h4 style="font-size: 0.95rem; margin-bottom: 0.5rem; color: var(--text-main);">Pipeline Architecture:</h4>
+                    <ul style="list-style-type: disc; margin-left: 1.5rem; color: var(--text-muted); font-size: 0.85rem; display: flex; flex-direction: column; gap: 0.4rem;">
+                        <li><strong>Scraping & Ingestion:</strong> Queries the Europe PMC REST API for publications matching the phrase <code>"Deep Visual Proteomics"</code>.</li>
+                        <li><strong>Relevance Filtering:</strong> Performs two-stage NLP text matching (on titles, abstracts, and MeSH terms) to ensure only papers directly related to DVP are included.</li>
+                        <li><strong>Preprint Matching & De-duplication:</strong> Cross-references preprint metadata (from bioRxiv/medRxiv) with peer-reviewed publications. When a peer-reviewed version becomes available, the records are merged, attributing citations to the final peer-reviewed publication.</li>
+                        <li><strong>Network Analysis:</strong> Computes collaborator (one-mode) and author-paper (bipartite) networks, exporting them for analysis.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: var(--accent-blue); margin-bottom: 0.75rem; font-size: 1.2rem;">Europe PMC / PubMed Search & Filtering Criteria</h3>
+                <p style="color: var(--text-muted); margin-bottom: 1rem;">
+                    To filter out generic publications while capturing all relevant DVP literature, the pipeline uses a strict two-part relevance filter. A publication is included if it meets <strong>either</strong> of the following criteria:
+                </p>
+                
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+                    <div style="background: rgba(59, 130, 246, 0.05); border: 1px solid rgba(59, 130, 246, 0.2); border-radius: 0.75rem; padding: 1.25rem;">
+                        <h4 style="color: var(--accent-blue); margin-bottom: 0.5rem; font-size: 0.95rem; display: flex; align-items: center; gap: 0.35rem;">
+                            <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-blue);"></span>
+                            1. Direct Text Match
+                        </h4>
+                        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.5;">
+                            The publication contains any of the following terms (case-insensitive, regex word boundary) in its title, abstract, keyword list, or MeSH terms:
+                        </p>
+                        <code style="display: block; background: #0f172a; border: 1px solid var(--border-color); border-radius: 0.4rem; padding: 0.5rem; margin-top: 0.5rem; font-size: 0.8rem; color: var(--accent-pink); font-family: monospace;">
+                            "Deep Visual Proteomics" OR "scDVP" OR "mipDVP"
+                        </code>
+                    </div>
+                    <div style="background: rgba(168, 85, 247, 0.05); border: 1px solid rgba(168, 85, 247, 0.2); border-radius: 0.75rem; padding: 1.25rem;">
+                        <h4 style="color: var(--accent-purple); margin-bottom: 0.5rem; font-size: 0.95rem; display: flex; align-items: center; gap: 0.35rem;">
+                            <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-purple);"></span>
+                            2. Core Author + Spatial Context Match
+                        </h4>
+                        <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.5;">
+                            The publication includes at least one <strong>core DVP pioneer/author</strong>:
+                            <br><code style="color: var(--accent-green); font-family: monospace; font-size: 0.775rem;">Mann, Coscia, Mund, Makhmut, or Brunner</code>
+                            <br><strong style="color: var(--text-main);">AND</strong> contains at least one <strong>spatial proteomics keyword</strong> in the title or abstract:
+                            <br><code style="color: var(--accent-yellow); font-family: monospace; font-size: 0.775rem;">"spatial proteomics", "single-cell proteomics", "laser microdissection", "laser-capture microdissection", or "cellenone"</code>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3 style="color: var(--accent-blue); margin-bottom: 0.75rem; font-size: 1.2rem;">Improve the Search Criteria & Comment</h3>
+                <p style="color: var(--text-muted); margin-bottom: 1.25rem;">
+                    Since DVP is an actively evolving field, the search query and relevance filters can be continuously improved. If you notice missing publications or have suggestions to refine the keywords, authors, or filtering logic, please contribute!
+                </p>
+                <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                    <a href="https://github.com/josenimo/DVP-dashboard/issues/new?title=Query+Improvement+Suggestion&body=Please+describe+the+proposed+keywords,+authors,+or+filtering+changes+here." target="_blank" class="btn-download" style="background: var(--accent-blue); border-color: var(--accent-blue); color: #fff; padding: 0.6rem 1.2rem; font-size: 0.85rem;">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 0.25rem;"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                        Submit a Query Suggestion (GitHub Issue)
+                    </a>
+                    <a href="https://github.com/josenimo/DVP-dashboard/blob/main/main.py" target="_blank" class="btn-download" style="padding: 0.6rem 1.2rem; font-size: 0.85rem;">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 0.25rem;"><path d="M16 18L22 12L16 6M8 6L2 12L8 18"></path></svg>
+                        View Source Code on GitHub
+                    </a>
+                </div>
             </div>
         </div>
     </div>
