@@ -3230,16 +3230,6 @@
       <data key="d6">2025</data>
       <data key="d7">2</data>
     </node>
-    <node id="40675342">
-      <data key="d0">Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">0</data>
-    </node>
     <node id="41629712">
       <data key="d0">Immunofluorescence Imaging-Guided Laser Microdissection for Ultralow Input Spatial Tissue Proteomics</data>
       <data key="d1">Paper</data>
@@ -3248,6 +3238,16 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="40675342">
+      <data key="d0">Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
       <data key="d7">0</data>
     </node>
     <node id="40360936">
@@ -3298,7 +3298,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">1</data>
+      <data key="d7">2</data>
     </node>
     <node id="41655216">
       <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
@@ -3390,16 +3390,6 @@
       <data key="d6">2024</data>
       <data key="d7">8</data>
     </node>
-    <node id="37909047">
-      <data key="d0">A framework for ultra-low-input spatial tissue proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2023</data>
-      <data key="d7">40</data>
-    </node>
     <node id="40229558">
       <data key="d0">Spatial proteomics in translational and clinical research</data>
       <data key="d1">Paper</data>
@@ -3409,6 +3399,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">16</data>
+    </node>
+    <node id="37909047">
+      <data key="d0">A framework for ultra-low-input spatial tissue proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2023</data>
+      <data key="d7">40</data>
     </node>
     <node id="37683827">
       <data key="d0">A Standardized and Reproducible Workflow for Membrane Glass Slides in Routine Histology and Spatial Proteomics</data>
@@ -3540,16 +3540,6 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
-    <node id="PPR1068194">
-      <data key="d0">Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">0</data>
-    </node>
     <node id="PPR1052391">
       <data key="d0">OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics</data>
       <data key="d1">Paper</data>
@@ -3559,6 +3549,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">1</data>
+    </node>
+    <node id="PPR1068194">
+      <data key="d0">Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">0</data>
     </node>
     <node id="PPR1029109">
       <data key="d0">nanoPhos enables ultra-sensitive and cell-type resolved spatial phosphoproteomics</data>
@@ -3608,7 +3608,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">6</data>
+      <data key="d7">7</data>
     </node>
     <edge source="Abe R" target="39415009">
       <data key="d8">Author-Paper</data>
@@ -3751,10 +3751,10 @@
     <edge source="Coscia F" target="PPR1051520">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Coscia F" target="37909047">
+    <edge source="Coscia F" target="40229558">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Coscia F" target="40229558">
+    <edge source="Coscia F" target="37909047">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Coscia F" target="38513891">
@@ -4264,16 +4264,16 @@
     <edge source="Mann M" target="PPR1029109">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="PPR866889">
-      <data key="d8">Author-Paper</data>
-    </edge>
     <edge source="Mann M" target="39910169">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="PPR1002479">
+    <edge source="Mann M" target="PPR866889">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mann M" target="41721135">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Mann M" target="PPR1002479">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mann M" target="40240610">
@@ -5002,10 +5002,10 @@
     <edge source="Zheng X" target="39814024">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Zheng X" target="PPR866889">
+    <edge source="Zheng X" target="39910169">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Zheng X" target="39910169">
+    <edge source="Zheng X" target="PPR866889">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Zheng X" target="40536875">

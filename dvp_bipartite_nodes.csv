@@ -321,13 +321,13 @@ von Scheidt M,von Scheidt M,Author,1,Germany,Max Planck Institute of Biochemistr
 42381461,Spatially Resolved Proteomic Cartography Illuminates the Earliest Molecular Programs in Pancreatic Cancer Evolution,Paper,,,,2026,0
 42427344,A guide to laser microdissection-based proteomics,Paper,,,,2026,0
 40934911,Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids,Paper,,,,2025,2
-40675342,Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics,Paper,,,,2025,0
 41629712,Immunofluorescence Imaging-Guided Laser Microdissection for Ultralow Input Spatial Tissue Proteomics,Paper,,,,2026,0
+40675342,Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics,Paper,,,,2025,0
 40360936,Deep Visual Proteomics elucidates α1-antitrypsin deficiency,Paper,,,,2025,0
 41629719,Artificial Intelligence-Driven Laser Capture Microdissection,Paper,,,,2026,0
 42013410,AI-Powered Deep Visual Proteomics Reveals Critical Molecular Transitions in Pancreatic Cancer Precursors,Paper,,,,2026,0
 40680990,"A perspective on integrating digital pathology, proteomics, clinical data and AI analytics in cancer research",Paper,,,,2025,0
-41965357,Deep visual proteomics uncovers nociceptor diversity and pain targets,Paper,,,,2026,1
+41965357,Deep visual proteomics uncovers nociceptor diversity and pain targets,Paper,,,,2026,2
 41655216,Integrating Spatial Proteogenomics in Cancer Research,Paper,,,,2026,0
 39814024,Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics,Paper,,,,2025,20
 40578359,Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression,Paper,,,,2025,14
@@ -337,8 +337,8 @@ von Scheidt M,von Scheidt M,Author,1,Germany,Max Planck Institute of Biochemistr
 40027887,Toward spatial glycomics and glycoproteomics: Innovations and applications,Paper,,,,2025,8
 40536875,Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics,Paper,,,,2025,0
 39252972,Spatial characterization and stratification of colorectal adenomas by deep visual proteomics,Paper,,,,2024,8
-37909047,A framework for ultra-low-input spatial tissue proteomics,Paper,,,,2023,40
 40229558,Spatial proteomics in translational and clinical research,Paper,,,,2025,16
+37909047,A framework for ultra-low-input spatial tissue proteomics,Paper,,,,2023,40
 37683827,A Standardized and Reproducible Workflow for Membrane Glass Slides in Routine Histology and Spatial Proteomics,Paper,,,,2023,10
 39415009,Spatial proteomics identifies JAKi as treatment for a lethal skin disease,Paper,,,,2024,95
 38513891,An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics,Paper,,,,2024,18
@@ -352,10 +352,10 @@ PPR1281006,Deep Visual Proteomics links vascular smooth muscle cell phenotypes t
 PPR1277341,Cell-type-resolved spatial proteogenomics from matched genome and proteome of the same cells,Paper,,,,2026,0
 PPR1242524,A cell type-resolved proteomic atlas of the human body,Paper,,,,2026,0
 PPR1010749,Multiplexed Deep Visual Proteomics Unveils Spatial Heterogeneity and Rare Endocrine States in Human Adult Pancreatic Islets,Paper,,,,2025,3
-PPR1068194,Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival,Paper,,,,2025,0
 PPR1052391,OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics,Paper,,,,2025,1
+PPR1068194,Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival,Paper,,,,2025,0
 PPR1029109,nanoPhos enables ultra-sensitive and cell-type resolved spatial phosphoproteomics,Paper,,,,2025,5
 PPR866889,Deep Visual Proteomics Unveils Precision Medicine Insights in Composite Small Lymphocytic and Classical Hodgkin Lymphoma,Paper,,,,2024,1
 PPR1002479,A Morpho-Proteomic Atlas of Mitosis at Sub-Minute Resolution,Paper,,,,2025,1
 PPR1051520,Maternal smoking in early pregnancy disrupts placental function through syncytiotrophoblast and macrophage dysregulation,Paper,,,,2025,0
-PPR669390,"SPARCS, a platform for genome-scale CRISPR screening for spatial cellular phenotypes",Paper,,,,2023,6
+PPR669390,"SPARCS, a platform for genome-scale CRISPR screening for spatial cellular phenotypes",Paper,,,,2023,7
