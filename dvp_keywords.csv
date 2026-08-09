@@ -59,6 +59,12 @@ PMID,Keyword,Source
 41629719,Workflow,MeSH Term
 41629719,Laser Capture Microdissection,MeSH Term
 41629719,Intelligent Systems,MeSH Term
+42013410,Humans,MeSH Term
+42013410,"Carcinoma, Pancreatic Ductal",MeSH Term
+42013410,Pancreatic Neoplasms,MeSH Term
+42013410,Proteomics,MeSH Term
+42013410,Metabolic Reprogramming,MeSH Term
+42013410,Intelligent Systems,MeSH Term
 40680990,Melanoma,Author Keyword
 40680990,Proteomics,Author Keyword
 40680990,AI,Author Keyword
@@ -78,31 +84,6 @@ PMID,Keyword,Source
 40680990,Tumor Microenvironment,MeSH Term
 40680990,"Biomarkers, Tumor",MeSH Term
 40680990,Precision Medicine,MeSH Term
-42013410,Humans,MeSH Term
-42013410,"Carcinoma, Pancreatic Ductal",MeSH Term
-42013410,Pancreatic Neoplasms,MeSH Term
-42013410,Proteomics,MeSH Term
-42013410,Metabolic Reprogramming,MeSH Term
-42013410,Intelligent Systems,MeSH Term
-39814024,Cancer,Author Keyword
-39814024,Mass spectrometry,Author Keyword
-39814024,Immunotherapy,Author Keyword
-39814024,Tumor Microenvironment,Author Keyword
-39814024,Multiplexed Imaging,Author Keyword
-39814024,Tumor-infiltrating Lymphocytes,Author Keyword
-39814024,Spatial Proteomics,Author Keyword
-39814024,Deep Visual Proteomics,Author Keyword
-39814024,Spatial Medicine,Author Keyword
-39814024,"T-Lymphocytes, Cytotoxic",MeSH Term
-39814024,"Lymphocytes, Tumor-Infiltrating",MeSH Term
-39814024,Macrophages,MeSH Term
-39814024,Humans,MeSH Term
-39814024,Colorectal Neoplasms,MeSH Term
-39814024,Immunotherapy,MeSH Term
-39814024,Proteomics,MeSH Term
-39814024,Single-Cell Analysis,MeSH Term
-39814024,Tumor Microenvironment,MeSH Term
-39814024,Laser Capture Microdissection,MeSH Term
 41965357,"Ganglia, Spinal",MeSH Term
 41965357,Nociceptors,MeSH Term
 41965357,Animals,MeSH Term
@@ -129,6 +110,25 @@ PMID,Keyword,Source
 41655216,Proteogenomics,MeSH Term
 41655216,Multiomics,MeSH Term
 41655216,Spatial Transcriptomics,MeSH Term
+39814024,Cancer,Author Keyword
+39814024,Mass spectrometry,Author Keyword
+39814024,Immunotherapy,Author Keyword
+39814024,Tumor Microenvironment,Author Keyword
+39814024,Multiplexed Imaging,Author Keyword
+39814024,Tumor-infiltrating Lymphocytes,Author Keyword
+39814024,Spatial Proteomics,Author Keyword
+39814024,Deep Visual Proteomics,Author Keyword
+39814024,Spatial Medicine,Author Keyword
+39814024,"T-Lymphocytes, Cytotoxic",MeSH Term
+39814024,"Lymphocytes, Tumor-Infiltrating",MeSH Term
+39814024,Macrophages,MeSH Term
+39814024,Humans,MeSH Term
+39814024,Colorectal Neoplasms,MeSH Term
+39814024,Immunotherapy,MeSH Term
+39814024,Proteomics,MeSH Term
+39814024,Single-Cell Analysis,MeSH Term
+39814024,Tumor Microenvironment,MeSH Term
+39814024,Laser Capture Microdissection,MeSH Term
 40578359,Pathology,Author Keyword
 40578359,Mass spectrometry,Author Keyword
 40578359,Proteomics,Author Keyword
@@ -228,24 +228,6 @@ PMID,Keyword,Source
 37683827,Workflow,MeSH Term
 37683827,Single-Cell Analysis,MeSH Term
 37683827,Laser Capture Microdissection,MeSH Term
-38513891,LC-MS,Author Keyword
-38513891,Ffpe,Author Keyword
-38513891,Tissue Proteomics,Author Keyword
-38513891,Ultrasensitive,Author Keyword
-38513891,Spatial Proteomics,Author Keyword
-38513891,Low-input,Author Keyword
-38513891,Timstof,Author Keyword
-38513891,Cellenone,Author Keyword
-38513891,B-Lymphocytes,MeSH Term
-38513891,T-Lymphocytes,MeSH Term
-38513891,Humans,MeSH Term
-38513891,Proteome,MeSH Term
-38513891,Proteomics,MeSH Term
-38513891,Automation,MeSH Term
-38513891,Mass Spectrometry,MeSH Term
-38513891,Palatine Tonsil,MeSH Term
-38513891,Workflow,MeSH Term
-38513891,Laser Capture Microdissection,MeSH Term
 39415009,Keratinocytes,MeSH Term
 39415009,Skin,MeSH Term
 39415009,Animals,MeSH Term
@@ -275,6 +257,24 @@ PMID,Keyword,Source
 39415009,Molecular Targeted Therapy,MeSH Term
 39415009,Single-Cell Analysis,MeSH Term
 39415009,Janus Kinase Inhibitors,MeSH Term
+38513891,LC-MS,Author Keyword
+38513891,Ffpe,Author Keyword
+38513891,Tissue Proteomics,Author Keyword
+38513891,Ultrasensitive,Author Keyword
+38513891,Spatial Proteomics,Author Keyword
+38513891,Low-input,Author Keyword
+38513891,Timstof,Author Keyword
+38513891,Cellenone,Author Keyword
+38513891,B-Lymphocytes,MeSH Term
+38513891,T-Lymphocytes,MeSH Term
+38513891,Humans,MeSH Term
+38513891,Proteome,MeSH Term
+38513891,Proteomics,MeSH Term
+38513891,Automation,MeSH Term
+38513891,Mass Spectrometry,MeSH Term
+38513891,Palatine Tonsil,MeSH Term
+38513891,Workflow,MeSH Term
+38513891,Laser Capture Microdissection,MeSH Term
 37783884,Animals,MeSH Term
 37783884,Mice,MeSH Term
 37783884,Proteome,MeSH Term
