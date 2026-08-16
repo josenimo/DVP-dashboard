@@ -228,6 +228,46 @@ PMID,Keyword,Source
 37683827,Workflow,MeSH Term
 37683827,Single-Cell Analysis,MeSH Term
 37683827,Laser Capture Microdissection,MeSH Term
+41418981,Liver,Author Keyword
+41418981,Squamous cell carcinoma,Author Keyword
+41418981,Tonsil,Author Keyword
+41418981,Tissue Profiling,Author Keyword
+41418981,Ffpe,Author Keyword
+41418981,automation,Author Keyword
+41418981,Spatial Proteomics,Author Keyword
+41418981,Diapasef,Author Keyword
+41418981,Cellenone,Author Keyword
+41418981,Evosep One,Author Keyword
+41418981,Whisper Zoom,Author Keyword
+41418981,Timsultra,Author Keyword
+41418981,Liver,MeSH Term
+41418981,Animals,MeSH Term
+41418981,Humans,MeSH Term
+41418981,Mice,MeSH Term
+41418981,"Carcinoma, Squamous Cell",MeSH Term
+41418981,Head and Neck Neoplasms,MeSH Term
+41418981,Proteome,MeSH Term
+41418981,Proteomics,MeSH Term
+41418981,Palatine Tonsil,MeSH Term
+41418981,Workflow,MeSH Term
+38513891,LC-MS,Author Keyword
+38513891,Ffpe,Author Keyword
+38513891,Tissue Proteomics,Author Keyword
+38513891,Ultrasensitive,Author Keyword
+38513891,Spatial Proteomics,Author Keyword
+38513891,Low-input,Author Keyword
+38513891,Timstof,Author Keyword
+38513891,Cellenone,Author Keyword
+38513891,B-Lymphocytes,MeSH Term
+38513891,T-Lymphocytes,MeSH Term
+38513891,Humans,MeSH Term
+38513891,Proteome,MeSH Term
+38513891,Proteomics,MeSH Term
+38513891,Automation,MeSH Term
+38513891,Mass Spectrometry,MeSH Term
+38513891,Palatine Tonsil,MeSH Term
+38513891,Workflow,MeSH Term
+38513891,Laser Capture Microdissection,MeSH Term
 39415009,Keratinocytes,MeSH Term
 39415009,Skin,MeSH Term
 39415009,Animals,MeSH Term
@@ -257,24 +297,6 @@ PMID,Keyword,Source
 39415009,Molecular Targeted Therapy,MeSH Term
 39415009,Single-Cell Analysis,MeSH Term
 39415009,Janus Kinase Inhibitors,MeSH Term
-38513891,LC-MS,Author Keyword
-38513891,Ffpe,Author Keyword
-38513891,Tissue Proteomics,Author Keyword
-38513891,Ultrasensitive,Author Keyword
-38513891,Spatial Proteomics,Author Keyword
-38513891,Low-input,Author Keyword
-38513891,Timstof,Author Keyword
-38513891,Cellenone,Author Keyword
-38513891,B-Lymphocytes,MeSH Term
-38513891,T-Lymphocytes,MeSH Term
-38513891,Humans,MeSH Term
-38513891,Proteome,MeSH Term
-38513891,Proteomics,MeSH Term
-38513891,Automation,MeSH Term
-38513891,Mass Spectrometry,MeSH Term
-38513891,Palatine Tonsil,MeSH Term
-38513891,Workflow,MeSH Term
-38513891,Laser Capture Microdissection,MeSH Term
 37783884,Animals,MeSH Term
 37783884,Mice,MeSH Term
 37783884,Proteome,MeSH Term
@@ -293,28 +315,6 @@ PMID,Keyword,Source
 37602975,Proteomics,MeSH Term
 37602975,Tumor Microenvironment,MeSH Term
 37602975,Precision Medicine,MeSH Term
-41418981,Liver,Author Keyword
-41418981,Squamous cell carcinoma,Author Keyword
-41418981,Tonsil,Author Keyword
-41418981,Tissue Profiling,Author Keyword
-41418981,Ffpe,Author Keyword
-41418981,automation,Author Keyword
-41418981,Spatial Proteomics,Author Keyword
-41418981,Diapasef,Author Keyword
-41418981,Cellenone,Author Keyword
-41418981,Evosep One,Author Keyword
-41418981,Whisper Zoom,Author Keyword
-41418981,Timsultra,Author Keyword
-41418981,Liver,MeSH Term
-41418981,Animals,MeSH Term
-41418981,Humans,MeSH Term
-41418981,Mice,MeSH Term
-41418981,"Carcinoma, Squamous Cell",MeSH Term
-41418981,Head and Neck Neoplasms,MeSH Term
-41418981,Proteome,MeSH Term
-41418981,Proteomics,MeSH Term
-41418981,Palatine Tonsil,MeSH Term
-41418981,Workflow,MeSH Term
 35590073,Humans,MeSH Term
 35590073,Melanoma,MeSH Term
 35590073,Proteome,MeSH Term

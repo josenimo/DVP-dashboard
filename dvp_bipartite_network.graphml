@@ -3228,7 +3228,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">2</data>
+      <data key="d7">7</data>
     </node>
     <node id="40675342">
       <data key="d0">Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics</data>
@@ -3348,7 +3348,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">5</data>
+      <data key="d7">10</data>
     </node>
     <node id="40240610">
       <data key="d0">Deep Visual Proteomics maps proteotoxicity in a genetic liver disease</data>
@@ -3420,15 +3420,15 @@
       <data key="d6">2023</data>
       <data key="d7">10</data>
     </node>
-    <node id="39415009">
-      <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
+    <node id="41418981">
+      <data key="d0">An Ultrasensitive Spatial Tissue Proteomics Workflow Exceeding 100 Proteomes Per Day</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
       <data key="d4" />
       <data key="d5" />
-      <data key="d6">2024</data>
-      <data key="d7">95</data>
+      <data key="d6">2026</data>
+      <data key="d7">3</data>
     </node>
     <node id="38513891">
       <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
@@ -3439,6 +3439,16 @@
       <data key="d5" />
       <data key="d6">2024</data>
       <data key="d7">18</data>
+    </node>
+    <node id="39415009">
+      <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2024</data>
+      <data key="d7">101</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
@@ -3459,16 +3469,6 @@
       <data key="d5" />
       <data key="d6">2023</data>
       <data key="d7">85</data>
-    </node>
-    <node id="41418981">
-      <data key="d0">An Ultrasensitive Spatial Tissue Proteomics Workflow Exceeding 100 Proteomes Per Day</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">3</data>
     </node>
     <node id="35590073">
       <data key="d0">Deep Visual Proteomics defines single-cell identity and heterogeneity</data>
@@ -3757,10 +3757,10 @@
     <edge source="Coscia F" target="40229558">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Coscia F" target="38513891">
+    <edge source="Coscia F" target="41418981">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Coscia F" target="41418981">
+    <edge source="Coscia F" target="38513891">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Coscia F" target="35590073">
