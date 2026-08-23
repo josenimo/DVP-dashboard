@@ -3248,7 +3248,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">0</data>
+      <data key="d7">1</data>
     </node>
     <node id="40360936">
       <data key="d0">Deep Visual Proteomics elucidates α1-antitrypsin deficiency</data>
@@ -3288,17 +3288,17 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">0</data>
+      <data key="d7">3</data>
     </node>
-    <node id="41965357">
-      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
+    <node id="39814024">
+      <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
       <data key="d4" />
       <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">2</data>
+      <data key="d6">2025</data>
+      <data key="d7">30</data>
     </node>
     <node id="41655216">
       <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
@@ -3310,15 +3310,15 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
-    <node id="39814024">
-      <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
+    <node id="41965357">
+      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
       <data key="d4" />
       <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">20</data>
+      <data key="d6">2026</data>
+      <data key="d7">2</data>
     </node>
     <node id="40578359">
       <data key="d0">Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression</data>
@@ -3338,7 +3338,17 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">6</data>
+      <data key="d7">7</data>
+    </node>
+    <node id="40027887">
+      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">14</data>
     </node>
     <node id="41721135">
       <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
@@ -3358,17 +3368,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">31</data>
-    </node>
-    <node id="40027887">
-      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">8</data>
+      <data key="d7">40</data>
     </node>
     <node id="40536875">
       <data key="d0">Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics</data>
@@ -3388,7 +3388,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2024</data>
-      <data key="d7">13</data>
+      <data key="d7">14</data>
     </node>
     <node id="37909047">
       <data key="d0">A framework for ultra-low-input spatial tissue proteomics</data>
@@ -3398,7 +3398,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">40</data>
+      <data key="d7">57</data>
     </node>
     <node id="40229558">
       <data key="d0">Spatial proteomics in translational and clinical research</data>
@@ -3408,7 +3408,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">16</data>
+      <data key="d7">19</data>
     </node>
     <node id="37683827">
       <data key="d0">A Standardized and Reproducible Workflow for Membrane Glass Slides in Routine Histology and Spatial Proteomics</data>
@@ -3418,7 +3418,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">10</data>
+      <data key="d7">12</data>
     </node>
     <node id="41418981">
       <data key="d0">An Ultrasensitive Spatial Tissue Proteomics Workflow Exceeding 100 Proteomes Per Day</data>
@@ -3438,7 +3438,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2024</data>
-      <data key="d7">18</data>
+      <data key="d7">21</data>
     </node>
     <node id="39415009">
       <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
@@ -3458,7 +3458,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">123</data>
+      <data key="d7">163</data>
     </node>
     <node id="37602975">
       <data key="d0">Robust dimethyl-based multiplex-DIA doubles single-cell proteome depth via a reference channel</data>
@@ -3468,7 +3468,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">85</data>
+      <data key="d7">97</data>
     </node>
     <node id="35590073">
       <data key="d0">Deep Visual Proteomics defines single-cell identity and heterogeneity</data>
@@ -3488,7 +3488,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">8</data>
+      <data key="d7">13</data>
     </node>
     <node id="41233595">
       <data key="d0">Spatial proteomics of ovarian cancer precursors delineates early disease changes and drug targets</data>
@@ -3498,7 +3498,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">1</data>
+      <data key="d7">3</data>
     </node>
     <node id="PPR1281006">
       <data key="d0">Deep Visual Proteomics links vascular smooth muscle cell phenotypes to atherosclerotic plaque stability</data>
@@ -3568,7 +3568,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">5</data>
+      <data key="d7">7</data>
     </node>
     <node id="PPR866889">
       <data key="d0">Deep Visual Proteomics Unveils Precision Medicine Insights in Composite Small Lymphocytic and Classical Hodgkin Lymphoma</data>
@@ -3598,7 +3598,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">0</data>
+      <data key="d7">1</data>
     </node>
     <node id="PPR669390">
       <data key="d0">SPARCS, a platform for genome-scale CRISPR screening for spatial cellular phenotypes</data>
@@ -3608,7 +3608,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">7</data>
+      <data key="d7">8</data>
     </node>
     <edge source="Abe R" target="39415009">
       <data key="d8">Author-Paper</data>
