@@ -13,6 +13,21 @@ PMID,Keyword,Source
 42427344,Spatial Proteomics,Author Keyword
 42427344,Single‐cell Proteomics,Author Keyword
 42427344,Deep Visual Proteomics,Author Keyword
+42638396,Mitochondria,Author Keyword
+42638396,Diagnostics,Author Keyword
+42638396,Rare Diseases,Author Keyword
+42638396,Spatial Proteomics,Author Keyword
+42638396,Single‐cell Proteomics,Author Keyword
+42638396,Omics Ethics,Author Keyword
+42638396,Humans,MeSH Term
+42638396,Mitochondrial Diseases,MeSH Term
+42638396,Rare Diseases,MeSH Term
+42638396,Proteomics,MeSH Term
+42638396,Genomics,MeSH Term
+42638396,Mass Spectrometry,MeSH Term
+42638396,Metabolomics,MeSH Term
+42638396,Single-Cell Analysis,MeSH Term
+42638396,Multiomics,MeSH Term
 40934911,Colon,Author Keyword
 40934911,Mass spectrometry,Author Keyword
 40934911,Proteomics,Author Keyword
@@ -42,6 +57,12 @@ PMID,Keyword,Source
 41629712,Proteomics,MeSH Term
 41629712,Laser Capture Microdissection,MeSH Term
 41629712,Liquid Chromatography-Mass Spectrometry,MeSH Term
+42013410,Humans,MeSH Term
+42013410,"Carcinoma, Pancreatic Ductal",MeSH Term
+42013410,Pancreatic Neoplasms,MeSH Term
+42013410,Proteomics,MeSH Term
+42013410,Metabolic Reprogramming,MeSH Term
+42013410,Intelligent Systems,MeSH Term
 41629719,Artificial intelligence,Author Keyword
 41629719,Formalin-fixed Paraffin-embedded,Author Keyword
 41629719,laser capture microdissection,Author Keyword
@@ -59,12 +80,6 @@ PMID,Keyword,Source
 41629719,Workflow,MeSH Term
 41629719,Laser Capture Microdissection,MeSH Term
 41629719,Intelligent Systems,MeSH Term
-42013410,Humans,MeSH Term
-42013410,"Carcinoma, Pancreatic Ductal",MeSH Term
-42013410,Pancreatic Neoplasms,MeSH Term
-42013410,Proteomics,MeSH Term
-42013410,Metabolic Reprogramming,MeSH Term
-42013410,Intelligent Systems,MeSH Term
 40680990,Melanoma,Author Keyword
 40680990,Proteomics,Author Keyword
 40680990,AI,Author Keyword
@@ -84,6 +99,19 @@ PMID,Keyword,Source
 40680990,Tumor Microenvironment,MeSH Term
 40680990,"Biomarkers, Tumor",MeSH Term
 40680990,Precision Medicine,MeSH Term
+41965357,"Ganglia, Spinal",MeSH Term
+41965357,Nociceptors,MeSH Term
+41965357,Animals,MeSH Term
+41965357,"Mice, Inbred C57BL",MeSH Term
+41965357,Mice,MeSH Term
+41965357,Pain,MeSH Term
+41965357,Protein Kinase C,MeSH Term
+41965357,Nerve Growth Factor,MeSH Term
+41965357,Proteome,MeSH Term
+41965357,Proteomics,MeSH Term
+41965357,Male,MeSH Term
+41965357,Sensory Receptor Cells,MeSH Term
+41965357,Transcriptome,MeSH Term
 39814024,Cancer,Author Keyword
 39814024,Mass spectrometry,Author Keyword
 39814024,Immunotherapy,Author Keyword
@@ -116,19 +144,6 @@ PMID,Keyword,Source
 41655216,Proteogenomics,MeSH Term
 41655216,Multiomics,MeSH Term
 41655216,Spatial Transcriptomics,MeSH Term
-41965357,"Ganglia, Spinal",MeSH Term
-41965357,Nociceptors,MeSH Term
-41965357,Animals,MeSH Term
-41965357,"Mice, Inbred C57BL",MeSH Term
-41965357,Mice,MeSH Term
-41965357,Pain,MeSH Term
-41965357,Protein Kinase C,MeSH Term
-41965357,Nerve Growth Factor,MeSH Term
-41965357,Proteome,MeSH Term
-41965357,Proteomics,MeSH Term
-41965357,Male,MeSH Term
-41965357,Sensory Receptor Cells,MeSH Term
-41965357,Transcriptome,MeSH Term
 40578359,Pathology,Author Keyword
 40578359,Mass spectrometry,Author Keyword
 40578359,Proteomics,Author Keyword
@@ -153,6 +168,21 @@ PMID,Keyword,Source
 40578359,Tumor Microenvironment,MeSH Term
 40578359,Transcriptome,MeSH Term
 40578359,"Carcinoma, Ovarian Epithelial",MeSH Term
+40240610,Liver,MeSH Term
+40240610,Hepatocytes,MeSH Term
+40240610,Humans,MeSH Term
+40240610,Liver Cirrhosis,MeSH Term
+40240610,alpha 1-Antitrypsin Deficiency,MeSH Term
+40240610,Disease Progression,MeSH Term
+40240610,alpha 1-Antitrypsin,MeSH Term
+40240610,Proteome,MeSH Term
+40240610,Proteomics,MeSH Term
+40240610,Phenotype,MeSH Term
+40240610,Female,MeSH Term
+40240610,Male,MeSH Term
+40240610,Unfolded Protein Response,MeSH Term
+40240610,Single-Cell Analysis,MeSH Term
+40240610,Machine Learning,MeSH Term
 40027887,Artificial intelligence,Author Keyword
 40027887,Automated analysis,Author Keyword
 40027887,glycomics,Author Keyword
@@ -169,21 +199,6 @@ PMID,Keyword,Source
 41721135,Proteomics,MeSH Term
 41721135,Male,MeSH Term
 41721135,Single-Cell Analysis,MeSH Term
-40240610,Liver,MeSH Term
-40240610,Hepatocytes,MeSH Term
-40240610,Humans,MeSH Term
-40240610,Liver Cirrhosis,MeSH Term
-40240610,alpha 1-Antitrypsin Deficiency,MeSH Term
-40240610,Disease Progression,MeSH Term
-40240610,alpha 1-Antitrypsin,MeSH Term
-40240610,Proteome,MeSH Term
-40240610,Proteomics,MeSH Term
-40240610,Phenotype,MeSH Term
-40240610,Female,MeSH Term
-40240610,Male,MeSH Term
-40240610,Unfolded Protein Response,MeSH Term
-40240610,Single-Cell Analysis,MeSH Term
-40240610,Machine Learning,MeSH Term
 40536875,Cancer,Author Keyword
 40536875,Microscopy,Author Keyword
 40536875,Biotechnology And Bioengineering,Author Keyword

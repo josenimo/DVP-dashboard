@@ -1002,6 +1002,12 @@
       <data key="d2">Germany</data>
       <data key="d3">Max Planck Institute of Biochemistry</data>
     </node>
+    <node id="Mann SP">
+      <data key="d0">Mann SP</data>
+      <data key="d1">1</data>
+      <data key="d2">Denmark</data>
+      <data key="d3">University of Copenhagen</data>
+    </node>
     <node id="Manning Fox JE">
       <data key="d0">Manning Fox JE</data>
       <data key="d1">1</data>
@@ -1358,9 +1364,9 @@
     </node>
     <node id="Rosenberger FA">
       <data key="d0">Rosenberger FA</data>
-      <data key="d1">10</data>
-      <data key="d2">Germany</data>
-      <data key="d3">Max Planck Institute of Biochemistry</data>
+      <data key="d1">11</data>
+      <data key="d2">Sweden</data>
+      <data key="d3">Karolinska Institutet</data>
     </node>
     <node id="Rossini S">
       <data key="d0">Rossini S</data>
@@ -1763,6 +1769,12 @@
       <data key="d1">3</data>
       <data key="d2">Germany</data>
       <data key="d3">Max Planck Institute of Biochemistry</data>
+    </node>
+    <node id="Wetzel S">
+      <data key="d0">Wetzel S</data>
+      <data key="d1">1</data>
+      <data key="d2">Sweden</data>
+      <data key="d3">Karolinska Institutet</data>
     </node>
     <node id="Widera L">
       <data key="d0">Widera L</data>
@@ -9417,6 +9429,12 @@
     <edge source="Mann M" target="Pedersen LM">
       <data key="d4">1</data>
     </edge>
+    <edge source="Mann SP" target="Wetzel S">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mann SP" target="Rosenberger FA">
+      <data key="d4">1</data>
+    </edge>
     <edge source="Manning Fox JE" target="Mardamshina M">
       <data key="d4">1</data>
     </edge>
@@ -11101,6 +11119,9 @@
       <data key="d4">1</data>
     </edge>
     <edge source="Rosenberger FA" target="Yamada SD">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Rosenberger FA" target="Wetzel S">
       <data key="d4">1</data>
     </edge>
     <edge source="Rosenberger FA" target="Vasconez S">

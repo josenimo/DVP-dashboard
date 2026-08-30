@@ -919,25 +919,25 @@
     // Embedded Data injected by Python
     const dbData = {
   "metrics": {
-    "papers": 42,
-    "authors": 318,
-    "journals": 24,
+    "papers": 43,
+    "authors": 320,
+    "journals": 25,
     "countries": 14,
-    "institutions": 71,
-    "citations": 1137
+    "institutions": 72,
+    "citations": 1167
   },
   "journals": {
     "labels": [
       "bioRxiv",
       "Molecular & cellular proteomics : MCP",
       "Molecular systems biology",
+      "Methods in molecular biology (Clifton, N.J.)",
       "Cancer discovery",
       "Nature",
       "Cell systems",
-      "Methods in molecular biology (Clifton, N.J.)",
       "Journal of microscopy",
-      "Journal of proteomics",
-      "Nature reviews. Gastroenterology & hepatology"
+      "The FEBS journal",
+      "Journal of proteomics"
     ],
     "values": [
       11,
@@ -958,21 +958,21 @@
       "Denmark",
       "United States",
       "Japan",
-      "Switzerland",
-      "Australia",
       "Sweden",
+      "Australia",
+      "Switzerland",
       "France",
       "China",
       "Canada"
     ],
     "values": [
       23,
-      12,
+      13,
       6,
       4,
       3,
       3,
-      2,
+      3,
       2,
       2,
       1
@@ -986,14 +986,14 @@
       "Institute of Pathology",
       "Aarhus University",
       "BioInnovation Institute",
+      "University of Southern Denmark",
       "Zealand University Hospital",
       "Walter and Eliza Hall Institute of Medical Research",
-      "University of Southern Denmark",
       "Department of Obstetrics and Gynaecology"
     ],
     "values": [
       14,
-      8,
+      9,
       6,
       3,
       2,
@@ -1018,8 +1018,8 @@
       "Schweizer et al., 2025"
     ],
     "values": [
-      478,
-      163,
+      500,
+      170,
       101,
       97,
       57,
@@ -3523,6 +3523,21 @@
         "group": "Germany"
       },
       {
+        "id": "Mann SP",
+        "label": "Mann SP",
+        "title": "Mann SP\nPublications: 1\nInstitution: University of Copenhagen\nCountry: Denmark",
+        "value": 1,
+        "color": {
+          "background": "#ef4444",
+          "border": "#0f172a",
+          "highlight": {
+            "background": "#ffffff",
+            "border": "#ef4444"
+          }
+        },
+        "group": "Denmark"
+      },
+      {
         "id": "Manning Fox JE",
         "label": "Manning Fox JE",
         "title": "Manning Fox JE\nPublications: 1\nInstitution: Max Planck Institute of Biochemistry\nCountry: Germany",
@@ -4410,17 +4425,17 @@
       {
         "id": "Rosenberger FA",
         "label": "Rosenberger FA",
-        "title": "Rosenberger FA\nPublications: 10\nInstitution: Max Planck Institute of Biochemistry\nCountry: Germany",
-        "value": 10,
+        "title": "Rosenberger FA\nPublications: 11\nInstitution: Karolinska Institutet\nCountry: Sweden",
+        "value": 11,
         "color": {
-          "background": "#eab308",
+          "background": "#a855f7",
           "border": "#0f172a",
           "highlight": {
             "background": "#ffffff",
-            "border": "#eab308"
+            "border": "#a855f7"
           }
         },
-        "group": "Germany"
+        "group": "Sweden"
       },
       {
         "id": "Rossini S",
@@ -5426,6 +5441,21 @@
           }
         },
         "group": "Germany"
+      },
+      {
+        "id": "Wetzel S",
+        "label": "Wetzel S",
+        "title": "Wetzel S\nPublications: 1\nInstitution: Karolinska Institutet\nCountry: Sweden",
+        "value": 1,
+        "color": {
+          "background": "#a855f7",
+          "border": "#0f172a",
+          "highlight": {
+            "background": "#ffffff",
+            "border": "#a855f7"
+          }
+        },
+        "group": "Sweden"
       },
       {
         "id": "Widera L",
@@ -20001,6 +20031,24 @@
         "title": "Co-authored 1 paper(s)"
       },
       {
+        "from": "Mann SP",
+        "to": "Wetzel S",
+        "value": 1,
+        "title": "Co-authored 1 paper(s)"
+      },
+      {
+        "from": "Rosenberger FA",
+        "to": "Wetzel S",
+        "value": 1,
+        "title": "Co-authored 1 paper(s)"
+      },
+      {
+        "from": "Mann SP",
+        "to": "Rosenberger FA",
+        "value": 1,
+        "title": "Co-authored 1 paper(s)"
+      },
+      {
         "from": "Micz\u00e1n V",
         "to": "Migh E",
         "value": 1,
@@ -26124,6 +26172,20 @@
       "preprintDoi": ""
     },
     {
+      "pmid": "42638396",
+      "title": "From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases",
+      "journal": "Journal of inherited metabolic disease",
+      "year": "2026",
+      "doi": "10.1002/jimd.70236",
+      "type": "Review",
+      "authors": "Wetzel S, Mann SP, Rosenberger FA",
+      "abstract": "Proteomics by mass spectrometry has rapidly matured from a niche method into a standard tool. The recent 10-year trajectory of single-cell proteomics has opened a new biological dimension for studying disease. Mitochondrial diseases, with their pronounced cell-to-cell heterogeneity, are particularly, well-suited to these methods. Here, we discuss how this approach can serve as an orthogonal functional layer for rare disease diagnostics. We trace the evolution of rare disease diagnostics from biochemical enzyme assays through genomics, transcriptomics, proteomics and metabolomics, highlighting incremental gains in diagnostic yield from individual omics layers and their integration. We discuss the limitations of bulk approaches in capturing the functional consequences of genetic perturbations, the new opportunities opened up by single-cell measurements and how spatial single-cell proteomics can further enrich the biological signal of affected cells in diagnostic tissues. We observe that the persisting diagnostic gap reflects not only technological limitations but, increasingly, challenges in data sharing and infrastructure as well as interpretive frameworks for functional molecular evidence. In this context, we consider opportunities for artificial intelligence and the ethical dimensions of single-cell proteomics in rare disease diagnostics. Finally, we propose a single-cell deep visual proteomics (scDVP) framework for clinical diagnostics of rare diseases with cell-to-cell variability, arguing that mitochondrial diseases are an ideal proof-of-concept.",
+      "citations": 0,
+      "citationLabel": "Wetzel et al., 2026",
+      "preprintPmid": "",
+      "preprintDoi": ""
+    },
+    {
       "pmid": "40934911",
       "title": "Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids",
       "journal": "Cell systems",
@@ -26136,6 +26198,20 @@
       "citationLabel": "Post et al., 2025",
       "preprintPmid": "PPR852450",
       "preprintDoi": "10.1101/2024.05.13.593888"
+    },
+    {
+      "pmid": "40360936",
+      "title": "Deep Visual Proteomics elucidates \u03b11-antitrypsin deficiency",
+      "journal": "Nature reviews. Gastroenterology & hepatology",
+      "year": "2025",
+      "doi": "10.1038/s41575-025-01079-3",
+      "type": "Review",
+      "authors": "Hindson J",
+      "abstract": "",
+      "citations": 0,
+      "citationLabel": "Hindson, 2025",
+      "preprintPmid": "",
+      "preprintDoi": ""
     },
     {
       "pmid": "40675342",
@@ -26166,18 +26242,18 @@
       "preprintDoi": ""
     },
     {
-      "pmid": "40360936",
-      "title": "Deep Visual Proteomics elucidates \u03b11-antitrypsin deficiency",
-      "journal": "Nature reviews. Gastroenterology & hepatology",
-      "year": "2025",
-      "doi": "10.1038/s41575-025-01079-3",
-      "type": "Review",
-      "authors": "Hindson J",
-      "abstract": "",
+      "pmid": "42013410",
+      "title": "AI-Powered Deep Visual Proteomics Reveals Critical Molecular Transitions in Pancreatic Cancer Precursors",
+      "journal": "Cancer discovery",
+      "year": "2026",
+      "doi": "10.1158/2159-8290.cd-25-1119",
+      "type": "Disease Application",
+      "authors": "Min J, Schweizer L, Zonderland G, Selvanesan BC, Thomsen JH, Oldenburg L, Bae SW, Kim B, Hern\u00e1ndez SD, Jez G, Bernard V, Swanson BJ, Klute KA, Wang H, Caffrey TC, Grandgenett PM, Hollingsworth MA, Ummat I, Strauss MT, Mund A, Maitra A",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) evolves through precursors, yet the protein programs governing early progression remain poorly defined. We applied Deep Visual Proteomics (DVP)-integrating computational pathology, laser microdissection, and mass spectrometry (MS)-to profile normal ducts, acinar-to-ductal metaplasia (ADM), low-grade (LG) and high-grade (HG) pancreatic intraepithelial neoplasia (PanIN), and invasive carcinoma from organ donors and patients with PDAC. Quantifying 9,181 proteins from \u223c100 cells per region, we uncovered a molecular field effect in histologically normal ducts and proteomic divergence of LG-PanINs by cancer context. We identified four stage-associated molecular programs. Stress adaptation and immune engagement emerged early in cancer-associated normal ducts. Metabolic reprogramming initiated in normal ducts and intensified across PanIN progression. Mitochondrial remodeling became prominent in HG-PanINs before invasion. MS detected KRAS hotspot mutant peptides within incidental precursor lesions from cancer-free individuals. These findings demonstrate that molecular reprogramming precedes histologic transformation, creating opportunities for earlier detection of lethal cancer.<h4>Significance</h4>Artificial intelligence (AI)-guided DVP represents the first in-depth assessment of the proteomic landscapes observed during the multistep progression of pancreatic adenocarcinoma, including histologically normal ducts, ADM, and LG- and HG-PanIN lesions. These data represent a unique resource of candidate biomarkers and interception targets against this lethal disease. See related commentary by Yang and Fan, p. 1255.",
       "citations": 0,
-      "citationLabel": "Hindson, 2025",
-      "preprintPmid": "",
-      "preprintDoi": ""
+      "citationLabel": "Min et al., 2026",
+      "preprintPmid": "PPR1047858",
+      "preprintDoi": "10.1101/2025.07.07.663528"
     },
     {
       "pmid": "41629719",
@@ -26194,20 +26270,6 @@
       "preprintDoi": ""
     },
     {
-      "pmid": "42013410",
-      "title": "AI-Powered Deep Visual Proteomics Reveals Critical Molecular Transitions in Pancreatic Cancer Precursors",
-      "journal": "Cancer discovery",
-      "year": "2026",
-      "doi": "10.1158/2159-8290.cd-25-1119",
-      "type": "Disease Application",
-      "authors": "Min J, Schweizer L, Zonderland G, Selvanesan BC, Thomsen JH, Oldenburg L, Bae SW, Kim B, Hern\u00e1ndez SD, Jez G, Bernard V, Swanson BJ, Klute KA, Wang H, Caffrey TC, Grandgenett PM, Hollingsworth MA, Ummat I, Strauss MT, Mund A, Maitra A",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) evolves through precursors, yet the protein programs governing early progression remain poorly defined. We applied Deep Visual Proteomics (DVP)-integrating computational pathology, laser microdissection, and mass spectrometry (MS)-to profile normal ducts, acinar-to-ductal metaplasia (ADM), low-grade (LG) and high-grade (HG) pancreatic intraepithelial neoplasia (PanIN), and invasive carcinoma from organ donors and patients with PDAC. Quantifying 9,181 proteins from \u223c100 cells per region, we uncovered a molecular field effect in histologically normal ducts and proteomic divergence of LG-PanINs by cancer context. We identified four stage-associated molecular programs. Stress adaptation and immune engagement emerged early in cancer-associated normal ducts. Metabolic reprogramming initiated in normal ducts and intensified across PanIN progression. Mitochondrial remodeling became prominent in HG-PanINs before invasion. MS detected KRAS hotspot mutant peptides within incidental precursor lesions from cancer-free individuals. These findings demonstrate that molecular reprogramming precedes histologic transformation, creating opportunities for earlier detection of lethal cancer.<h4>Significance</h4>Artificial intelligence (AI)-guided DVP represents the first in-depth assessment of the proteomic landscapes observed during the multistep progression of pancreatic adenocarcinoma, including histologically normal ducts, ADM, and LG- and HG-PanIN lesions. These data represent a unique resource of candidate biomarkers and interception targets against this lethal disease. See related commentary by Yang and Fan, p. 1255.",
-      "citations": 0,
-      "citationLabel": "Min et al., 2026",
-      "preprintPmid": "PPR1047858",
-      "preprintDoi": "10.1101/2025.07.07.663528"
-    },
-    {
       "pmid": "40680990",
       "title": "A perspective on integrating digital pathology, proteomics, clinical data and AI analytics in cancer research",
       "journal": "Journal of proteomics",
@@ -26220,6 +26282,20 @@
       "citationLabel": "Guedes et al., 2025",
       "preprintPmid": "",
       "preprintDoi": ""
+    },
+    {
+      "pmid": "41965357",
+      "title": "Deep visual proteomics uncovers nociceptor diversity and pain targets",
+      "journal": "Nature communications",
+      "year": "2026",
+      "doi": "10.1038/s41467-026-71418-8",
+      "type": "Disease Application",
+      "authors": "Chakrabarti S, Makhmut A, Mohammadi A, Luo W, Wang L, Lewin GR, Coscia F",
+      "abstract": "The richness of our somatosensory experience is reflected in the functional diversity of somatic sensory neurons. Single-cell RNA\u00a0sequencing of sensory neurons has revealed a molecular basis for such diversity<sup>1-3</sup>. However, sensory neuron diversity has yet to be captured at the level of the proteome. Here, we combined electrophysiology with deep visual proteomics <sup>4</sup> to quantify over 6000 proteins from phenotypically-defined sensory neurons in mice and identified proteomic markers of sensory neuron subtypes. Comparative analysis revealed both concordance and meaningful divergence between transcriptomes and proteomes. We further show that up to 3000 proteins can be quantified from one-fourth of a single neuron, demonstrating subset-specific protein signatures. In culture, nociceptive neurons can be acutely sensitized to mechanical stimuli by nerve growth factor (NGF) which normally drives inflammatory pain in vivo<sup>5</sup>. Indeed, overnight exposure of peptidergic nociceptors to NGF and a protein kinase C (PKC) activator produced functional sensitization associated with proteome changes. Functional knockdown experiments identified the up-regulated B3GNT2 enzyme as a potential effector of nociceptor sensitization. In summary, we present a high-resolution proteomic resource linking molecular identity to function, enabling the discovery of mechanisms underlying somatic sensation and pain sensitization.",
+      "citations": 2,
+      "citationLabel": "Chakrabarti et al., 2026",
+      "preprintPmid": "PPR1088685",
+      "preprintDoi": "10.1101/2025.09.20.677124"
     },
     {
       "pmid": "39814024",
@@ -26250,20 +26326,6 @@
       "preprintDoi": ""
     },
     {
-      "pmid": "41965357",
-      "title": "Deep visual proteomics uncovers nociceptor diversity and pain targets",
-      "journal": "Nature communications",
-      "year": "2026",
-      "doi": "10.1038/s41467-026-71418-8",
-      "type": "Disease Application",
-      "authors": "Chakrabarti S, Makhmut A, Mohammadi A, Luo W, Wang L, Lewin GR, Coscia F",
-      "abstract": "The richness of our somatosensory experience is reflected in the functional diversity of somatic sensory neurons. Single-cell RNA\u00a0sequencing of sensory neurons has revealed a molecular basis for such diversity<sup>1-3</sup>. However, sensory neuron diversity has yet to be captured at the level of the proteome. Here, we combined electrophysiology with deep visual proteomics <sup>4</sup> to quantify over 6000 proteins from phenotypically-defined sensory neurons in mice and identified proteomic markers of sensory neuron subtypes. Comparative analysis revealed both concordance and meaningful divergence between transcriptomes and proteomes. We further show that up to 3000 proteins can be quantified from one-fourth of a single neuron, demonstrating subset-specific protein signatures. In culture, nociceptive neurons can be acutely sensitized to mechanical stimuli by nerve growth factor (NGF) which normally drives inflammatory pain in vivo<sup>5</sup>. Indeed, overnight exposure of peptidergic nociceptors to NGF and a protein kinase C (PKC) activator produced functional sensitization associated with proteome changes. Functional knockdown experiments identified the up-regulated B3GNT2 enzyme as a potential effector of nociceptor sensitization. In summary, we present a high-resolution proteomic resource linking molecular identity to function, enabling the discovery of mechanisms underlying somatic sensation and pain sensitization.",
-      "citations": 2,
-      "citationLabel": "Chakrabarti et al., 2026",
-      "preprintPmid": "PPR1088685",
-      "preprintDoi": "10.1101/2025.09.20.677124"
-    },
-    {
       "pmid": "40578359",
       "title": "Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression",
       "journal": "Cancer cell",
@@ -26292,6 +26354,20 @@
       "preprintDoi": "10.1101/2024.08.07.606985"
     },
     {
+      "pmid": "40240610",
+      "title": "Deep Visual Proteomics maps proteotoxicity in a genetic liver disease",
+      "journal": "Nature",
+      "year": "2025",
+      "doi": "10.1038/s41586-025-08885-4",
+      "type": "Disease Application",
+      "authors": "Rosenberger FA, M\u00e4dler SC, Thorhauge KH, Steigerwald S, Fromme M, Lebedev M, Weiss CAM, Oeller M, Wahle M, Metousis A, Zwiebel M, Schmacke NA, Detlefsen S, Boor P, Fabi\u00e1n O, Fra\u0148kov\u00e1 S, Krag A, Strnad P, Mann M",
+      "abstract": "Protein misfolding diseases, including \u03b11-antitrypsin deficiency (AATD), pose substantial health challenges, with their cellular progression still poorly understood<sup>1-3</sup>. We use spatial proteomics by mass spectrometry and machine learning to map AATD in human liver tissue. Combining Deep Visual Proteomics (DVP) with single-cell analysis<sup>4,5</sup>, we probe intact patient biopsies to resolve molecular events during hepatocyte stress in pseudotime across fibrosis stages. We achieve proteome depth of up to 4,300 proteins from one-third of a single cell in formalin-fixed, paraffin-embedded tissue. This dataset reveals a potentially clinically actionable peroxisomal upregulation that precedes the canonical unfolded protein response. Our single-cell proteomics data show \u03b11-antitrypsin accumulation is largely cell-intrinsic, with minimal stress propagation between hepatocytes. We integrated proteomic data with artificial intelligence-guided image-based phenotyping across several disease stages, revealing a late-stage hepatocyte phenotype characterized by globular protein aggregates and distinct proteomic signatures, notably including elevated TNFSF10 (also known as\u00a0TRAIL) amounts. This phenotype may represent a critical disease progression stage. Our study offers new insights into AATD pathogenesis and introduces a powerful methodology for high-resolution, in situ proteomic analysis of complex tissues. This approach holds potential to unravel molecular mechanisms in various protein misfolding disorders, setting a new standard for understanding disease progression at the single-cell level in human tissue.",
+      "citations": 40,
+      "citationLabel": "Rosenberger et al., 2025",
+      "preprintPmid": "PPR934792",
+      "preprintDoi": "10.1101/2024.11.01.621457"
+    },
+    {
       "pmid": "40027887",
       "title": "Toward spatial glycomics and glycoproteomics: Innovations and applications",
       "journal": "BBA advances",
@@ -26300,7 +26376,7 @@
       "type": "Review",
       "authors": "Boottanun P, Fuseya S, Kuno A",
       "abstract": "In this mini review, we provide an overview of the challenging field of spatial glycomics/glycoproteomics. Owing to their complexity, sophisticated analytical methods and innovative technologies are needed to advance this field. An agile development approach enables unraveling aberrant glycosylations, glycobiomarkers, and glycotargets for spatial imaging, diagnosis, and therapeutic purposes. We discuss glycopathology and tissue glycomic profiling using highly sensitive lectin-based analyses and introduce deep visual proteomics for glycomic/glycoproteomic sample preparation. Additionally, we highlight the importance of leveraging laser microdissection and artificial intelligence-driven visual software for cell-type assignment and automation techniques, which are crucial for advancing glycomics/glycoproteomics.",
-      "citations": 14,
+      "citations": 15,
       "citationLabel": "Boottanun et al., 2025",
       "preprintPmid": "",
       "preprintDoi": ""
@@ -26318,20 +26394,6 @@
       "citationLabel": "Weiss et al., 2026",
       "preprintPmid": "PPR1003415",
       "preprintDoi": "10.1101/2025.04.13.648568"
-    },
-    {
-      "pmid": "40240610",
-      "title": "Deep Visual Proteomics maps proteotoxicity in a genetic liver disease",
-      "journal": "Nature",
-      "year": "2025",
-      "doi": "10.1038/s41586-025-08885-4",
-      "type": "Disease Application",
-      "authors": "Rosenberger FA, M\u00e4dler SC, Thorhauge KH, Steigerwald S, Fromme M, Lebedev M, Weiss CAM, Oeller M, Wahle M, Metousis A, Zwiebel M, Schmacke NA, Detlefsen S, Boor P, Fabi\u00e1n O, Fra\u0148kov\u00e1 S, Krag A, Strnad P, Mann M",
-      "abstract": "Protein misfolding diseases, including \u03b11-antitrypsin deficiency (AATD), pose substantial health challenges, with their cellular progression still poorly understood<sup>1-3</sup>. We use spatial proteomics by mass spectrometry and machine learning to map AATD in human liver tissue. Combining Deep Visual Proteomics (DVP) with single-cell analysis<sup>4,5</sup>, we probe intact patient biopsies to resolve molecular events during hepatocyte stress in pseudotime across fibrosis stages. We achieve proteome depth of up to 4,300 proteins from one-third of a single cell in formalin-fixed, paraffin-embedded tissue. This dataset reveals a potentially clinically actionable peroxisomal upregulation that precedes the canonical unfolded protein response. Our single-cell proteomics data show \u03b11-antitrypsin accumulation is largely cell-intrinsic, with minimal stress propagation between hepatocytes. We integrated proteomic data with artificial intelligence-guided image-based phenotyping across several disease stages, revealing a late-stage hepatocyte phenotype characterized by globular protein aggregates and distinct proteomic signatures, notably including elevated TNFSF10 (also known as\u00a0TRAIL) amounts. This phenotype may represent a critical disease progression stage. Our study offers new insights into AATD pathogenesis and introduces a powerful methodology for high-resolution, in situ proteomic analysis of complex tissues. This approach holds potential to unravel molecular mechanisms in various protein misfolding disorders, setting a new standard for understanding disease progression at the single-cell level in human tissue.",
-      "citations": 40,
-      "citationLabel": "Rosenberger et al., 2025",
-      "preprintPmid": "PPR934792",
-      "preprintDoi": "10.1101/2024.11.01.621457"
     },
     {
       "pmid": "40536875",
@@ -26454,7 +26516,7 @@
       "type": "Workflow Improvement",
       "authors": "Rosenberger FA, Thielert M, Strauss MT, Schweizer L, Ammar C, M\u00e4dler SC, Metousis A, Skowronek P, Wahle M, Madden K, Gote-Schniering J, Semenova A, Schiller HB, Rodriguez E, Nordmann TM, Mund A, Mann M",
       "abstract": "Single-cell proteomics by mass spectrometry is emerging as a powerful and unbiased method for the characterization of biological heterogeneity. So far, it has been limited to cultured cells, whereas an expansion of the method to complex tissues would greatly enhance biological insights. Here we describe single-cell Deep Visual Proteomics (scDVP), a technology that integrates high-content imaging, laser microdissection and multiplexed mass spectrometry. scDVP resolves the context-dependent, spatial proteome of murine hepatocytes at a current depth of 1,700 proteins from a cell slice. Half of the proteome was differentially regulated in a spatial manner, with protein levels changing dramatically in proximity to the central vein. We applied machine learning to proteome classes and images, which subsequently inferred the spatial proteome from imaging data alone. scDVP is applicable to healthy and diseased tissues and complements other spatial proteomics and spatial omics technologies.",
-      "citations": 163,
+      "citations": 170,
       "citationLabel": "Rosenberger et al., 2023",
       "preprintPmid": "PPR579563",
       "preprintDoi": "10.1101/2022.12.03.518957"
@@ -26482,7 +26544,7 @@
       "type": "Methodology",
       "authors": "Mund A, Coscia F, Kriston A, Hollandi R, Kov\u00e1cs F, Brunner AD, Migh E, Schweizer L, Santos A, Bzorek M, Naimy S, Rahbek-Gjerdrum LM, Dyring-Andersen B, Bulkescher J, Lukas C, Eckert MA, Lengyel E, Gnann C, Lundberg E, Horvath P, Mann M",
       "abstract": "Despite the availabilty of imaging-based and mass-spectrometry-based methods for spatial proteomics, a key challenge remains connecting images with single-cell-resolution protein abundance measurements. Here, we introduce Deep Visual Proteomics (DVP), which combines artificial-intelligence-driven image analysis of cellular phenotypes with automated single-cell or single-nucleus laser microdissection and ultra-high-sensitivity mass spectrometry. DVP links protein abundance to complex cellular or subcellular phenotypes while preserving spatial context. By individually excising nuclei from cell culture, we classified distinct cell states with proteomic profiles defined by known and uncharacterized proteins. In an archived primary melanoma tissue, DVP identified spatially resolved proteome changes as normal melanocytes transition to fully invasive melanoma, revealing pathways that change in a spatial manner as cancer progresses, such as mRNA splicing dysregulation in metastatic vertical growth that coincides with reduced interferon signaling and antigen presentation. The ability of DVP to retain precise spatial proteomic information in the tissue context has implications for the molecular profiling of clinical samples.",
-      "citations": 478,
+      "citations": 500,
       "citationLabel": "Mund et al., 2022",
       "preprintPmid": "PPR274443",
       "preprintDoi": "10.1101/2021.01.25.427969"
@@ -26942,6 +27004,66 @@
       "Affiliation": "Department of Immunodynamics, Institute of Experimental Immunology and Imaging, University Hospital Essen, Essen, Germany."
     },
     {
+      "PMID": "42381461",
+      "Author Name": "Yang M",
+      "Last Name": "Yang",
+      "Author Order": 1,
+      "Institution": "Yale University",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Department of Biomedical Engineering, School of Engineering and Applied Science, Yale University, New Haven, Connecticut."
+    },
+    {
+      "PMID": "42381461",
+      "Author Name": "Fan R",
+      "Last Name": "Fan",
+      "Author Order": 2,
+      "Institution": "Yale University",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Department of Biomedical Engineering, School of Engineering and Applied Science, Yale University, New Haven, Connecticut."
+    },
+    {
+      "PMID": "42427344",
+      "Author Name": "Shen C",
+      "Last Name": "Shen",
+      "Author Order": 1,
+      "Institution": "Walter and Eliza Hall Institute of Medical Research",
+      "Country": "Australia",
+      "Is Corresponding": false,
+      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+    },
+    {
+      "PMID": "42427344",
+      "Author Name": "Schoffer K",
+      "Last Name": "Schoffer",
+      "Author Order": 2,
+      "Institution": "Walter and Eliza Hall Institute of Medical Research",
+      "Country": "Australia",
+      "Is Corresponding": false,
+      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+    },
+    {
+      "PMID": "42427344",
+      "Author Name": "Williams C",
+      "Last Name": "Williams",
+      "Author Order": 3,
+      "Institution": "Walter and Eliza Hall Institute of Medical Research",
+      "Country": "Australia",
+      "Is Corresponding": false,
+      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+    },
+    {
+      "PMID": "42427344",
+      "Author Name": "Tanzer MC",
+      "Last Name": "Tanzer",
+      "Author Order": 4,
+      "Institution": "Walter and Eliza Hall Institute of Medical Research",
+      "Country": "Australia",
+      "Is Corresponding": false,
+      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+    },
+    {
       "PMID": "PPR1277341",
       "Author Name": "Zwiebel M",
       "Last Name": "Zwiebel",
@@ -27012,64 +27134,34 @@
       "Affiliation": "Unknown"
     },
     {
-      "PMID": "42381461",
-      "Author Name": "Yang M",
-      "Last Name": "Yang",
+      "PMID": "42638396",
+      "Author Name": "Wetzel S",
+      "Last Name": "Wetzel",
       "Author Order": 1,
-      "Institution": "Yale University",
-      "Country": "Unknown",
+      "Institution": "Karolinska Institutet",
+      "Country": "Sweden",
       "Is Corresponding": false,
-      "Affiliation": "Department of Biomedical Engineering, School of Engineering and Applied Science, Yale University, New Haven, Connecticut."
+      "Affiliation": "Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
     },
     {
-      "PMID": "42381461",
-      "Author Name": "Fan R",
-      "Last Name": "Fan",
+      "PMID": "42638396",
+      "Author Name": "Mann SP",
+      "Last Name": "Mann",
       "Author Order": 2,
-      "Institution": "Yale University",
-      "Country": "Unknown",
+      "Institution": "University of Copenhagen",
+      "Country": "Denmark",
       "Is Corresponding": false,
-      "Affiliation": "Department of Biomedical Engineering, School of Engineering and Applied Science, Yale University, New Haven, Connecticut."
+      "Affiliation": "Center for Advanced Studies in Bioscience Innovation Law (CeBIL), University of Copenhagen, Copenhagen, Denmark."
     },
     {
-      "PMID": "42427344",
-      "Author Name": "Shen C",
-      "Last Name": "Shen",
-      "Author Order": 1,
-      "Institution": "Walter and Eliza Hall Institute of Medical Research",
-      "Country": "Australia",
-      "Is Corresponding": false,
-      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
-    },
-    {
-      "PMID": "42427344",
-      "Author Name": "Schoffer K",
-      "Last Name": "Schoffer",
-      "Author Order": 2,
-      "Institution": "Walter and Eliza Hall Institute of Medical Research",
-      "Country": "Australia",
-      "Is Corresponding": false,
-      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
-    },
-    {
-      "PMID": "42427344",
-      "Author Name": "Williams C",
-      "Last Name": "Williams",
+      "PMID": "42638396",
+      "Author Name": "Rosenberger FA",
+      "Last Name": "Rosenberger",
       "Author Order": 3,
-      "Institution": "Walter and Eliza Hall Institute of Medical Research",
-      "Country": "Australia",
+      "Institution": "Karolinska Institutet",
+      "Country": "Sweden",
       "Is Corresponding": false,
-      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
-    },
-    {
-      "PMID": "42427344",
-      "Author Name": "Tanzer MC",
-      "Last Name": "Tanzer",
-      "Author Order": 4,
-      "Institution": "Walter and Eliza Hall Institute of Medical Research",
-      "Country": "Australia",
-      "Is Corresponding": false,
-      "Affiliation": "Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+      "Affiliation": "Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
     },
     {
       "PMID": "PPR1242524",
@@ -27492,6 +27584,16 @@
       "Affiliation": "Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Department of Cellular and Molecular Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark; Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany. Electronic address: mmann@biochem.mpg.de."
     },
     {
+      "PMID": "40360936",
+      "Author Name": "Hindson J",
+      "Last Name": "Hindson",
+      "Author Order": 1,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": true,
+      "Affiliation": "Nature Reviews Gastroenterology & Hepatology, . nrgasthep@nature.com."
+    },
+    {
       "PMID": "40675342",
       "Author Name": "Manickavel P",
       "Last Name": "Manickavel",
@@ -27530,166 +27632,6 @@
       "Country": "Germany",
       "Is Corresponding": true,
       "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, Berlin, Germany. fabian.coscia@mdc-berlin.de."
-    },
-    {
-      "PMID": "40360936",
-      "Author Name": "Hindson J",
-      "Last Name": "Hindson",
-      "Author Order": 1,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": true,
-      "Affiliation": "Nature Reviews Gastroenterology & Hepatology, . nrgasthep@nature.com."
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Mardamshina M",
-      "Last Name": "Mardamshina",
-      "Author Order": 1,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Dorka N",
-      "Last Name": "Dorka",
-      "Author Order": 2,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Thielert M",
-      "Last Name": "Thielert",
-      "Author Order": 3,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Bj\u00f6rklund F",
-      "Last Name": "Bj\u00f6rklund",
-      "Author Order": 4,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Navarro FB",
-      "Last Name": "Navarro",
-      "Author Order": 5,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Casals AM",
-      "Last Name": "Casals",
-      "Author Order": 6,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Kovacs F",
-      "Last Name": "Kovacs",
-      "Author Order": 7,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Manning Fox JE",
-      "Last Name": "Manning Fox",
-      "Author Order": 8,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Horvath P",
-      "Last Name": "Horvath",
-      "Author Order": 9,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "MacDonald PE",
-      "Last Name": "MacDonald",
-      "Author Order": 10,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Mann M",
-      "Last Name": "Mann",
-      "Author Order": 11,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR1010749",
-      "Author Name": "Lundberg E",
-      "Last Name": "Lundberg",
-      "Author Order": 12,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "41629719",
-      "Author Name": "Gasparello T",
-      "Last Name": "Gasparello",
-      "Author Order": 1,
-      "Institution": "University of Edinburgh",
-      "Country": "United Kingdom",
-      "Is Corresponding": false,
-      "Affiliation": "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
-    },
-    {
-      "PMID": "41629719",
-      "Author Name": "Pearson M",
-      "Last Name": "Pearson",
-      "Author Order": 2,
-      "Institution": "University of Edinburgh",
-      "Country": "United Kingdom",
-      "Is Corresponding": false,
-      "Affiliation": "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
-    },
-    {
-      "PMID": "41629719",
-      "Author Name": "von Kriegsheim A",
-      "Last Name": "von Kriegsheim",
-      "Author Order": 3,
-      "Institution": "University of Edinburgh",
-      "Country": "United Kingdom",
-      "Is Corresponding": true,
-      "Affiliation": "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. Alex.VonKriegsheim@ed.ac.uk."
     },
     {
       "PMID": "42013410",
@@ -27902,6 +27844,156 @@
       "Affiliation": "Laura and Isaac Perlmutter Cancer Center, Department of Medicine, New York University Grossman School of Medicine, NYU Langone Health, New York, New York."
     },
     {
+      "PMID": "PPR1010749",
+      "Author Name": "Mardamshina M",
+      "Last Name": "Mardamshina",
+      "Author Order": 1,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Dorka N",
+      "Last Name": "Dorka",
+      "Author Order": 2,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Thielert M",
+      "Last Name": "Thielert",
+      "Author Order": 3,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Bj\u00f6rklund F",
+      "Last Name": "Bj\u00f6rklund",
+      "Author Order": 4,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Navarro FB",
+      "Last Name": "Navarro",
+      "Author Order": 5,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Casals AM",
+      "Last Name": "Casals",
+      "Author Order": 6,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Kovacs F",
+      "Last Name": "Kovacs",
+      "Author Order": 7,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Manning Fox JE",
+      "Last Name": "Manning Fox",
+      "Author Order": 8,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Horvath P",
+      "Last Name": "Horvath",
+      "Author Order": 9,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "MacDonald PE",
+      "Last Name": "MacDonald",
+      "Author Order": 10,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Mann M",
+      "Last Name": "Mann",
+      "Author Order": 11,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR1010749",
+      "Author Name": "Lundberg E",
+      "Last Name": "Lundberg",
+      "Author Order": 12,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "41629719",
+      "Author Name": "Gasparello T",
+      "Last Name": "Gasparello",
+      "Author Order": 1,
+      "Institution": "University of Edinburgh",
+      "Country": "United Kingdom",
+      "Is Corresponding": false,
+      "Affiliation": "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+    },
+    {
+      "PMID": "41629719",
+      "Author Name": "Pearson M",
+      "Last Name": "Pearson",
+      "Author Order": 2,
+      "Institution": "University of Edinburgh",
+      "Country": "United Kingdom",
+      "Is Corresponding": false,
+      "Affiliation": "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK."
+    },
+    {
+      "PMID": "41629719",
+      "Author Name": "von Kriegsheim A",
+      "Last Name": "von Kriegsheim",
+      "Author Order": 3,
+      "Institution": "University of Edinburgh",
+      "Country": "United Kingdom",
+      "Is Corresponding": true,
+      "Affiliation": "Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. Alex.VonKriegsheim@ed.ac.uk."
+    },
+    {
       "PMID": "40680990",
       "Author Name": "Guedes J",
       "Last Name": "Guedes",
@@ -28010,6 +28102,76 @@
       "Country": "Sweden",
       "Is Corresponding": true,
       "Affiliation": "Section for Clinical Chemistry, Department of Translational Medicine, Lund University, Lund, Sweden. Electronic address: jeovanis.gil_valdes@med.lu.se."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Chakrabarti S",
+      "Last Name": "Chakrabarti",
+      "Author Order": 1,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": true,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany. Sampurna.chakrabarti@helmholtz-hzi.de."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Makhmut A",
+      "Last Name": "Makhmut",
+      "Author Order": 2,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, 13125, Berlin, Germany."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Mohammadi A",
+      "Last Name": "Mohammadi",
+      "Author Order": 3,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Luo W",
+      "Last Name": "Luo",
+      "Author Order": 4,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Wang L",
+      "Last Name": "Wang",
+      "Author Order": 5,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Lewin GR",
+      "Last Name": "Lewin",
+      "Author Order": 6,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": true,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany. glewin@mdc-berlin.de."
+    },
+    {
+      "PMID": "41965357",
+      "Author Name": "Coscia F",
+      "Last Name": "Coscia",
+      "Author Order": 7,
+      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
+      "Country": "Germany",
+      "Is Corresponding": true,
+      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, 13125, Berlin, Germany. fabian.coscia@mdc-berlin.de."
     },
     {
       "PMID": "39814024",
@@ -28180,76 +28342,6 @@
       "Country": "China",
       "Is Corresponding": false,
       "Affiliation": "Department of Oncology, Wuxi Medical Center, Wuxi Maternal and Child Health Care Hospital, Nanjing Medical University, Wuxi, China."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Chakrabarti S",
-      "Last Name": "Chakrabarti",
-      "Author Order": 1,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": true,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany. Sampurna.chakrabarti@helmholtz-hzi.de."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Makhmut A",
-      "Last Name": "Makhmut",
-      "Author Order": 2,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, 13125, Berlin, Germany."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Mohammadi A",
-      "Last Name": "Mohammadi",
-      "Author Order": 3,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Luo W",
-      "Last Name": "Luo",
-      "Author Order": 4,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Wang L",
-      "Last Name": "Wang",
-      "Author Order": 5,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Lewin GR",
-      "Last Name": "Lewin",
-      "Author Order": 6,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": true,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Molecular Physiology of Somatic Sensation Laboratory, 13125, Berlin, Germany. glewin@mdc-berlin.de."
-    },
-    {
-      "PMID": "41965357",
-      "Author Name": "Coscia F",
-      "Last Name": "Coscia",
-      "Author Order": 7,
-      "Institution": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC)",
-      "Country": "Germany",
-      "Is Corresponding": true,
-      "Affiliation": "Max-Delbr\u00fcck-Center for Molecular Medicine in the Helmholtz Association (MDC), Spatial Proteomics Group, 13125, Berlin, Germany. fabian.coscia@mdc-berlin.de."
     },
     {
       "PMID": "PPR1068194",
@@ -28952,66 +29044,6 @@
       "Affiliation": "Unknown"
     },
     {
-      "PMID": "PPR866889",
-      "Author Name": "Zheng X",
-      "Last Name": "Zheng",
-      "Author Order": 1,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR866889",
-      "Author Name": "Pedersen LM",
-      "Last Name": "Pedersen",
-      "Author Order": 2,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR866889",
-      "Author Name": "Bzorek M",
-      "Last Name": "Bzorek",
-      "Author Order": 3,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR866889",
-      "Author Name": "Mund A",
-      "Last Name": "Mund",
-      "Author Order": 4,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR866889",
-      "Author Name": "Gjerdrum LMR",
-      "Last Name": "Gjerdrum",
-      "Author Order": 5,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
-      "PMID": "PPR866889",
-      "Author Name": "Mann M",
-      "Last Name": "Mann",
-      "Author Order": 6,
-      "Institution": "Unknown",
-      "Country": "Unknown",
-      "Is Corresponding": false,
-      "Affiliation": "Unknown"
-    },
-    {
       "PMID": "39910169",
       "Author Name": "Kabatnik S",
       "Last Name": "Kabatnik",
@@ -29070,6 +29102,66 @@
       "Country": "Denmark",
       "Is Corresponding": true,
       "Affiliation": "Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark. mmann@biochem.mpg.de."
+    },
+    {
+      "PMID": "PPR866889",
+      "Author Name": "Zheng X",
+      "Last Name": "Zheng",
+      "Author Order": 1,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR866889",
+      "Author Name": "Pedersen LM",
+      "Last Name": "Pedersen",
+      "Author Order": 2,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR866889",
+      "Author Name": "Bzorek M",
+      "Last Name": "Bzorek",
+      "Author Order": 3,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR866889",
+      "Author Name": "Mund A",
+      "Last Name": "Mund",
+      "Author Order": 4,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR866889",
+      "Author Name": "Gjerdrum LMR",
+      "Last Name": "Gjerdrum",
+      "Author Order": 5,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
+    },
+    {
+      "PMID": "PPR866889",
+      "Author Name": "Mann M",
+      "Last Name": "Mann",
+      "Author Order": 6,
+      "Institution": "Unknown",
+      "Country": "Unknown",
+      "Is Corresponding": false,
+      "Affiliation": "Unknown"
     },
     {
       "PMID": "PPR1002479",
@@ -29302,166 +29394,6 @@
       "Affiliation": "Unknown"
     },
     {
-      "PMID": "40027887",
-      "Author Name": "Boottanun P",
-      "Last Name": "Boottanun",
-      "Author Order": 1,
-      "Institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
-      "Country": "Japan",
-      "Is Corresponding": false,
-      "Affiliation": "Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
-    },
-    {
-      "PMID": "40027887",
-      "Author Name": "Fuseya S",
-      "Last Name": "Fuseya",
-      "Author Order": 2,
-      "Institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
-      "Country": "Japan",
-      "Is Corresponding": false,
-      "Affiliation": "Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
-    },
-    {
-      "PMID": "40027887",
-      "Author Name": "Kuno A",
-      "Last Name": "Kuno",
-      "Author Order": 3,
-      "Institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
-      "Country": "Japan",
-      "Is Corresponding": false,
-      "Affiliation": "Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Weiss CAM",
-      "Last Name": "Weiss",
-      "Author Order": 1,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Brown LA",
-      "Last Name": "Brown",
-      "Author Order": 2,
-      "Institution": "National Cancer Institute",
-      "Country": "United States",
-      "Is Corresponding": false,
-      "Affiliation": "Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Miranda L",
-      "Last Name": "Miranda",
-      "Author Order": 3,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Pellizzoni P",
-      "Last Name": "Pellizzoni",
-      "Author Order": 4,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Steigerwald S",
-      "Last Name": "Steigerwald",
-      "Author Order": 5,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Remmert K",
-      "Last Name": "Remmert",
-      "Author Order": 6,
-      "Institution": "National Cancer Institute",
-      "Country": "United States",
-      "Is Corresponding": false,
-      "Affiliation": "Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Hernandez JM",
-      "Last Name": "Hernandez",
-      "Author Order": 7,
-      "Institution": "National Cancer Institute",
-      "Country": "United States",
-      "Is Corresponding": false,
-      "Affiliation": "Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Borgwardt K",
-      "Last Name": "Borgwardt",
-      "Author Order": 8,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Kleiner DE",
-      "Last Name": "Kleiner",
-      "Author Order": 9,
-      "Institution": "National Cancer Institute",
-      "Country": "United States",
-      "Is Corresponding": false,
-      "Affiliation": "Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Ben-Moshe S",
-      "Last Name": "Ben-Moshe",
-      "Author Order": 10,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": false,
-      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Rosenberger FA",
-      "Last Name": "Rosenberger",
-      "Author Order": 11,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": true,
-      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. rosenberger@biochem.mpg.de."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Porat-Shliom N",
-      "Last Name": "Porat-Shliom",
-      "Author Order": 12,
-      "Institution": "National Cancer Institute",
-      "Country": "United States",
-      "Is Corresponding": true,
-      "Affiliation": "Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA. natalie.porat-shliom@nih.gov."
-    },
-    {
-      "PMID": "41721135",
-      "Author Name": "Mann M",
-      "Last Name": "Mann",
-      "Author Order": 13,
-      "Institution": "Max Planck Institute of Biochemistry",
-      "Country": "Germany",
-      "Is Corresponding": true,
-      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
-    },
-    {
       "PMID": "40240610",
       "Author Name": "Rosenberger FA",
       "Last Name": "Rosenberger",
@@ -29650,6 +29582,166 @@
       "Country": "Germany",
       "Is Corresponding": true,
       "Affiliation": "Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
+    },
+    {
+      "PMID": "40027887",
+      "Author Name": "Boottanun P",
+      "Last Name": "Boottanun",
+      "Author Order": 1,
+      "Institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
+      "Country": "Japan",
+      "Is Corresponding": false,
+      "Affiliation": "Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+    },
+    {
+      "PMID": "40027887",
+      "Author Name": "Fuseya S",
+      "Last Name": "Fuseya",
+      "Author Order": 2,
+      "Institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
+      "Country": "Japan",
+      "Is Corresponding": false,
+      "Affiliation": "Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+    },
+    {
+      "PMID": "40027887",
+      "Author Name": "Kuno A",
+      "Last Name": "Kuno",
+      "Author Order": 3,
+      "Institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
+      "Country": "Japan",
+      "Is Corresponding": false,
+      "Affiliation": "Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Weiss CAM",
+      "Last Name": "Weiss",
+      "Author Order": 1,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Brown LA",
+      "Last Name": "Brown",
+      "Author Order": 2,
+      "Institution": "National Cancer Institute",
+      "Country": "United States",
+      "Is Corresponding": false,
+      "Affiliation": "Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Miranda L",
+      "Last Name": "Miranda",
+      "Author Order": 3,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Pellizzoni P",
+      "Last Name": "Pellizzoni",
+      "Author Order": 4,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Steigerwald S",
+      "Last Name": "Steigerwald",
+      "Author Order": 5,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Remmert K",
+      "Last Name": "Remmert",
+      "Author Order": 6,
+      "Institution": "National Cancer Institute",
+      "Country": "United States",
+      "Is Corresponding": false,
+      "Affiliation": "Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Hernandez JM",
+      "Last Name": "Hernandez",
+      "Author Order": 7,
+      "Institution": "National Cancer Institute",
+      "Country": "United States",
+      "Is Corresponding": false,
+      "Affiliation": "Surgical Oncology Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Borgwardt K",
+      "Last Name": "Borgwardt",
+      "Author Order": 8,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Machine Learning and Systems Biology, Max Planck Institute of Biochemistry, Martinsried, Germany."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Kleiner DE",
+      "Last Name": "Kleiner",
+      "Author Order": 9,
+      "Institution": "National Cancer Institute",
+      "Country": "United States",
+      "Is Corresponding": false,
+      "Affiliation": "Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Ben-Moshe S",
+      "Last Name": "Ben-Moshe",
+      "Author Order": 10,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": false,
+      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Rosenberger FA",
+      "Last Name": "Rosenberger",
+      "Author Order": 11,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": true,
+      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. rosenberger@biochem.mpg.de."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Porat-Shliom N",
+      "Last Name": "Porat-Shliom",
+      "Author Order": 12,
+      "Institution": "National Cancer Institute",
+      "Country": "United States",
+      "Is Corresponding": true,
+      "Affiliation": "Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA. natalie.porat-shliom@nih.gov."
+    },
+    {
+      "PMID": "41721135",
+      "Author Name": "Mann M",
+      "Last Name": "Mann",
+      "Author Order": 13,
+      "Institution": "Max Planck Institute of Biochemistry",
+      "Country": "Germany",
+      "Is Corresponding": true,
+      "Affiliation": "Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
     },
     {
       "PMID": "40536875",
