@@ -570,6 +570,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Fenton RA">
+      <data key="d0">Fenton RA</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Denmark</data>
+      <data key="d5">Aarhus University</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Fincham REA">
       <data key="d0">Fincham REA</data>
       <data key="d1">Author</data>
@@ -2240,6 +2250,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Rinschen M">
+      <data key="d0">Rinschen M</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Denmark</data>
+      <data key="d5">Aarhus University</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Rodriguez E">
       <data key="d0">Rodriguez E</data>
       <data key="d1">Author</data>
@@ -2260,6 +2280,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Rosenbaek LK">
+      <data key="d0">Rosenbaek LK</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Denmark</data>
+      <data key="d5">Aarhus University</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Rosenberger F">
       <data key="d0">Rosenberger F</data>
       <data key="d1">Author</data>
@@ -2275,8 +2305,8 @@
       <data key="d1">Author</data>
       <data key="d2">0</data>
       <data key="d3">11</data>
-      <data key="d4">Sweden</data>
-      <data key="d5">Karolinska Institutet</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3010,6 +3040,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Wu Q">
+      <data key="d0">Wu Q</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Denmark</data>
+      <data key="d5">Aarhus University</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Wu Y">
       <data key="d0">Wu Y</data>
       <data key="d1">Author</data>
@@ -3134,7 +3174,7 @@
       <data key="d0">Zheng X</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">5</data>
+      <data key="d3">6</data>
       <data key="d4">Denmark</data>
       <data key="d5">Aarhus University</data>
       <data key="d6">0</data>
@@ -3177,6 +3217,16 @@
       <data key="d3">4</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="d’Acierno M">
+      <data key="d0">d’Acierno M</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Denmark</data>
+      <data key="d5">Aarhus University</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3240,16 +3290,6 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
-    <node id="42638396">
-      <data key="d0">From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">0</data>
-    </node>
     <node id="40934911">
       <data key="d0">Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids</data>
       <data key="d1">Paper</data>
@@ -3290,8 +3330,8 @@
       <data key="d6">2025</data>
       <data key="d7">0</data>
     </node>
-    <node id="42013410">
-      <data key="d0">AI-Powered Deep Visual Proteomics Reveals Critical Molecular Transitions in Pancreatic Cancer Precursors</data>
+    <node id="41629719">
+      <data key="d0">Artificial Intelligence-Driven Laser Capture Microdissection</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -3300,8 +3340,8 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
-    <node id="41629719">
-      <data key="d0">Artificial Intelligence-Driven Laser Capture Microdissection</data>
+    <node id="42013410">
+      <data key="d0">AI-Powered Deep Visual Proteomics Reveals Critical Molecular Transitions in Pancreatic Cancer Precursors</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -3320,15 +3360,15 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
-    <node id="41965357">
-      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
+    <node id="39814024">
+      <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
       <data key="d4" />
       <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">2</data>
+      <data key="d6">2025</data>
+      <data key="d7">30</data>
     </node>
     <node id="41655216">
       <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
@@ -3340,15 +3380,15 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
-    <node id="39814024">
-      <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
+    <node id="41965357">
+      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
       <data key="d4" />
       <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">30</data>
+      <data key="d6">2026</data>
+      <data key="d7">2</data>
     </node>
     <node id="40578359">
       <data key="d0">Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression</data>
@@ -3359,6 +3399,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">18</data>
+    </node>
+    <node id="42638396">
+      <data key="d0">From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">1</data>
     </node>
     <node id="39910169">
       <data key="d0">Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma</data>
@@ -3380,6 +3430,16 @@
       <data key="d6">2026</data>
       <data key="d7">10</data>
     </node>
+    <node id="40027887">
+      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">17</data>
+    </node>
     <node id="40240610">
       <data key="d0">Deep Visual Proteomics maps proteotoxicity in a genetic liver disease</data>
       <data key="d1">Paper</data>
@@ -3389,16 +3449,6 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">40</data>
-    </node>
-    <node id="40027887">
-      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">15</data>
     </node>
     <node id="40536875">
       <data key="d0">Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics</data>
@@ -3460,16 +3510,6 @@
       <data key="d6">2026</data>
       <data key="d7">3</data>
     </node>
-    <node id="39415009">
-      <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2024</data>
-      <data key="d7">101</data>
-    </node>
     <node id="38513891">
       <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
       <data key="d1">Paper</data>
@@ -3479,6 +3519,16 @@
       <data key="d5" />
       <data key="d6">2024</data>
       <data key="d7">21</data>
+    </node>
+    <node id="39415009">
+      <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2024</data>
+      <data key="d7">101</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
@@ -3528,7 +3578,17 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">3</data>
+      <data key="d7">5</data>
+    </node>
+    <node id="PPR1313175">
+      <data key="d0">Deep visual proteomics reveals distinct proximal tubular and glomerular injury programs in experimental diabetic kidney disease</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">0</data>
     </node>
     <node id="PPR1281006">
       <data key="d0">Deep Visual Proteomics links vascular smooth muscle cell phenotypes to atherosclerotic plaque stability</data>
@@ -3570,16 +3630,6 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
-    <node id="PPR1052391">
-      <data key="d0">OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">3</data>
-    </node>
     <node id="PPR1068194">
       <data key="d0">Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival</data>
       <data key="d1">Paper</data>
@@ -3589,6 +3639,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">0</data>
+    </node>
+    <node id="PPR1052391">
+      <data key="d0">OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">3</data>
     </node>
     <node id="PPR1029109">
       <data key="d0">nanoPhos enables ultra-sensitive and cell-type resolved spatial phosphoproteomics</data>
@@ -3851,6 +3911,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Feldmeyer L" target="39415009">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Fenton RA" target="PPR1313175">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Fincham REA" target="41655216">
@@ -4294,10 +4357,10 @@
     <edge source="Mann M" target="PPR1029109">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="39910169">
+    <edge source="Mann M" target="PPR866889">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="PPR866889">
+    <edge source="Mann M" target="39910169">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mann M" target="PPR1002479">
@@ -4627,6 +4690,9 @@
     <edge source="Richter S" target="37602975">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Rinschen M" target="PPR1313175">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Rodriguez E" target="40578359">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4642,10 +4708,10 @@
     <edge source="Rodriguez EH" target="39415009">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Rosenberger F" target="40934911">
+    <edge source="Rosenbaek LK" target="PPR1313175">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Rosenberger FA" target="42638396">
+    <edge source="Rosenberger F" target="40934911">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rosenberger FA" target="PPR1242524">
@@ -4655,6 +4721,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rosenberger FA" target="PPR1029109">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Rosenberger FA" target="42638396">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rosenberger FA" target="41721135">
@@ -5002,6 +5071,9 @@
     <edge source="Wu D" target="41655216">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Wu Q" target="PPR1313175">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Wu Y" target="41655216">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5038,13 +5110,16 @@
     <edge source="Zhang Y" target="41655216">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Zheng X" target="PPR1313175">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Zheng X" target="39814024">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Zheng X" target="39910169">
+    <edge source="Zheng X" target="PPR866889">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Zheng X" target="PPR866889">
+    <edge source="Zheng X" target="39910169">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Zheng X" target="40536875">
@@ -5072,6 +5147,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Zwiebel M" target="39415009">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="d’Acierno M" target="PPR1313175">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="von Feilitzen K" target="PPR1242524">
