@@ -3348,7 +3348,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
     </node>
     <node id="40680990">
       <data key="d0">A perspective on integrating digital pathology, proteomics, clinical data and AI analytics in cancer research</data>
@@ -3398,7 +3398,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">18</data>
+      <data key="d7">25</data>
     </node>
     <node id="42638396">
       <data key="d0">From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases</data>
@@ -3528,7 +3528,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2024</data>
-      <data key="d7">101</data>
+      <data key="d7">119</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
@@ -3548,7 +3548,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">97</data>
+      <data key="d7">98</data>
     </node>
     <node id="35590073">
       <data key="d0">Deep Visual Proteomics defines single-cell identity and heterogeneity</data>
@@ -3558,7 +3558,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2022</data>
-      <data key="d7">500</data>
+      <data key="d7">515</data>
     </node>
     <node id="41044418">
       <data key="d0">Spatial multiomics of acute myocardial infarction reveals immune cell infiltration through the endocardium</data>
@@ -3618,7 +3618,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">0</data>
+      <data key="d7">1</data>
     </node>
     <node id="PPR1010749">
       <data key="d0">Multiplexed Deep Visual Proteomics Unveils Spatial Heterogeneity and Rare Endocrine States in Human Adult Pancreatic Islets</data>
