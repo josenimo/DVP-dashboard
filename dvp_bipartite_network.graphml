@@ -3378,7 +3378,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
     </node>
     <node id="41965357">
       <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
@@ -3400,16 +3400,6 @@
       <data key="d6">2025</data>
       <data key="d7">25</data>
     </node>
-    <node id="42638396">
-      <data key="d0">From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">1</data>
-    </node>
     <node id="39910169">
       <data key="d0">Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma</data>
       <data key="d1">Paper</data>
@@ -3419,6 +3409,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">7</data>
+    </node>
+    <node id="42638396">
+      <data key="d0">From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">1</data>
     </node>
     <node id="41721135">
       <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
@@ -3448,7 +3448,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">40</data>
+      <data key="d7">48</data>
     </node>
     <node id="40536875">
       <data key="d0">Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics</data>
@@ -3528,7 +3528,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2024</data>
-      <data key="d7">119</data>
+      <data key="d7">121</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
@@ -3538,7 +3538,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2023</data>
-      <data key="d7">170</data>
+      <data key="d7">175</data>
     </node>
     <node id="37602975">
       <data key="d0">Robust dimethyl-based multiplex-DIA doubles single-cell proteome depth via a reference channel</data>
@@ -3558,7 +3558,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2022</data>
-      <data key="d7">515</data>
+      <data key="d7">520</data>
     </node>
     <node id="41044418">
       <data key="d0">Spatial multiomics of acute myocardial infarction reveals immune cell infiltration through the endocardium</data>
@@ -3608,7 +3608,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">0</data>
+      <data key="d7">1</data>
     </node>
     <node id="PPR1242524">
       <data key="d0">A cell type-resolved proteomic atlas of the human body</data>
