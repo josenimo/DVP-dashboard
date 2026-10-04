@@ -694,7 +694,7 @@
       <data key="d0">Gil J</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
+      <data key="d3">2</data>
       <data key="d4">Sweden</data>
       <data key="d5">Lund University</data>
       <data key="d6">0</data>
@@ -1714,9 +1714,9 @@
       <data key="d0">Marko-Varga G</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
-      <data key="d4">Japan</data>
-      <data key="d5">Tokyo Medical University</data>
+      <data key="d3">2</data>
+      <data key="d4">Sweden</data>
+      <data key="d5">Lund University</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -2724,7 +2724,7 @@
       <data key="d0">Szadai L</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
+      <data key="d3">2</data>
       <data key="d4">Sweden</data>
       <data key="d5">University of Szeged</data>
       <data key="d6">0</data>
@@ -3290,6 +3290,16 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
+    <node id="42808946">
+      <data key="d0">Spatial Proteomics as a Potential Decision-Support Layer for Early Melanoma: A Narrative Review</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">0</data>
+    </node>
     <node id="40934911">
       <data key="d0">Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids</data>
       <data key="d1">Paper</data>
@@ -3298,7 +3308,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">7</data>
+      <data key="d7">8</data>
     </node>
     <node id="40675342">
       <data key="d0">Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics</data>
@@ -3400,16 +3410,6 @@
       <data key="d6">2025</data>
       <data key="d7">25</data>
     </node>
-    <node id="39910169">
-      <data key="d0">Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">7</data>
-    </node>
     <node id="42638396">
       <data key="d0">From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases</data>
       <data key="d1">Paper</data>
@@ -3420,6 +3420,16 @@
       <data key="d6">2026</data>
       <data key="d7">1</data>
     </node>
+    <node id="39910169">
+      <data key="d0">Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">7</data>
+    </node>
     <node id="41721135">
       <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
       <data key="d1">Paper</data>
@@ -3428,17 +3438,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">10</data>
-    </node>
-    <node id="40027887">
-      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">17</data>
+      <data key="d7">18</data>
     </node>
     <node id="40240610">
       <data key="d0">Deep Visual Proteomics maps proteotoxicity in a genetic liver disease</data>
@@ -3449,6 +3449,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">48</data>
+    </node>
+    <node id="40027887">
+      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">17</data>
     </node>
     <node id="40536875">
       <data key="d0">Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics</data>
@@ -3508,7 +3518,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">3</data>
+      <data key="d7">4</data>
     </node>
     <node id="38513891">
       <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
@@ -3630,16 +3640,6 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
-    <node id="PPR1068194">
-      <data key="d0">Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">0</data>
-    </node>
     <node id="PPR1052391">
       <data key="d0">OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics</data>
       <data key="d1">Paper</data>
@@ -3650,6 +3650,16 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
+    <node id="PPR1068194">
+      <data key="d0">Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">0</data>
+    </node>
     <node id="PPR1029109">
       <data key="d0">nanoPhos enables ultra-sensitive and cell-type resolved spatial phosphoproteomics</data>
       <data key="d1">Paper</data>
@@ -3658,7 +3668,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">7</data>
+      <data key="d7">6</data>
     </node>
     <node id="PPR866889">
       <data key="d0">Deep Visual Proteomics Unveils Precision Medicine Insights in Composite Small Lymphocytic and Classical Hodgkin Lymphoma</data>
@@ -3959,6 +3969,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Gauster M" target="PPR1051520">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Gil J" target="42808946">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Gil J" target="40680990">
@@ -4403,6 +4416,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mardamshina M" target="PPR1010749">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Marko-Varga G" target="42808946">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Marko-Varga G" target="40680990">
@@ -4928,6 +4944,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Swanson BJ" target="42013410">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Szadai L" target="42808946">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Szadai L" target="40680990">

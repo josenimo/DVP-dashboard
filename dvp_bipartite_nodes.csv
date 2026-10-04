@@ -67,7 +67,7 @@ Fromme M,Fromme M,Author,1,Germany,University Hospital RWTH,,
 Fuseya S,Fuseya S,Author,1,Japan,National Institute of Advanced Industrial Science and Technology (AIST),,
 Gasparello T,Gasparello T,Author,1,United Kingdom,University of Edinburgh,,
 Gauster M,Gauster M,Author,1,Germany,Gottfried Schatz Research Center,,
-Gil J,Gil J,Author,1,Sweden,Lund University,,
+Gil J,Gil J,Author,2,Sweden,Lund University,,
 Gjerdrum LMR,Gjerdrum LMR,Author,1,Denmark,Aarhus University,,
 Glukha N,Glukha N,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Gnann C,Gnann C,Author,1,Sweden,KTH - Royal Institute of Technology,,
@@ -169,7 +169,7 @@ Mann M,Mann M,Author,22,Germany,Max Planck Institute of Biochemistry,,
 Mann SP,Mann SP,Author,1,Denmark,University of Copenhagen,,
 Manning Fox JE,Manning Fox JE,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Mardamshina M,Mardamshina M,Author,1,Germany,Max Planck Institute of Biochemistry,,
-Marko-Varga G,Marko-Varga G,Author,1,Japan,Tokyo Medical University,,
+Marko-Varga G,Marko-Varga G,Author,2,Sweden,Lund University,,
 Mendoza R,Mendoza R,Author,1,United States,The University of Chicago,,
 Metousis A,Metousis A,Author,10,Germany,Max Planck Institute of Biochemistry,,
 Miczán V,Miczán V,Author,1,Denmark,Eötvös Loránd Research Network,,
@@ -270,7 +270,7 @@ Steigerwald S,Steigerwald S,Author,4,Germany,Max Planck Institute of Biochemistr
 Strauss MT,Strauss MT,Author,5,Denmark,Resolute Bio,,
 Strnad P,Strnad P,Author,1,Germany,University Hospital RWTH,,
 Swanson BJ,Swanson BJ,Author,1,Denmark,University of Nebraska Medical Center,,
-Szadai L,Szadai L,Author,1,Sweden,University of Szeged,,
+Szadai L,Szadai L,Author,2,Sweden,University of Szeged,,
 Szasz AM,Szasz AM,Author,1,Sweden,Semmelweis University,,
 Tanevski J,Tanevski J,Author,1,Germany,University Hospital Heidelberg and Heidelberg University,,
 Tanzer MC,Tanzer MC,Author,2,Australia,Walter and Eliza Hall Institute of Medical Research,,
@@ -327,7 +327,8 @@ von Scheidt M,von Scheidt M,Author,1,Germany,Max Planck Institute of Biochemistr
 42440036,"Bioimage analysis in deep visual proteomics: Advancing transparency, reproducibility, and FAIR principles",Paper,,,,2026,0
 42381461,Spatially Resolved Proteomic Cartography Illuminates the Earliest Molecular Programs in Pancreatic Cancer Evolution,Paper,,,,2026,0
 42427344,A guide to laser microdissection-based proteomics,Paper,,,,2026,0
-40934911,Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids,Paper,,,,2025,7
+42808946,Spatial Proteomics as a Potential Decision-Support Layer for Early Melanoma: A Narrative Review,Paper,,,,2026,0
+40934911,Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids,Paper,,,,2025,8
 40675342,Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics,Paper,,,,2025,0
 41629712,Immunofluorescence Imaging-Guided Laser Microdissection for Ultralow Input Spatial Tissue Proteomics,Paper,,,,2026,1
 40360936,Deep Visual Proteomics elucidates α1-antitrypsin deficiency,Paper,,,,2025,0
@@ -338,17 +339,17 @@ von Scheidt M,von Scheidt M,Author,1,Germany,Max Planck Institute of Biochemistr
 41655216,Integrating Spatial Proteogenomics in Cancer Research,Paper,,,,2026,2
 41965357,Deep visual proteomics uncovers nociceptor diversity and pain targets,Paper,,,,2026,2
 40578359,Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression,Paper,,,,2025,25
-39910169,Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma,Paper,,,,2025,7
 42638396,From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases,Paper,,,,2026,1
-41721135,Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture,Paper,,,,2026,10
-40027887,Toward spatial glycomics and glycoproteomics: Innovations and applications,Paper,,,,2025,17
+39910169,Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma,Paper,,,,2025,7
+41721135,Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture,Paper,,,,2026,18
 40240610,Deep Visual Proteomics maps proteotoxicity in a genetic liver disease,Paper,,,,2025,48
+40027887,Toward spatial glycomics and glycoproteomics: Innovations and applications,Paper,,,,2025,17
 40536875,Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics,Paper,,,,2025,0
 39252972,Spatial characterization and stratification of colorectal adenomas by deep visual proteomics,Paper,,,,2024,14
 37909047,A framework for ultra-low-input spatial tissue proteomics,Paper,,,,2023,57
 40229558,Spatial proteomics in translational and clinical research,Paper,,,,2025,19
 37683827,A Standardized and Reproducible Workflow for Membrane Glass Slides in Routine Histology and Spatial Proteomics,Paper,,,,2023,12
-41418981,An Ultrasensitive Spatial Tissue Proteomics Workflow Exceeding 100 Proteomes Per Day,Paper,,,,2026,3
+41418981,An Ultrasensitive Spatial Tissue Proteomics Workflow Exceeding 100 Proteomes Per Day,Paper,,,,2026,4
 38513891,An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics,Paper,,,,2024,21
 39415009,Spatial proteomics identifies JAKi as treatment for a lethal skin disease,Paper,,,,2024,121
 37783884,Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome,Paper,,,,2023,175
@@ -361,9 +362,9 @@ PPR1281006,Deep Visual Proteomics links vascular smooth muscle cell phenotypes t
 PPR1277341,Cell-type-resolved spatial proteogenomics from matched genome and proteome of the same cells,Paper,,,,2026,1
 PPR1242524,A cell type-resolved proteomic atlas of the human body,Paper,,,,2026,1
 PPR1010749,Multiplexed Deep Visual Proteomics Unveils Spatial Heterogeneity and Rare Endocrine States in Human Adult Pancreatic Islets,Paper,,,,2025,3
-PPR1068194,Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival,Paper,,,,2025,0
 PPR1052391,OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics,Paper,,,,2025,3
-PPR1029109,nanoPhos enables ultra-sensitive and cell-type resolved spatial phosphoproteomics,Paper,,,,2025,7
+PPR1068194,Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival,Paper,,,,2025,0
+PPR1029109,nanoPhos enables ultra-sensitive and cell-type resolved spatial phosphoproteomics,Paper,,,,2025,6
 PPR866889,Deep Visual Proteomics Unveils Precision Medicine Insights in Composite Small Lymphocytic and Classical Hodgkin Lymphoma,Paper,,,,2024,1
 PPR1002479,A Morpho-Proteomic Atlas of Mitosis at Sub-Minute Resolution,Paper,,,,2025,1
 PPR1051520,Maternal smoking in early pregnancy disrupts placental function through syncytiotrophoblast and macrophage dysregulation,Paper,,,,2025,1

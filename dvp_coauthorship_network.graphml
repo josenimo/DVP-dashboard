@@ -416,7 +416,7 @@
     </node>
     <node id="Gil J">
       <data key="d0">Gil J</data>
-      <data key="d1">1</data>
+      <data key="d1">2</data>
       <data key="d2">Sweden</data>
       <data key="d3">Lund University</data>
     </node>
@@ -1028,9 +1028,9 @@
     </node>
     <node id="Marko-Varga G">
       <data key="d0">Marko-Varga G</data>
-      <data key="d1">1</data>
-      <data key="d2">Japan</data>
-      <data key="d3">Tokyo Medical University</data>
+      <data key="d1">2</data>
+      <data key="d2">Sweden</data>
+      <data key="d3">Lund University</data>
     </node>
     <node id="Mendoza R">
       <data key="d0">Mendoza R</data>
@@ -1634,7 +1634,7 @@
     </node>
     <node id="Szadai L">
       <data key="d0">Szadai L</data>
-      <data key="d1">1</data>
+      <data key="d1">2</data>
       <data key="d2">Sweden</data>
       <data key="d3">University of Szeged</data>
     </node>
@@ -5269,13 +5269,13 @@
       <data key="d4">1</data>
     </edge>
     <edge source="Gil J" target="Szadai L">
-      <data key="d4">1</data>
+      <data key="d4">2</data>
     </edge>
     <edge source="Gil J" target="Németh IB">
       <data key="d4">1</data>
     </edge>
     <edge source="Gil J" target="Marko-Varga G">
-      <data key="d4">1</data>
+      <data key="d4">2</data>
     </edge>
     <edge source="Gjerdrum LMR" target="Zheng X">
       <data key="d4">1</data>
@@ -9508,7 +9508,7 @@
       <data key="d4">1</data>
     </edge>
     <edge source="Marko-Varga G" target="Szadai L">
-      <data key="d4">1</data>
+      <data key="d4">2</data>
     </edge>
     <edge source="Marko-Varga G" target="Németh IB">
       <data key="d4">1</data>

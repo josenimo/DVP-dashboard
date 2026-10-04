@@ -13,6 +13,20 @@ PMID,Keyword,Source
 42427344,Spatial Proteomics,Author Keyword
 42427344,Deep Visual Proteomics,Author Keyword
 42427344,Single‐cell Proteomics,Author Keyword
+42808946,Spatial Proteomics,Author Keyword
+42808946,Patient Risk Stratification,Author Keyword
+42808946,Early Stage Melanoma,Author Keyword
+42808946,Single Cell Technologies,Author Keyword
+42808946,Spatial Transcriptomics,Author Keyword
+42808946,Borderline Melanocytic Lesions,Author Keyword
+42808946,Humans,MeSH Term
+42808946,Melanoma,MeSH Term
+42808946,Skin Neoplasms,MeSH Term
+42808946,Proteomics,MeSH Term
+42808946,Mass Spectrometry,MeSH Term
+42808946,Early Detection of Cancer,MeSH Term
+42808946,Tumor Microenvironment,MeSH Term
+42808946,Laser Capture Microdissection,MeSH Term
 40934911,Colon,Author Keyword
 40934911,Mass spectrometry,Author Keyword
 40934911,Proteomics,Author Keyword
@@ -177,13 +191,6 @@ PMID,Keyword,Source
 41721135,Proteomics,MeSH Term
 41721135,Male,MeSH Term
 41721135,Single-Cell Analysis,MeSH Term
-40027887,Artificial intelligence,Author Keyword
-40027887,Automated analysis,Author Keyword
-40027887,glycomics,Author Keyword
-40027887,glycoproteomics,Author Keyword
-40027887,Lectin Microarray,Author Keyword
-40027887,Imaging Mass Cytometry,Author Keyword
-40027887,Spatial Omics,Author Keyword
 40240610,Liver,MeSH Term
 40240610,Hepatocytes,MeSH Term
 40240610,Humans,MeSH Term
@@ -199,6 +206,13 @@ PMID,Keyword,Source
 40240610,Unfolded Protein Response,MeSH Term
 40240610,Single-Cell Analysis,MeSH Term
 40240610,Machine Learning,MeSH Term
+40027887,Artificial intelligence,Author Keyword
+40027887,Automated analysis,Author Keyword
+40027887,glycomics,Author Keyword
+40027887,glycoproteomics,Author Keyword
+40027887,Lectin Microarray,Author Keyword
+40027887,Imaging Mass Cytometry,Author Keyword
+40027887,Spatial Omics,Author Keyword
 40536875,Cancer,Author Keyword
 40536875,Microscopy,Author Keyword
 40536875,Biotechnology And Bioengineering,Author Keyword
@@ -251,10 +265,10 @@ PMID,Keyword,Source
 41418981,automation,Author Keyword
 41418981,Spatial Proteomics,Author Keyword
 41418981,Diapasef,Author Keyword
+41418981,Cellenone,Author Keyword
 41418981,Evosep One,Author Keyword
 41418981,Whisper Zoom,Author Keyword
 41418981,Timsultra,Author Keyword
-41418981,Cellenone,Author Keyword
 41418981,Liver,MeSH Term
 41418981,Animals,MeSH Term
 41418981,Humans,MeSH Term
