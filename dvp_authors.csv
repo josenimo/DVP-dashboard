@@ -220,6 +220,12 @@ PPR1068194,Murray PJ,Murray,16,Unknown,Unknown,False,
 40578359,Lastra RR,Lastra,24,The University of Chicago,United States,False,"Department of Pathology, The University of Chicago, Chicago, IL 60637, USA."
 40578359,Mann M,Mann,25,University of Copenhagen,Denmark,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany; Proteomics Program, Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark. Electronic address: mmann@biochem.mpg.de."
 40578359,Lengyel E,Lengyel,26,The University of Chicago,United States,True,"Department of Obstetrics and Gynecology/Section of Gynecologic Oncology, The University of Chicago, Chicago, IL 60637, USA. Electronic address: elengyel@uchicago.edu."
+PPR866889,Zheng X,Zheng,1,Unknown,Unknown,False,
+PPR866889,Pedersen LM,Pedersen,2,Unknown,Unknown,False,
+PPR866889,Bzorek M,Bzorek,3,Unknown,Unknown,False,
+PPR866889,Mund A,Mund,4,Unknown,Unknown,False,
+PPR866889,Gjerdrum LMR,Gjerdrum,5,Unknown,Unknown,False,
+PPR866889,Mann M,Mann,6,Unknown,Unknown,False,
 PPR1029109,Oliinyk D,Oliinyk,1,Unknown,Unknown,False,
 PPR1029109,Heymann T,Heymann,2,Unknown,Unknown,False,
 PPR1029109,Henneberg L,Henneberg,3,Unknown,Unknown,False,
@@ -236,21 +242,15 @@ PPR1029109,Rosenberger FA,Rosenberger,13,Unknown,Unknown,False,
 PPR1029109,Schallenberg S,Schallenberg,14,Unknown,Unknown,False,
 PPR1029109,Klauschen F,Klauschen,15,Unknown,Unknown,False,
 PPR1029109,Mann M,Mann,16,Unknown,Unknown,False,
-PPR866889,Zheng X,Zheng,1,Unknown,Unknown,False,
-PPR866889,Pedersen LM,Pedersen,2,Unknown,Unknown,False,
-PPR866889,Bzorek M,Bzorek,3,Unknown,Unknown,False,
-PPR866889,Mund A,Mund,4,Unknown,Unknown,False,
-PPR866889,Gjerdrum LMR,Gjerdrum,5,Unknown,Unknown,False,
-PPR866889,Mann M,Mann,6,Unknown,Unknown,False,
-42638396,Wetzel S,Wetzel,1,Karolinska Institutet,Sweden,False,"Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
-42638396,Mann SP,Mann,2,University of Copenhagen,Denmark,False,"Center for Advanced Studies in Bioscience Innovation Law (CeBIL), University of Copenhagen, Copenhagen, Denmark."
-42638396,Rosenberger FA,Rosenberger,3,Karolinska Institutet,Sweden,False,"Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
 39910169,Kabatnik S,Kabatnik,1,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
 39910169,Zheng X,Zheng,2,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
 39910169,Pappas G,Pappas,3,University of Copenhagen,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark."
 39910169,Steigerwald S,Steigerwald,4,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
 39910169,Padula MP,Padula,5,University of Technology Sydney,Australia,True,"School of Life Sciences and Proteomics Core Facility, Faculty of Science, University of Technology Sydney, Ultimo, Australia. Matthew.Padula@uts.edu.au."
 39910169,Mann M,Mann,6,University of Copenhagen,Denmark,True,"Novo Nordisk Foundation Center for Protein Research, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark. mmann@biochem.mpg.de."
+42638396,Wetzel S,Wetzel,1,Karolinska Institutet,Sweden,False,"Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+42638396,Mann SP,Mann,2,University of Copenhagen,Denmark,False,"Center for Advanced Studies in Bioscience Innovation Law (CeBIL), University of Copenhagen, Copenhagen, Denmark."
+42638396,Rosenberger FA,Rosenberger,3,Karolinska Institutet,Sweden,False,"Division of Molecular Metabolism, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
 PPR1002479,Migh E,Migh,1,Unknown,Unknown,False,
 PPR1002479,Miczán V,Miczán,2,Unknown,Unknown,False,
 PPR1002479,Post F,Post,3,Unknown,Unknown,False,
@@ -287,6 +287,9 @@ PPR1002479,Horvath P,Horvath,23,Unknown,Unknown,False,
 41721135,Rosenberger FA,Rosenberger,11,Max Planck Institute of Biochemistry,Germany,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. rosenberger@biochem.mpg.de."
 41721135,Porat-Shliom N,Porat-Shliom,12,National Cancer Institute,United States,True,"Cell Biology and Imaging Sections, Thoracic and GI Malignancies Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA. natalie.porat-shliom@nih.gov."
 41721135,Mann M,Mann,13,Max Planck Institute of Biochemistry,Germany,True,"Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
+40027887,Boottanun P,Boottanun,1,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+40027887,Fuseya S,Fuseya,2,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
+40027887,Kuno A,Kuno,3,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
 40240610,Rosenberger FA,Rosenberger,1,Max Planck Institute of Biochemistry,Germany,True,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. rosenberger@biochem.mpg.de."
 40240610,Mädler SC,Mädler,2,Max Planck Institute of Biochemistry,Germany,False,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany."
 40240610,Thorhauge KH,Thorhauge,3,Centre for Liver Research,Denmark,False,"Department of Gastroenterology and Hepatology, Centre for Liver Research, Odense, Denmark."
@@ -306,9 +309,6 @@ PPR1002479,Horvath P,Horvath,23,Unknown,Unknown,False,
 40240610,Krag A,Krag,17,Centre for Liver Research,Denmark,False,"Department of Gastroenterology and Hepatology, Centre for Liver Research, Odense, Denmark."
 40240610,Strnad P,Strnad,18,University Hospital RWTH,Germany,False,"Medical Clinic III, Gastroenterology, Metabolic Diseases and Intensive Care, University Hospital RWTH, AachenHealth Care Provider of the European Reference Network on Rare Liver Disorders (ERN RARE LIVER), Aachen, Germany."
 40240610,Mann M,Mann,19,Max Planck Institute of Biochemistry,Germany,True,"Department of Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, Martinsried, Germany. mmann@biochem.mpg.de."
-40027887,Boottanun P,Boottanun,1,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
-40027887,Fuseya S,Fuseya,2,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
-40027887,Kuno A,Kuno,3,National Institute of Advanced Industrial Science and Technology (AIST),Japan,False,"Molecular and Cellular Glycoproteomics Research Group, Cellular and Molecular Biotechnology Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan."
 40536875,Zheng X,Zheng,1,Aarhus University,Denmark,True,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 2200 Copenhagen, Denmark; Department of Biomedicine, Aarhus University, 8000 Aarhus, Denmark. Electronic address: xiang.zheng@cpr.ku.dk."
 40536875,Mund A,Mund,2,BioInnovation Institute,Denmark,False,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 2200 Copenhagen, Denmark; OmicVision Biosciences, BioInnovation Institute, 2200 Copenhagen, Denmark."
 40536875,Mann M,Mann,3,Max Planck Institute of Biochemistry,Germany,False,"Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 2200 Copenhagen, Denmark; Proteomics and Signal Transduction, Max Planck Institute of Biochemistry, 82152 Martinsried, Germany."
