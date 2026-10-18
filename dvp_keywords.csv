@@ -182,15 +182,6 @@ PMID,Keyword,Source
 42638396,Metabolomics,MeSH Term
 42638396,Single-Cell Analysis,MeSH Term
 42638396,Multiomics,MeSH Term
-41721135,Liver,MeSH Term
-41721135,Hepatocytes,MeSH Term
-41721135,Animals,MeSH Term
-41721135,Humans,MeSH Term
-41721135,Mice,MeSH Term
-41721135,Proteome,MeSH Term
-41721135,Proteomics,MeSH Term
-41721135,Male,MeSH Term
-41721135,Single-Cell Analysis,MeSH Term
 40027887,Artificial intelligence,Author Keyword
 40027887,Automated analysis,Author Keyword
 40027887,glycomics,Author Keyword
@@ -213,6 +204,15 @@ PMID,Keyword,Source
 40240610,Unfolded Protein Response,MeSH Term
 40240610,Single-Cell Analysis,MeSH Term
 40240610,Machine Learning,MeSH Term
+41721135,Liver,MeSH Term
+41721135,Hepatocytes,MeSH Term
+41721135,Animals,MeSH Term
+41721135,Humans,MeSH Term
+41721135,Mice,MeSH Term
+41721135,Proteome,MeSH Term
+41721135,Proteomics,MeSH Term
+41721135,Male,MeSH Term
+41721135,Single-Cell Analysis,MeSH Term
 40536875,Cancer,Author Keyword
 40536875,Microscopy,Author Keyword
 40536875,Biotechnology And Bioengineering,Author Keyword

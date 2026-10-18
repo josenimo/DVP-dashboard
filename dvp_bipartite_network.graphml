@@ -3430,16 +3430,6 @@
       <data key="d6">2026</data>
       <data key="d7">1</data>
     </node>
-    <node id="41721135">
-      <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">18</data>
-    </node>
     <node id="40027887">
       <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
       <data key="d1">Paper</data>
@@ -3459,6 +3449,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">48</data>
+    </node>
+    <node id="41721135">
+      <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">18</data>
     </node>
     <node id="40536875">
       <data key="d0">Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics</data>
@@ -3568,7 +3568,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2022</data>
-      <data key="d7">520</data>
+      <data key="d7">525</data>
     </node>
     <node id="41044418">
       <data key="d0">Spatial multiomics of acute myocardial infarction reveals immune cell infiltration through the endocardium</data>
@@ -3640,16 +3640,6 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
-    <node id="PPR1052391">
-      <data key="d0">OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">3</data>
-    </node>
     <node id="PPR1068194">
       <data key="d0">Spatial proteomics reveals mechanisms of cell-intrinsic tryptophan metabolism controlling ovarian cancer survival</data>
       <data key="d1">Paper</data>
@@ -3659,6 +3649,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">0</data>
+    </node>
+    <node id="PPR1052391">
+      <data key="d0">OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">3</data>
     </node>
     <node id="PPR866889">
       <data key="d0">Deep Visual Proteomics Unveils Precision Medicine Insights in Composite Small Lymphocytic and Classical Hodgkin Lymphoma</data>
@@ -4379,10 +4379,10 @@
     <edge source="Mann M" target="PPR1002479">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="41721135">
+    <edge source="Mann M" target="40240610">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="40240610">
+    <edge source="Mann M" target="41721135">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mann M" target="40536875">
@@ -4742,10 +4742,10 @@
     <edge source="Rosenberger FA" target="42638396">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Rosenberger FA" target="41721135">
+    <edge source="Rosenberger FA" target="40240610">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Rosenberger FA" target="40240610">
+    <edge source="Rosenberger FA" target="41721135">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rosenberger FA" target="39252972">
@@ -4919,10 +4919,10 @@
     <edge source="Steigerwald S" target="39910169">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Steigerwald S" target="41721135">
+    <edge source="Steigerwald S" target="40240610">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Steigerwald S" target="40240610">
+    <edge source="Steigerwald S" target="41721135">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Strauss MT" target="42013410">
@@ -5066,10 +5066,10 @@
     <edge source="Weiss CAM" target="PPR1242524">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Weiss CAM" target="41721135">
+    <edge source="Weiss CAM" target="40240610">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Weiss CAM" target="40240610">
+    <edge source="Weiss CAM" target="41721135">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Wetzel S" target="42638396">
