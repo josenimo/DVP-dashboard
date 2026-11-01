@@ -402,7 +402,7 @@ Semenova A,Strauss MT,1
 Schiller HB,Strauss MT,1
 Rodriguez E,Strauss MT,2
 Nordmann TM,Strauss MT,3
-Mund A,Strauss MT,5
+Mund A,Strauss MT,6
 Mann M,Strauss MT,4
 Mädler SC,Schweizer L,1
 Madden K,Schweizer L,1
@@ -2148,9 +2148,9 @@ Wang H,Zonderland G,1
 Caffrey TC,Zonderland G,1
 Grandgenett PM,Zonderland G,1
 Hollingsworth MA,Zonderland G,1
-Ummat I,Zonderland G,1
-Strauss MT,Zonderland G,1
-Mund A,Zonderland G,1
+Ummat I,Zonderland G,2
+Strauss MT,Zonderland G,2
+Mund A,Zonderland G,2
 Maitra A,Zonderland G,1
 Selvanesan BC,Thomsen JH,1
 Oldenburg L,Selvanesan BC,1
@@ -2298,8 +2298,8 @@ Hollingsworth MA,Ummat I,1
 Hollingsworth MA,Strauss MT,1
 Hollingsworth MA,Mund A,1
 Hollingsworth MA,Maitra A,1
-Strauss MT,Ummat I,1
-Mund A,Ummat I,1
+Strauss MT,Ummat I,2
+Mund A,Ummat I,2
 Maitra A,Ummat I,1
 Maitra A,Strauss MT,1
 Maitra A,Mund A,1
@@ -2368,6 +2368,404 @@ Engel DR,Shevchuk O,1
 Mann SP,Wetzel S,1
 Rosenberger FA,Wetzel S,1
 Mann SP,Rosenberger FA,1
+Grey AC,Yu X,1
+Guo T,Yu X,1
+Wang Y,Yu X,1
+He H,Yu X,1
+Yang J,Yu X,1
+Shan B,Yu X,1
+Xie L,Yu X,1
+Yu X,Zhang M,1
+Yu X,Zhao Q,1
+Sun Y,Yu X,1
+Xiao J,Yu X,1
+Ye Z,Yu X,1
+Tang L,Yu X,1
+Low TY,Yu X,1
+Yang P,Yu X,1
+Molloy MP,Yu X,1
+Kwon HJ,Yu X,1
+Ishihama Y,Yu X,1
+Yu X,Zheng Y,1
+Xu P,Yu X,1
+Poon TCW,Yu X,1
+He F,Yu X,1
+Grey AC,Guo T,1
+Grey AC,Wang Y,1
+Grey AC,He H,1
+Grey AC,Yang J,1
+Grey AC,Shan B,1
+Grey AC,Xie L,1
+Grey AC,Zhang M,1
+Grey AC,Zhao Q,1
+Grey AC,Sun Y,1
+Grey AC,Xiao J,1
+Grey AC,Ye Z,1
+Grey AC,Tang L,1
+Grey AC,Low TY,1
+Grey AC,Yang P,1
+Grey AC,Molloy MP,1
+Grey AC,Kwon HJ,1
+Grey AC,Ishihama Y,1
+Grey AC,Zheng Y,1
+Grey AC,Xu P,1
+Grey AC,Poon TCW,1
+Grey AC,He F,1
+Guo T,Wang Y,1
+Guo T,He H,1
+Guo T,Yang J,1
+Guo T,Shan B,1
+Guo T,Xie L,1
+Guo T,Zhang M,1
+Guo T,Zhao Q,1
+Guo T,Sun Y,1
+Guo T,Xiao J,1
+Guo T,Ye Z,1
+Guo T,Tang L,1
+Guo T,Low TY,1
+Guo T,Yang P,1
+Guo T,Molloy MP,1
+Guo T,Kwon HJ,1
+Guo T,Ishihama Y,1
+Guo T,Zheng Y,1
+Guo T,Xu P,1
+Guo T,Poon TCW,1
+Guo T,He F,1
+He H,Wang Y,1
+Wang Y,Yang J,1
+Shan B,Wang Y,1
+Wang Y,Xie L,1
+Wang Y,Zhang M,1
+Wang Y,Zhao Q,1
+Sun Y,Wang Y,1
+Wang Y,Xiao J,1
+Wang Y,Ye Z,1
+Tang L,Wang Y,1
+Low TY,Wang Y,1
+Wang Y,Yang P,1
+Molloy MP,Wang Y,1
+Kwon HJ,Wang Y,1
+Ishihama Y,Wang Y,1
+Wang Y,Zheng Y,1
+Wang Y,Xu P,1
+Poon TCW,Wang Y,1
+He F,Wang Y,1
+He H,Yang J,1
+He H,Shan B,1
+He H,Xie L,1
+He H,Zhang M,1
+He H,Zhao Q,1
+He H,Sun Y,1
+He H,Xiao J,1
+He H,Ye Z,1
+He H,Tang L,1
+He H,Low TY,1
+He H,Yang P,1
+He H,Molloy MP,1
+He H,Kwon HJ,1
+He H,Ishihama Y,1
+He H,Zheng Y,1
+He H,Xu P,1
+He H,Poon TCW,1
+He F,He H,1
+Shan B,Yang J,1
+Xie L,Yang J,1
+Yang J,Zhang M,1
+Yang J,Zhao Q,1
+Sun Y,Yang J,1
+Xiao J,Yang J,1
+Yang J,Ye Z,1
+Tang L,Yang J,1
+Low TY,Yang J,1
+Yang J,Yang P,1
+Molloy MP,Yang J,1
+Kwon HJ,Yang J,1
+Ishihama Y,Yang J,1
+Yang J,Zheng Y,1
+Xu P,Yang J,1
+Poon TCW,Yang J,1
+He F,Yang J,1
+Shan B,Xie L,1
+Shan B,Zhang M,1
+Shan B,Zhao Q,1
+Shan B,Sun Y,1
+Shan B,Xiao J,1
+Shan B,Ye Z,1
+Shan B,Tang L,1
+Low TY,Shan B,1
+Shan B,Yang P,1
+Molloy MP,Shan B,1
+Kwon HJ,Shan B,1
+Ishihama Y,Shan B,1
+Shan B,Zheng Y,1
+Shan B,Xu P,1
+Poon TCW,Shan B,1
+He F,Shan B,1
+Xie L,Zhang M,1
+Xie L,Zhao Q,1
+Sun Y,Xie L,1
+Xiao J,Xie L,1
+Xie L,Ye Z,1
+Tang L,Xie L,1
+Low TY,Xie L,1
+Xie L,Yang P,1
+Molloy MP,Xie L,1
+Kwon HJ,Xie L,1
+Ishihama Y,Xie L,1
+Xie L,Zheng Y,1
+Xie L,Xu P,1
+Poon TCW,Xie L,1
+He F,Xie L,1
+Zhang M,Zhao Q,1
+Sun Y,Zhang M,1
+Xiao J,Zhang M,1
+Ye Z,Zhang M,1
+Tang L,Zhang M,1
+Low TY,Zhang M,1
+Yang P,Zhang M,1
+Molloy MP,Zhang M,1
+Kwon HJ,Zhang M,1
+Ishihama Y,Zhang M,1
+Zhang M,Zheng Y,1
+Xu P,Zhang M,1
+Poon TCW,Zhang M,1
+He F,Zhang M,1
+Sun Y,Zhao Q,1
+Xiao J,Zhao Q,1
+Ye Z,Zhao Q,1
+Tang L,Zhao Q,1
+Low TY,Zhao Q,1
+Yang P,Zhao Q,1
+Molloy MP,Zhao Q,1
+Kwon HJ,Zhao Q,1
+Ishihama Y,Zhao Q,1
+Zhao Q,Zheng Y,1
+Xu P,Zhao Q,1
+Poon TCW,Zhao Q,1
+He F,Zhao Q,1
+Sun Y,Xiao J,1
+Sun Y,Ye Z,1
+Sun Y,Tang L,1
+Low TY,Sun Y,1
+Sun Y,Yang P,1
+Molloy MP,Sun Y,1
+Kwon HJ,Sun Y,1
+Ishihama Y,Sun Y,1
+Sun Y,Zheng Y,1
+Sun Y,Xu P,1
+Poon TCW,Sun Y,1
+He F,Sun Y,1
+Xiao J,Ye Z,1
+Tang L,Xiao J,1
+Low TY,Xiao J,1
+Xiao J,Yang P,1
+Molloy MP,Xiao J,1
+Kwon HJ,Xiao J,1
+Ishihama Y,Xiao J,1
+Xiao J,Zheng Y,1
+Xiao J,Xu P,1
+Poon TCW,Xiao J,1
+He F,Xiao J,1
+Tang L,Ye Z,1
+Low TY,Ye Z,1
+Yang P,Ye Z,1
+Molloy MP,Ye Z,1
+Kwon HJ,Ye Z,1
+Ishihama Y,Ye Z,1
+Ye Z,Zheng Y,1
+Xu P,Ye Z,1
+Poon TCW,Ye Z,1
+He F,Ye Z,1
+Low TY,Tang L,1
+Tang L,Yang P,1
+Molloy MP,Tang L,1
+Kwon HJ,Tang L,1
+Ishihama Y,Tang L,1
+Tang L,Zheng Y,1
+Tang L,Xu P,1
+Poon TCW,Tang L,1
+He F,Tang L,1
+Low TY,Yang P,1
+Low TY,Molloy MP,1
+Kwon HJ,Low TY,1
+Ishihama Y,Low TY,1
+Low TY,Zheng Y,1
+Low TY,Xu P,1
+Low TY,Poon TCW,1
+He F,Low TY,1
+Molloy MP,Yang P,1
+Kwon HJ,Yang P,1
+Ishihama Y,Yang P,1
+Yang P,Zheng Y,1
+Xu P,Yang P,1
+Poon TCW,Yang P,1
+He F,Yang P,1
+Kwon HJ,Molloy MP,1
+Ishihama Y,Molloy MP,1
+Molloy MP,Zheng Y,1
+Molloy MP,Xu P,1
+Molloy MP,Poon TCW,1
+He F,Molloy MP,1
+Ishihama Y,Kwon HJ,1
+Kwon HJ,Zheng Y,1
+Kwon HJ,Xu P,1
+Kwon HJ,Poon TCW,1
+He F,Kwon HJ,1
+Ishihama Y,Zheng Y,1
+Ishihama Y,Xu P,1
+Ishihama Y,Poon TCW,1
+He F,Ishihama Y,1
+Xu P,Zheng Y,1
+Poon TCW,Zheng Y,1
+He F,Zheng Y,1
+Poon TCW,Xu P,1
+He F,Xu P,1
+He F,Poon TCW,1
+Nimo J,Valdes DS,2
+Nimo J,Trinh M,1
+Nimo J,Pentimalli T,1
+Klingeberg M,Nimo J,1
+Nimo J,Schallenberg S,1
+Klauschen F,Nimo J,1
+Herse F,Nimo J,2
+Florian S,Nimo J,1
+Nimo J,Rajewsky N,1
+Fritzsche S,Valdes DS,1
+Fritzsche S,Trinh M,1
+Fritzsche S,Pentimalli T,1
+Fritzsche S,Klauschen F,1
+Fritzsche S,Herse F,1
+Florian S,Fritzsche S,1
+Fritzsche S,Rajewsky N,1
+Trinh M,Valdes DS,1
+Pentimalli T,Valdes DS,1
+Klingeberg M,Valdes DS,1
+Schallenberg S,Valdes DS,1
+Klauschen F,Valdes DS,1
+Herse F,Valdes DS,2
+Florian S,Valdes DS,1
+Rajewsky N,Valdes DS,1
+Coscia F,Valdes DS,2
+Pentimalli T,Trinh M,1
+Klingeberg M,Trinh M,1
+Schallenberg S,Trinh M,1
+Klauschen F,Trinh M,1
+Herse F,Trinh M,1
+Florian S,Trinh M,1
+Rajewsky N,Trinh M,1
+Coscia F,Trinh M,1
+Klingeberg M,Pentimalli T,1
+Pentimalli T,Schallenberg S,1
+Klauschen F,Pentimalli T,1
+Herse F,Pentimalli T,1
+Florian S,Pentimalli T,1
+Pentimalli T,Rajewsky N,1
+Coscia F,Pentimalli T,1
+Klauschen F,Klingeberg M,1
+Herse F,Klingeberg M,1
+Florian S,Klingeberg M,1
+Klingeberg M,Rajewsky N,1
+Klauschen F,Schallenberg S,2
+Herse F,Schallenberg S,1
+Florian S,Schallenberg S,1
+Rajewsky N,Schallenberg S,1
+Herse F,Klauschen F,1
+Florian S,Klauschen F,1
+Klauschen F,Rajewsky N,1
+Coscia F,Klauschen F,1
+Florian S,Herse F,1
+Herse F,Rajewsky N,1
+Coscia F,Herse F,2
+Florian S,Rajewsky N,1
+Coscia F,Florian S,1
+Coscia F,Rajewsky N,1
+Dorka N,Mardamshina M,1
+Mardamshina M,Thielert M,1
+Björklund F,Mardamshina M,1
+Ballllosera Navarro F,Mardamshina M,1
+Mardamshina M,Martinez Casals A,1
+Kovacs F,Mardamshina M,1
+Avenel C,Mardamshina M,1
+Manning Fox JE,Mardamshina M,1
+Horvath P,Mardamshina M,1
+Mardamshina M,Wählby C,1
+MacDonald PE,Mardamshina M,1
+Mann M,Mardamshina M,1
+Lundberg E,Mardamshina M,1
+Dorka N,Thielert M,1
+Björklund F,Dorka N,1
+Ballllosera Navarro F,Dorka N,1
+Dorka N,Martinez Casals A,1
+Dorka N,Kovacs F,1
+Avenel C,Dorka N,1
+Dorka N,Manning Fox JE,1
+Dorka N,Horvath P,1
+Dorka N,Wählby C,1
+Dorka N,MacDonald PE,1
+Dorka N,Mann M,1
+Dorka N,Lundberg E,1
+Björklund F,Thielert M,1
+Ballllosera Navarro F,Thielert M,1
+Martinez Casals A,Thielert M,1
+Kovacs F,Thielert M,1
+Avenel C,Thielert M,1
+Manning Fox JE,Thielert M,1
+Horvath P,Thielert M,1
+Thielert M,Wählby C,1
+MacDonald PE,Thielert M,1
+Lundberg E,Thielert M,1
+Ballllosera Navarro F,Björklund F,1
+Björklund F,Martinez Casals A,1
+Björklund F,Kovacs F,1
+Avenel C,Björklund F,1
+Björklund F,Manning Fox JE,1
+Björklund F,Horvath P,1
+Björklund F,Wählby C,1
+Björklund F,MacDonald PE,1
+Björklund F,Mann M,1
+Björklund F,Lundberg E,1
+Ballllosera Navarro F,Martinez Casals A,1
+Ballllosera Navarro F,Kovacs F,1
+Avenel C,Ballllosera Navarro F,1
+Ballllosera Navarro F,Manning Fox JE,1
+Ballllosera Navarro F,Horvath P,1
+Ballllosera Navarro F,Wählby C,1
+Ballllosera Navarro F,MacDonald PE,1
+Ballllosera Navarro F,Mann M,1
+Ballllosera Navarro F,Lundberg E,1
+Kovacs F,Martinez Casals A,1
+Avenel C,Martinez Casals A,1
+Manning Fox JE,Martinez Casals A,1
+Horvath P,Martinez Casals A,1
+Martinez Casals A,Wählby C,1
+MacDonald PE,Martinez Casals A,1
+Mann M,Martinez Casals A,1
+Lundberg E,Martinez Casals A,1
+Avenel C,Kovacs F,1
+Kovacs F,Manning Fox JE,1
+Horvath P,Kovacs F,2
+Kovacs F,Wählby C,1
+Kovacs F,MacDonald PE,1
+Kovacs F,Mann M,2
+Kovacs F,Lundberg E,2
+Avenel C,Manning Fox JE,1
+Avenel C,Horvath P,1
+Avenel C,Wählby C,1
+Avenel C,MacDonald PE,1
+Avenel C,Mann M,1
+Avenel C,Lundberg E,1
+Horvath P,Manning Fox JE,1
+Manning Fox JE,Wählby C,1
+MacDonald PE,Manning Fox JE,1
+Mann M,Manning Fox JE,1
+Lundberg E,Manning Fox JE,1
+Horvath P,Wählby C,1
+Horvath P,MacDonald PE,1
+MacDonald PE,Wählby C,1
+Mann M,Wählby C,1
+Lundberg E,Wählby C,1
+MacDonald PE,Mann M,1
+Lundberg E,MacDonald PE,1
 Miczán V,Migh E,1
 Migh E,Post F,1
 Koos K,Migh E,1
@@ -2567,11 +2965,8 @@ Kovacs F,Kriston A,1
 Kovacs F,Mahdessian D,1
 Axelsson U,Kovacs F,1
 Kovacs F,Pal C,1
-Kovacs F,Lundberg E,2
 Kovacs F,Manczinger M,1
 Kovacs F,Mund A,1
-Kovacs F,Mann M,2
-Horvath P,Kovacs F,2
 Kriston A,Mahdessian D,1
 Axelsson U,Kriston A,1
 Kriston A,Pal C,1
@@ -2598,65 +2993,6 @@ Lundberg E,Manczinger M,1
 Manczinger M,Mund A,1
 Manczinger M,Mann M,1
 Horvath P,Manczinger M,1
-Dorka N,Mardamshina M,1
-Mardamshina M,Thielert M,1
-Björklund F,Mardamshina M,1
-Mardamshina M,Navarro FB,1
-Casals AM,Mardamshina M,1
-Kovacs F,Mardamshina M,1
-Manning Fox JE,Mardamshina M,1
-Horvath P,Mardamshina M,1
-MacDonald PE,Mardamshina M,1
-Mann M,Mardamshina M,1
-Lundberg E,Mardamshina M,1
-Dorka N,Thielert M,1
-Björklund F,Dorka N,1
-Dorka N,Navarro FB,1
-Casals AM,Dorka N,1
-Dorka N,Kovacs F,1
-Dorka N,Manning Fox JE,1
-Dorka N,Horvath P,1
-Dorka N,MacDonald PE,1
-Dorka N,Mann M,1
-Dorka N,Lundberg E,1
-Björklund F,Thielert M,1
-Navarro FB,Thielert M,1
-Casals AM,Thielert M,1
-Kovacs F,Thielert M,1
-Manning Fox JE,Thielert M,1
-Horvath P,Thielert M,1
-MacDonald PE,Thielert M,1
-Lundberg E,Thielert M,1
-Björklund F,Navarro FB,1
-Björklund F,Casals AM,1
-Björklund F,Kovacs F,1
-Björklund F,Manning Fox JE,1
-Björklund F,Horvath P,1
-Björklund F,MacDonald PE,1
-Björklund F,Mann M,1
-Björklund F,Lundberg E,1
-Casals AM,Navarro FB,1
-Kovacs F,Navarro FB,1
-Manning Fox JE,Navarro FB,1
-Horvath P,Navarro FB,1
-MacDonald PE,Navarro FB,1
-Mann M,Navarro FB,1
-Lundberg E,Navarro FB,1
-Casals AM,Kovacs F,1
-Casals AM,Manning Fox JE,1
-Casals AM,Horvath P,1
-Casals AM,MacDonald PE,1
-Casals AM,Mann M,1
-Casals AM,Lundberg E,1
-Kovacs F,Manning Fox JE,1
-Kovacs F,MacDonald PE,1
-Horvath P,Manning Fox JE,1
-MacDonald PE,Manning Fox JE,1
-Mann M,Manning Fox JE,1
-Lundberg E,Manning Fox JE,1
-Horvath P,MacDonald PE,1
-MacDonald PE,Mann M,1
-Lundberg E,MacDonald PE,1
 Heymann T,Oliinyk D,2
 Henneberg L,Oliinyk D,1
 Bardziukova A,Oliinyk D,1
@@ -2755,10 +3091,8 @@ Rodriguez EH,Schallenberg S,1
 Klauschen F,Rodriguez EH,1
 Rosenberger FA,Schallenberg S,1
 Klauschen F,Rosenberger FA,1
-Klauschen F,Schallenberg S,2
 Mann M,Schallenberg S,1
 Klauschen F,Mann M,1
-Nimo J,Valdes DS,2
 Nonn O,Valdes DS,1
 Ulrich J,Valdes DS,1
 Forstner D,Valdes DS,1
@@ -2768,8 +3102,6 @@ Pignitter M,Valdes DS,1
 Müller DN,Valdes DS,1
 Dechend R,Valdes DS,1
 Gauster M,Valdes DS,1
-Coscia F,Valdes DS,2
-Herse F,Valdes DS,2
 Nimo J,Nonn O,1
 Nimo J,Ulrich J,1
 Forstner D,Nimo J,1
@@ -2779,7 +3111,6 @@ Nimo J,Pignitter M,1
 Müller DN,Nimo J,1
 Dechend R,Nimo J,1
 Gauster M,Nimo J,1
-Herse F,Nimo J,2
 Nonn O,Ulrich J,1
 Forstner D,Nonn O,1
 Haider S,Nonn O,1
@@ -2834,59 +3165,6 @@ Coscia F,Dechend R,1
 Dechend R,Herse F,1
 Coscia F,Gauster M,1
 Gauster M,Herse F,1
-Coscia F,Herse F,2
-Nimo J,Trinh M,1
-Nimo J,Pentimalli T,1
-Klingeberg M,Nimo J,1
-Nimo J,Schallenberg S,1
-Klauschen F,Nimo J,1
-Florian S,Nimo J,1
-Nimo J,Rajewsky N,1
-Fritzsche S,Valdes DS,1
-Fritzsche S,Trinh M,1
-Fritzsche S,Pentimalli T,1
-Fritzsche S,Klauschen F,1
-Fritzsche S,Herse F,1
-Florian S,Fritzsche S,1
-Fritzsche S,Rajewsky N,1
-Trinh M,Valdes DS,1
-Pentimalli T,Valdes DS,1
-Klingeberg M,Valdes DS,1
-Schallenberg S,Valdes DS,1
-Klauschen F,Valdes DS,1
-Florian S,Valdes DS,1
-Rajewsky N,Valdes DS,1
-Pentimalli T,Trinh M,1
-Klingeberg M,Trinh M,1
-Schallenberg S,Trinh M,1
-Klauschen F,Trinh M,1
-Herse F,Trinh M,1
-Florian S,Trinh M,1
-Rajewsky N,Trinh M,1
-Coscia F,Trinh M,1
-Klingeberg M,Pentimalli T,1
-Pentimalli T,Schallenberg S,1
-Klauschen F,Pentimalli T,1
-Herse F,Pentimalli T,1
-Florian S,Pentimalli T,1
-Pentimalli T,Rajewsky N,1
-Coscia F,Pentimalli T,1
-Klauschen F,Klingeberg M,1
-Herse F,Klingeberg M,1
-Florian S,Klingeberg M,1
-Klingeberg M,Rajewsky N,1
-Herse F,Schallenberg S,1
-Florian S,Schallenberg S,1
-Rajewsky N,Schallenberg S,1
-Herse F,Klauschen F,1
-Florian S,Klauschen F,1
-Klauschen F,Rajewsky N,1
-Coscia F,Klauschen F,1
-Florian S,Herse F,1
-Herse F,Rajewsky N,1
-Florian S,Rajewsky N,1
-Coscia F,Florian S,1
-Coscia F,Rajewsky N,1
 Metousis A,Xu TT,1
 Kainacher L,Xu TT,1
 Xu TT,Zhang X,1
@@ -3356,6 +3634,136 @@ Fenton RA,Rosenbaek LK,1
 Rinschen M,Wu Q,1
 Fenton RA,Rinschen M,1
 Fenton RA,Wu Q,1
+Chelebian E,Egebjerg K,1
+Bæksgaard L,Egebjerg K,1
+Bjerregaard JK,Egebjerg K,1
+Egebjerg K,Garbyal RS,1
+Egebjerg K,Pfeiffer P,1
+Di Caterino T,Egebjerg K,1
+Egebjerg K,Yilmaz MN,1
+Egebjerg K,Jellesmark Thorsen LB,1
+Egebjerg K,Mikkelsen MD,1
+Egebjerg K,Pallisgaard N,1
+Ahlborn LB,Egebjerg K,1
+Egebjerg K,Zonderland G,1
+Egebjerg K,Ummat I,1
+Egebjerg K,Mund A,1
+Egebjerg K,Strauss MT,1
+Egebjerg K,Mau-Sørensen M,1
+Bæksgaard L,Chelebian E,1
+Bjerregaard JK,Chelebian E,1
+Chelebian E,Garbyal RS,1
+Chelebian E,Pfeiffer P,1
+Chelebian E,Di Caterino T,1
+Chelebian E,Yilmaz MN,1
+Chelebian E,Jellesmark Thorsen LB,1
+Chelebian E,Mikkelsen MD,1
+Chelebian E,Pallisgaard N,1
+Ahlborn LB,Chelebian E,1
+Chelebian E,Zonderland G,1
+Chelebian E,Ummat I,1
+Chelebian E,Mund A,1
+Chelebian E,Strauss MT,1
+Chelebian E,Mau-Sørensen M,1
+Bjerregaard JK,Bæksgaard L,1
+Bæksgaard L,Garbyal RS,1
+Bæksgaard L,Pfeiffer P,1
+Bæksgaard L,Di Caterino T,1
+Bæksgaard L,Yilmaz MN,1
+Bæksgaard L,Jellesmark Thorsen LB,1
+Bæksgaard L,Mikkelsen MD,1
+Bæksgaard L,Pallisgaard N,1
+Ahlborn LB,Bæksgaard L,1
+Bæksgaard L,Zonderland G,1
+Bæksgaard L,Ummat I,1
+Bæksgaard L,Mund A,1
+Bæksgaard L,Strauss MT,1
+Bæksgaard L,Mau-Sørensen M,1
+Bjerregaard JK,Garbyal RS,1
+Bjerregaard JK,Pfeiffer P,1
+Bjerregaard JK,Di Caterino T,1
+Bjerregaard JK,Yilmaz MN,1
+Bjerregaard JK,Jellesmark Thorsen LB,1
+Bjerregaard JK,Mikkelsen MD,1
+Bjerregaard JK,Pallisgaard N,1
+Ahlborn LB,Bjerregaard JK,1
+Bjerregaard JK,Zonderland G,1
+Bjerregaard JK,Ummat I,1
+Bjerregaard JK,Mund A,1
+Bjerregaard JK,Strauss MT,1
+Bjerregaard JK,Mau-Sørensen M,1
+Garbyal RS,Pfeiffer P,1
+Di Caterino T,Garbyal RS,1
+Garbyal RS,Yilmaz MN,1
+Garbyal RS,Jellesmark Thorsen LB,1
+Garbyal RS,Mikkelsen MD,1
+Garbyal RS,Pallisgaard N,1
+Ahlborn LB,Garbyal RS,1
+Garbyal RS,Zonderland G,1
+Garbyal RS,Ummat I,1
+Garbyal RS,Mund A,1
+Garbyal RS,Strauss MT,1
+Garbyal RS,Mau-Sørensen M,1
+Di Caterino T,Pfeiffer P,1
+Pfeiffer P,Yilmaz MN,1
+Jellesmark Thorsen LB,Pfeiffer P,1
+Mikkelsen MD,Pfeiffer P,1
+Pallisgaard N,Pfeiffer P,1
+Ahlborn LB,Pfeiffer P,1
+Pfeiffer P,Zonderland G,1
+Pfeiffer P,Ummat I,1
+Mund A,Pfeiffer P,1
+Pfeiffer P,Strauss MT,1
+Mau-Sørensen M,Pfeiffer P,1
+Di Caterino T,Yilmaz MN,1
+Di Caterino T,Jellesmark Thorsen LB,1
+Di Caterino T,Mikkelsen MD,1
+Di Caterino T,Pallisgaard N,1
+Ahlborn LB,Di Caterino T,1
+Di Caterino T,Zonderland G,1
+Di Caterino T,Ummat I,1
+Di Caterino T,Mund A,1
+Di Caterino T,Strauss MT,1
+Di Caterino T,Mau-Sørensen M,1
+Jellesmark Thorsen LB,Yilmaz MN,1
+Mikkelsen MD,Yilmaz MN,1
+Pallisgaard N,Yilmaz MN,1
+Ahlborn LB,Yilmaz MN,1
+Yilmaz MN,Zonderland G,1
+Ummat I,Yilmaz MN,1
+Mund A,Yilmaz MN,1
+Strauss MT,Yilmaz MN,1
+Mau-Sørensen M,Yilmaz MN,1
+Jellesmark Thorsen LB,Mikkelsen MD,1
+Jellesmark Thorsen LB,Pallisgaard N,1
+Ahlborn LB,Jellesmark Thorsen LB,1
+Jellesmark Thorsen LB,Zonderland G,1
+Jellesmark Thorsen LB,Ummat I,1
+Jellesmark Thorsen LB,Mund A,1
+Jellesmark Thorsen LB,Strauss MT,1
+Jellesmark Thorsen LB,Mau-Sørensen M,1
+Mikkelsen MD,Pallisgaard N,1
+Ahlborn LB,Mikkelsen MD,1
+Mikkelsen MD,Zonderland G,1
+Mikkelsen MD,Ummat I,1
+Mikkelsen MD,Mund A,1
+Mikkelsen MD,Strauss MT,1
+Mau-Sørensen M,Mikkelsen MD,1
+Ahlborn LB,Pallisgaard N,1
+Pallisgaard N,Zonderland G,1
+Pallisgaard N,Ummat I,1
+Mund A,Pallisgaard N,1
+Pallisgaard N,Strauss MT,1
+Mau-Sørensen M,Pallisgaard N,1
+Ahlborn LB,Zonderland G,1
+Ahlborn LB,Ummat I,1
+Ahlborn LB,Mund A,1
+Ahlborn LB,Strauss MT,1
+Ahlborn LB,Mau-Sørensen M,1
+Mau-Sørensen M,Zonderland G,1
+Mau-Sørensen M,Ummat I,1
+Mau-Sørensen M,Mund A,1
+Mau-Sørensen M,Strauss MT,1
 Schmacke NA,Wallmann G,1
 Bérouti M,Schmacke NA,1
 Harz H,Schmacke NA,1

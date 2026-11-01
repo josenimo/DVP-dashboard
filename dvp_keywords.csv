@@ -4,6 +4,17 @@ PMID,Keyword,Source
 42440036,laser capture microdissection,Author Keyword
 42440036,Spatial Biology,Author Keyword
 42440036,Deep Visual Proteomics,Author Keyword
+42440036,Neutrophils,MeSH Term
+42440036,Animals,MeSH Term
+42440036,Mice,MeSH Term
+42440036,Microscopy,MeSH Term
+42440036,Reproducibility of Results,MeSH Term
+42440036,Proteomics,MeSH Term
+42440036,"Image Processing, Computer-Assisted",MeSH Term
+42440036,Software,MeSH Term
+42440036,Urinary Bladder,MeSH Term
+42440036,Mass Spectrometry,MeSH Term
+42440036,Laser Capture Microdissection,MeSH Term
 42381461,Humans,MeSH Term
 42381461,Pancreatic Neoplasms,MeSH Term
 42381461,Proteomics,MeSH Term
@@ -15,10 +26,10 @@ PMID,Keyword,Source
 42427344,Single‐cell Proteomics,Author Keyword
 42808946,Spatial Proteomics,Author Keyword
 42808946,Patient Risk Stratification,Author Keyword
-42808946,Early Stage Melanoma,Author Keyword
 42808946,Single Cell Technologies,Author Keyword
 42808946,Spatial Transcriptomics,Author Keyword
 42808946,Borderline Melanocytic Lesions,Author Keyword
+42808946,Early Stage Melanoma,Author Keyword
 42808946,Humans,MeSH Term
 42808946,Melanoma,MeSH Term
 42808946,Skin Neoplasms,MeSH Term
@@ -27,6 +38,11 @@ PMID,Keyword,Source
 42808946,Early Detection of Cancer,MeSH Term
 42808946,Tumor Microenvironment,MeSH Term
 42808946,Laser Capture Microdissection,MeSH Term
+42934244,Islets of Langerhans,MeSH Term
+42934244,Humans,MeSH Term
+42934244,Proteomics,MeSH Term
+42934244,"Image Processing, Computer-Assisted",MeSH Term
+42934244,Mass Spectrometry,MeSH Term
 40934911,Colon,Author Keyword
 40934911,Mass spectrometry,Author Keyword
 40934911,Proteomics,Author Keyword
@@ -266,9 +282,9 @@ PMID,Keyword,Source
 41418981,Spatial Proteomics,Author Keyword
 41418981,Diapasef,Author Keyword
 41418981,Cellenone,Author Keyword
-41418981,Evosep One,Author Keyword
 41418981,Whisper Zoom,Author Keyword
 41418981,Timsultra,Author Keyword
+41418981,Evosep One,Author Keyword
 41418981,Liver,MeSH Term
 41418981,Animals,MeSH Term
 41418981,Humans,MeSH Term
