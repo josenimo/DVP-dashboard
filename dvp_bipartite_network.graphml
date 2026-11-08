@@ -80,6 +80,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Ataíde R">
+      <data key="d0">Ataíde R</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Avenel C">
       <data key="d0">Avenel C</data>
       <data key="d1">Author</data>
@@ -157,6 +167,16 @@
       <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Bennett C">
+      <data key="d0">Bennett C</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -600,6 +620,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Emery-Corbin SJ">
+      <data key="d0">Emery-Corbin SJ</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Engel DR">
       <data key="d0">Engel DR</data>
       <data key="d1">Author</data>
@@ -767,6 +797,16 @@
       <data key="d3">1</data>
       <data key="d4">Germany</data>
       <data key="d5">Gottfried Schatz Research Center</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Gianni LF">
+      <data key="d0">Gianni LF</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -1277,6 +1317,16 @@
       <data key="d3">1</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Juneja S">
+      <data key="d0">Juneja S</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -2020,6 +2070,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Motyer A">
+      <data key="d0">Motyer A</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Mund A">
       <data key="d0">Mund A</data>
       <data key="d1">Author</data>
@@ -2260,6 +2320,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Pasricha S">
+      <data key="d0">Pasricha S</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Pauli J">
       <data key="d0">Pauli J</data>
       <data key="d1">Author</data>
@@ -2327,6 +2397,16 @@
       <data key="d3">1</data>
       <data key="d4">Singapore</data>
       <data key="d5">Institute of Molecular and Cell Biology (IMCB)</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Pettikiriarachchi A">
+      <data key="d0">Pettikiriarachchi A</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -2410,6 +2490,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Rajasekhar P">
+      <data key="d0">Rajasekhar P</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Rajewsky N">
       <data key="d0">Rajewsky N</data>
       <data key="d1">Author</data>
@@ -2417,6 +2507,16 @@
       <data key="d3">1</data>
       <data key="d4">Germany</data>
       <data key="d5">corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Raman I">
+      <data key="d0">Raman I</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -2860,6 +2960,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Spall S">
+      <data key="d0">Spall S</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Stadler PC">
       <data key="d0">Stadler PC</data>
       <data key="d1">Author</data>
@@ -3097,6 +3207,16 @@
       <data key="d3">1</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Delbrück Center for Molecular Medicine in the Helmholtz Association</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Tsui E">
+      <data key="d0">Tsui E</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3410,6 +3530,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Yannakou CK">
+      <data key="d0">Yannakou CK</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Ye Z">
       <data key="d0">Ye Z</data>
       <data key="d1">Author</data>
@@ -3447,6 +3577,16 @@
       <data key="d3">1</data>
       <data key="d4">China</data>
       <data key="d5">Jiangnan University</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Yousef J">
+      <data key="d0">Yousef J</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3557,6 +3697,16 @@
       <data key="d3">1</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Zhu Y">
+      <data key="d0">Zhu Y</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">Unknown</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3690,16 +3840,6 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
-    <node id="42934244">
-      <data key="d0">Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">3</data>
-    </node>
     <node id="40934911">
       <data key="d0">Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids</data>
       <data key="d1">Paper</data>
@@ -3709,6 +3849,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">8</data>
+    </node>
+    <node id="42934244">
+      <data key="d0">Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">3</data>
     </node>
     <node id="40675342">
       <data key="d0">Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics</data>
@@ -3848,7 +3998,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">48</data>
+      <data key="d7">56</data>
     </node>
     <node id="41721135">
       <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
@@ -3938,7 +4088,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2024</data>
-      <data key="d7">121</data>
+      <data key="d7">130</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
@@ -3968,7 +4118,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2022</data>
-      <data key="d7">531</data>
+      <data key="d7">549</data>
     </node>
     <node id="41044418">
       <data key="d0">Spatial multiomics of acute myocardial infarction reveals immune cell infiltration through the endocardium</data>
@@ -4012,6 +4162,16 @@
     </node>
     <node id="PPR1281006">
       <data key="d0">Deep Visual Proteomics links vascular smooth muscle cell phenotypes to atherosclerotic plaque stability</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="PPR1355814">
+      <data key="d0">Megakaryocytic proteomic signatures define myeloproliferative neoplasms</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -4124,6 +4284,9 @@
     <edge source="Anzengruber F" target="39415009">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Ataíde R" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Avenel C" target="42934244">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4149,6 +4312,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Ben-Moshe S" target="41721135">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Bennett C" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Bernard V" target="42013410">
@@ -4322,6 +4488,9 @@
     <edge source="Egebjerg K" target="PPR1346246">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Emery-Corbin SJ" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Engel DR" target="42440036">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4383,6 +4552,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Gauster M" target="PPR1051520">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Gianni LF" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Gil J" target="42808946">
@@ -4563,6 +4735,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Johansson F" target="PPR1242524">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Juneja S" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Kabatnik S" target="40934911">
@@ -4790,10 +4965,10 @@
     <edge source="Mann M" target="PPR1242524">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="42934244">
+    <edge source="Mann M" target="40934911">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Mann M" target="40934911">
+    <edge source="Mann M" target="42934244">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mann M" target="39814024">
@@ -4932,6 +5107,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Moshkov N" target="PPR1002479">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Motyer A" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mund A" target="PPR1346246">
@@ -5087,6 +5265,9 @@
     <edge source="Pappas G" target="39910169">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Pasricha S" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Pauli J" target="PPR1281006">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5106,6 +5287,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Periasamy P" target="41655216">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Pettikiriarachchi A" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Pfeiffer P" target="PPR1346246">
@@ -5144,7 +5328,13 @@
     <edge source="Rahbek-Gjerdrum LM" target="35590073">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Rajasekhar P" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Rajewsky N" target="42918851">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Raman I" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rauch S" target="40578359">
@@ -5357,6 +5547,9 @@
     <edge source="Skowronek P" target="37602975">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Spall S" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Stadler PC" target="37683827">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5483,6 +5676,9 @@
     <edge source="Trinh M" target="42918851">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Tsui E" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Ugur E" target="PPR1029109">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5603,6 +5799,9 @@
     <edge source="Yang P" target="42908276">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Yannakou CK" target="PPR1355814">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Ye Z" target="42908276">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5613,6 +5812,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="You H" target="41655216">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Yousef J" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Yu X" target="42908276">
@@ -5661,6 +5863,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Zhou XX" target="37602975">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Zhu Y" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Zonderland G" target="PPR1346246">
