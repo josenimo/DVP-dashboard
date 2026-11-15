@@ -14,7 +14,7 @@ Ballllosera Navarro F,Ballllosera Navarro F,Author,1,United States,Stanford Univ
 Bardziukova A,Bardziukova A,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Bartels AS,Bartels AS,Author,1,Denmark,University of Copenhagen,,
 Beleon A,Beleon A,Author,1,Denmark,Eötvös Loránd Research Network,,
-Ben-Moshe S,Ben-Moshe S,Author,2,Germany,Max Planck Institute of Biochemistry,,
+Ben-Moshe S,Ben-Moshe S,Author,3,Germany,Max Planck Institute of Biochemistry,,
 Bennett C,Bennett C,Author,1,Unknown,Unknown,,
 Bernard V,Bernard V,Author,1,Denmark,The University of Texas MD Anderson Cancer Center,,
 Bestak K,Bestak K,Author,1,Germany,University Hospital Heidelberg and Heidelberg University,,
@@ -44,16 +44,17 @@ Chazotte M,Chazotte M,Author,1,Germany,University Hospital Heidelberg and Heidel
 Chelebian E,Chelebian E,Author,1,Denmark,Resolute Bio,,
 Chen J,Chen J,Author,1,Germany,ISAS,,
 Clement DL,Clement DL,Author,1,Denmark,University of Copenhagen,,
-Coscia F,Coscia F,Author,11,Germany,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,,
+Coscia F,Coscia F,Author,11,Germany,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),,
 Csikos D,Csikos D,Author,1,Denmark,Eötvös Loránd Research Network,,
 Debnath A,Debnath A,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Dechend R,Dechend R,Author,1,Germany,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,,
 Detlefsen S,Detlefsen S,Author,1,Denmark,University of Southern Denmark,,
 Di Caterino T,Di Caterino T,Author,1,Denmark,Resolute Bio,,
-Diedrich L,Diedrich L,Author,1,Germany,Max Planck Institute of Biochemistry,,
+Diedrich L,Diedrich L,Author,2,Germany,Max Planck Institute of Biochemistry,,
 Donle L,Donle L,Author,1,United States,The University of Chicago,,
 Dorka N,Dorka N,Author,1,United States,Stanford University,,
 Dragomir MP,Dragomir MP,Author,1,Germany,Institute of Pathology,,
+Dransfeld U,Dransfeld U,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Drici L,Drici L,Author,1,Denmark,University of Copenhagen,,
 Dummer R,Dummer R,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Duteil C,Duteil C,Author,1,Germany,Max Planck Institute of Biochemistry,,
@@ -72,7 +73,7 @@ Forstner D,Forstner D,Author,1,Germany,Gottfried Schatz Research Center,,
 Fraňková S,Fraňková S,Author,1,Czech Republic,Institute for Clinical and Experimental Medicine,,
 French LE,French LE,Author,1,Germany,Ludwig Maximilian University (LMU) Munich,,
 Frey N,Frey N,Author,1,Germany,University Hospital Heidelberg,,
-Fritzsche S,Fritzsche S,Author,5,Germany,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,,
+Fritzsche S,Fritzsche S,Author,5,Germany,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),,
 Fromme M,Fromme M,Author,1,Germany,University Hospital RWTH,,
 Fuseya S,Fuseya S,Author,1,Japan,National Institute of Advanced Industrial Science and Technology (AIST),,
 Garbyal RS,Garbyal RS,Author,1,Denmark,Resolute Bio,,
@@ -95,6 +96,7 @@ Guo T,Guo T,Author,1,China,Westlake University,,
 Habermann D,Habermann D,Author,1,Germany,University Hospital Essen,,
 Haider S,Haider S,Author,1,Germany,Department of Obstetrics and Gynaecology,,
 Hapek N,Hapek N,Author,1,Denmark,Eötvös Loránd Research Network,,
+Hartl FU,Hartl FU,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Hartlmayr D,Hartlmayr D,Author,1,France,Cellenion SASU,,
 Hartmann N,Hartmann N,Author,1,Germany,University Hospital Heidelberg,,
 Harz H,Harz H,Author,1,Germany,Ludwig-Maximilians-Universität München,,
@@ -109,7 +111,7 @@ Henneberg L,Henneberg L,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Hernandez JM,Hernandez JM,Author,1,United States,National Cancer Institute,,
 Hernández SD,Hernández SD,Author,1,Denmark,Resolute Bio,,
 Herse F,Herse F,Author,2,Germany,corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin,,
-Heymann T,Heymann T,Author,3,Germany,Max Planck Institute of Biochemistry,,
+Heymann T,Heymann T,Author,4,Germany,Max Planck Institute of Biochemistry,,
 Hindson J,Hindson J,Author,1,Unknown,Unknown,,
 Hollandi R,Hollandi R,Author,2,Denmark,Eötvös Loránd Research Network,,
 Hollingsworth MA,Hollingsworth MA,Author,1,Denmark,University of Nebraska Medical Center,,
@@ -123,6 +125,7 @@ Ingen-Housz-Oro S,Ingen-Housz-Oro S,Author,1,France,Henri Mondor Hospital,,
 Ishihama Y,Ishihama Y,Author,1,Japan,Kyoto University,,
 Itang EC,Itang EC,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Iván ZZ,Iván ZZ,Author,1,Denmark,Eötvös Loránd Research Network,,
+Jasiqi Y,Jasiqi Y,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Jellesmark Thorsen LB,Jellesmark Thorsen LB,Author,1,Denmark,Resolute Bio,,
 Jensen KB,Jensen KB,Author,1,Denmark,University of Copenhagen,,
 Jez G,Jez G,Author,2,Denmark,University of Copenhagen,,
@@ -154,9 +157,11 @@ Krisp C,Krisp C,Author,1,Germany,MDC-Bruker Center of Excellence for Single Cell
 Kriston A,Kriston A,Author,2,Denmark,Eötvös Loránd Research Network,,
 Kuno A,Kuno A,Author,1,Japan,National Institute of Advanced Industrial Science and Technology (AIST),,
 Kurnit KC,Kurnit KC,Author,1,United States,The University of Chicago,,
+Kuttler F,Kuttler F,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Kwon HJ,Kwon HJ,Author,1,South Korea,Yonsei University,,
 König J,König J,Author,1,Germany,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),,
 Larsen HL,Larsen HL,Author,1,Denmark,University of Copenhagen,,
+Lashuel HA,Lashuel HA,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Lastra RR,Lastra RR,Author,1,United States,The University of Chicago,,
 Lavine KJ,Lavine KJ,Author,1,United States,Washington University School of Medicine,,
 Lebedev M,Lebedev M,Author,1,Germany,Max Planck Institute of Biochemistry,,
@@ -175,18 +180,19 @@ Lundberg E,Lundberg E,Author,4,United States,Stanford University,,
 Luo W,Luo W,Author,1,Germany,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),,
 Lõhmussaar K,Lõhmussaar K,Author,1,Denmark,University of Copenhagen,,
 MacDonald PE,MacDonald PE,Author,1,Canada,University of Alberta,,
-Madden K,Madden K,Author,1,Germany,Max Planck Institute of Biochemistry,,
+Madden K,Madden K,Author,2,Germany,Max Planck Institute of Biochemistry,,
 Madden KG,Madden KG,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Madsen GI,Madsen GI,Author,1,Denmark,Odense University Hospital,,
 Maegdefessel L,Maegdefessel L,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Mahdessian D,Mahdessian D,Author,1,Denmark,Eötvös Loránd Research Network,,
+Mahul Mellier A,Mahul Mellier A,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Maimets M,Maimets M,Author,1,Denmark,University of Copenhagen,,
 Maitra A,Maitra A,Author,1,Denmark,New York University Grossman School of Medicine,,
 Makhmut A,Makhmut A,Author,4,Germany,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),,
 Malm J,Malm J,Author,1,Sweden,Lund University,,
 Manczinger M,Manczinger M,Author,1,Denmark,Eötvös Loránd Research Network,,
 Manickavel P,Manickavel P,Author,1,Canada,Western University,,
-Mann M,Mann M,Author,22,Germany,Max Planck Institute of Biochemistry,,
+Mann M,Mann M,Author,23,Germany,Max Planck Institute of Biochemistry,,
 Mann SP,Mann SP,Author,1,Denmark,University of Copenhagen,,
 Manning Fox JE,Manning Fox JE,Author,1,Canada,University of Alberta,,
 Mardamshina M,Mardamshina M,Author,1,United States,Stanford University,,
@@ -222,9 +228,9 @@ Nordmann TM,Nordmann TM,Author,7,Germany,Max Planck Institute of Biochemistry,,
 Novak A,Novak A,Author,1,Germany,University Hospital Essen,,
 Németh IB,Németh IB,Author,1,Sweden,University of Szeged,,
 Obermayr E,Obermayr E,Author,1,Germany,Max Planck Institute of Biochemistry,,
-Oeller M,Oeller M,Author,3,Germany,Max Planck Institute of Biochemistry,,
+Oeller M,Oeller M,Author,4,Germany,Max Planck Institute of Biochemistry,,
 Oldenburg L,Oldenburg L,Author,1,Denmark,Resolute Bio,,
-Oliinyk D,Oliinyk D,Author,2,Germany,Max Planck Institute of Biochemistry,,
+Oliinyk D,Oliinyk D,Author,3,Germany,Max Planck Institute of Biochemistry,,
 Padula MP,Padula MP,Author,1,Australia,University of Technology Sydney,,
 Pal C,Pal C,Author,1,Denmark,Eötvös Loránd Research Network,,
 Pallisgaard N,Pallisgaard N,Author,1,Denmark,Resolute Bio,,
@@ -244,6 +250,7 @@ Pignitter M,Pignitter M,Author,1,Germany,Department of Physiological Chemistry,,
 Poon TCW,Poon TCW,Author,1,China,University of Macau,,
 Porat-Shliom N,Porat-Shliom N,Author,1,United States,National Cancer Institute,,
 Post F,Post F,Author,3,Denmark,University of Copenhagen,,
+Prassler J,Prassler J,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Qian Z,Qian Z,Author,1,China,Nanjing Medical University,,
 Qin D,Qin D,Author,2,Germany,Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),,
 Rahbek-Gjerdrum LM,Rahbek-Gjerdrum LM,Author,2,Denmark,Zealand University Hospital,,
@@ -256,12 +263,13 @@ Ressler M,Ressler M,Author,1,Germany,Institute of Biomedical Science,,
 Restivo G,Restivo G,Author,1,Switzerland,University of Zurich,,
 Richter S,Richter S,Author,2,Germany,Technical University of Munich,,
 Rinschen M,Rinschen M,Author,1,Denmark,Aarhus University,,
-Rodriguez E,Rodriguez E,Author,3,Germany,Max Planck Institute of Biochemistry,,
+Rodriguez E,Rodriguez E,Author,4,Germany,Max Planck Institute of Biochemistry,,
 Rodriguez EH,Rodriguez EH,Author,2,Germany,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,,
 Rosenbaek LK,Rosenbaek LK,Author,1,Denmark,Aarhus University,,
 Rosenberger F,Rosenberger F,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Rosenberger FA,Rosenberger FA,Author,11,Germany,Max Planck Institute of Biochemistry,,
 Rossini S,Rossini S,Author,1,Germany,Max Planck Institute of Biochemistry,,
+Ruf V,Ruf V,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Sachs N,Sachs N,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Saez-Rodriguez J,Saez-Rodriguez J,Author,1,Germany,University Hospital Heidelberg and Heidelberg University,,
 Saito Y,Saito Y,Author,1,Japan,Niigata University Graduate School of Medical and Dental Sciences,,
@@ -277,6 +285,7 @@ Schmitt WD,Schmitt WD,Author,1,Germany,Institute of Pathology,,
 Schoffer K,Schoffer K,Author,1,Australia,Walter and Eliza Hall Institute of Medical Research,,
 Schunkert H,Schunkert H,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Schweizer L,Schweizer L,Author,8,Denmark,Resolute Bio,,
+Schüle A,Schüle A,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Selvanesan BC,Selvanesan BC,Author,1,Denmark,The University of Texas MD Anderson Cancer Center,,
 Semenova A,Semenova A,Author,1,Germany,Helmholtz Munich; Member of the German Center for Lung Research (DZL),,
 Seth A,Seth A,Author,1,France,Cellenion SASU,,
@@ -290,6 +299,7 @@ Siemes D,Siemes D,Author,1,Germany,University Hospital Essen,,
 Silke J,Silke J,Author,1,Australia,Walter and Eliza Hall Institute of Medical Research,,
 Silke N,Silke N,Author,1,Australia,Walter and Eliza Hall Institute of Medical Research,,
 Sinha A,Sinha A,Author,2,Germany,Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry,,
+Sitron CS,Sitron CS,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Sjöstedt E,Sjöstedt E,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Skarwan E,Skarwan E,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Skov J,Skov J,Author,1,Denmark,University of Copenhagen,,
@@ -303,7 +313,7 @@ Steigenberger B,Steigenberger B,Author,1,Germany,Max Planck Institute of Biochem
 Steigerwald S,Steigerwald S,Author,4,Germany,Max Planck Institute of Biochemistry,,
 Strauss MT,Strauss MT,Author,6,Denmark,Resolute Bio,,
 Strnad P,Strnad P,Author,1,Germany,University Hospital RWTH,,
-Sun Y,Sun Y,Author,1,Germany,Max Planck Institute of Biochemistry,,
+Sun Y,Sun Y,Author,2,Germany,Max Planck Institute of Biochemistry,,
 Swanson BJ,Swanson BJ,Author,1,Denmark,University of Nebraska Medical Center,,
 Szadai L,Szadai L,Author,2,Sweden,University of Szeged,,
 Szasz AM,Szasz AM,Author,1,Sweden,Semmelweis University,,
@@ -320,11 +330,13 @@ Thomsen JH,Thomsen JH,Author,1,Denmark,Resolute Bio,,
 Thorhauge KH,Thorhauge KH,Author,1,Denmark,Centre for Liver Research,,
 Trinh M,Trinh M,Author,1,Germany,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,,
 Tsui E,Tsui E,Author,1,Unknown,Unknown,,
-Ugur E,Ugur E,Author,1,Germany,Max Planck Institute of Biochemistry,,
+Ugur E,Ugur E,Author,2,Germany,Max Planck Institute of Biochemistry,,
 Uhlén M,Uhlén M,Author,1,Germany,Max Planck Institute of Biochemistry,,
+Ulrich C,Ulrich C,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Ulrich J,Ulrich J,Author,1,Germany,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,,
 Ummat I,Ummat I,Author,2,Denmark,Resolute Bio,,
 Valdes DS,Valdes DS,Author,2,Germany,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,,
+Vasconez Grunauer S,Vasconez Grunauer S,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Vasconez S,Vasconez S,Author,1,Germany,Max Planck Institute of Biochemistry,,
 Voss H,Voss H,Author,1,Germany,University Hospital Essen,,
 Wahle M,Wahle M,Author,5,Germany,Max Planck Institute of Biochemistry,,
@@ -376,42 +388,43 @@ d’Acierno M,d’Acierno M,Author,1,Denmark,Aarhus University,,
 von Feilitzen K,von Feilitzen K,Author,1,Germany,Max Planck Institute of Biochemistry,,
 von Kriegsheim A,von Kriegsheim A,Author,1,United Kingdom,University of Edinburgh,,
 von Scheidt M,von Scheidt M,Author,1,Germany,Max Planck Institute of Biochemistry,,
-42918851,OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics,Paper,,,,2026,3
 42440036,"Bioimage analysis in deep visual proteomics: Advancing transparency, reproducibility, and FAIR principles",Paper,,,,2026,1
 42381461,Spatially Resolved Proteomic Cartography Illuminates the Earliest Molecular Programs in Pancreatic Cancer Evolution,Paper,,,,2026,0
-42427344,A guide to laser microdissection-based proteomics,Paper,,,,2026,0
 42808946,Spatial Proteomics as a Potential Decision-Support Layer for Early Melanoma: A Narrative Review,Paper,,,,2026,0
 42908276,"Joint 12th Asia Oceania Human Proteome Organization (AOHUPO), 8th Asia Oceania Agricultural Proteomics Organization (AOAPO), 3rd π-HuB Global Summit, 1st π-HuB Industry Conference and 13th China Human Proteome Organization (CNHUPO) Congress Report",Paper,,,,2026,0
 40934911,Deep visual proteomics reveals an in vivo-like phenotype of orthotopically transplanted human colon organoids,Paper,,,,2025,8
-42934244,Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets,Paper,,,,2026,3
 40675342,Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics,Paper,,,,2025,0
 41629712,Immunofluorescence Imaging-Guided Laser Microdissection for Ultralow Input Spatial Tissue Proteomics,Paper,,,,2026,1
+42934244,Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets,Paper,,,,2026,3
 40360936,Deep Visual Proteomics elucidates α1-antitrypsin deficiency,Paper,,,,2025,0
 41629719,Artificial Intelligence-Driven Laser Capture Microdissection,Paper,,,,2026,0
 42013410,AI-Powered Deep Visual Proteomics Reveals Critical Molecular Transitions in Pancreatic Cancer Precursors,Paper,,,,2026,4
 40680990,"A perspective on integrating digital pathology, proteomics, clinical data and AI analytics in cancer research",Paper,,,,2025,3
-39814024,Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics,Paper,,,,2025,38
-41655216,Integrating Spatial Proteogenomics in Cancer Research,Paper,,,,2026,2
+42918851,OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics,Paper,,,,2026,3
+39814024,Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics,Paper,,,,2025,43
 41965357,Deep visual proteomics uncovers nociceptor diversity and pain targets,Paper,,,,2026,2
+41655216,Integrating Spatial Proteogenomics in Cancer Research,Paper,,,,2026,2
 40578359,Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression,Paper,,,,2025,25
 39910169,Deep visual proteomics reveals DNA replication stress as a hallmark of signet ring cell carcinoma,Paper,,,,2025,7
 42638396,From Single Cells to Diagnosis: Proteomics Technologies in the Multi-Omics Landscape of Rare and Mitochondrial Diseases,Paper,,,,2026,1
-40027887,Toward spatial glycomics and glycoproteomics: Innovations and applications,Paper,,,,2025,19
+42427344,A guide to laser microdissection-based proteomics,Paper,,,,2026,0
 40240610,Deep Visual Proteomics maps proteotoxicity in a genetic liver disease,Paper,,,,2025,56
-41721135,Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture,Paper,,,,2026,22
+40027887,Toward spatial glycomics and glycoproteomics: Innovations and applications,Paper,,,,2025,19
+41721135,Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture,Paper,,,,2026,24
 40536875,Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics,Paper,,,,2025,0
 39252972,Spatial characterization and stratification of colorectal adenomas by deep visual proteomics,Paper,,,,2024,14
 37909047,A framework for ultra-low-input spatial tissue proteomics,Paper,,,,2023,57
 40229558,Spatial proteomics in translational and clinical research,Paper,,,,2025,19
 37683827,A Standardized and Reproducible Workflow for Membrane Glass Slides in Routine Histology and Spatial Proteomics,Paper,,,,2023,12
 41418981,An Ultrasensitive Spatial Tissue Proteomics Workflow Exceeding 100 Proteomes Per Day,Paper,,,,2026,5
-38513891,An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics,Paper,,,,2024,21
 39415009,Spatial proteomics identifies JAKi as treatment for a lethal skin disease,Paper,,,,2024,130
+38513891,An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics,Paper,,,,2024,21
 37783884,Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome,Paper,,,,2023,175
 37602975,Robust dimethyl-based multiplex-DIA doubles single-cell proteome depth via a reference channel,Paper,,,,2023,98
 35590073,Deep Visual Proteomics defines single-cell identity and heterogeneity,Paper,,,,2022,549
 41044418,Spatial multiomics of acute myocardial infarction reveals immune cell infiltration through the endocardium,Paper,,,,2025,13
 41233595,Spatial proteomics of ovarian cancer precursors delineates early disease changes and drug targets,Paper,,,,2026,6
+PPR1359019,Aggregate Deep Visual Proteomics reveals selective organization of α-synuclein inclusions,Paper,,,,2026,0
 PPR1346246,"Nationwide HER2 Testing, Prospective Trastuzumab-Based Therapy, and Deep Visual Proteomics in Esophageal Squamous Cell Carcinoma",Paper,,,,2026,0
 PPR1313175,Deep visual proteomics reveals distinct proximal tubular and glomerular injury programs in experimental diabetic kidney disease,Paper,,,,2026,0
 PPR1281006,Deep Visual Proteomics links vascular smooth muscle cell phenotypes to atherosclerotic plaque stability,Paper,,,,2026,0

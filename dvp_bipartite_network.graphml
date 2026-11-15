@@ -164,7 +164,7 @@
       <data key="d0">Ben-Moshe S</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">2</data>
+      <data key="d3">3</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -466,7 +466,7 @@
       <data key="d2">0</data>
       <data key="d3">11</data>
       <data key="d4">Germany</data>
-      <data key="d5">Max Delbrück Center for Molecular Medicine in the Helmholtz Association</data>
+      <data key="d5">Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC)</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -524,7 +524,7 @@
       <data key="d0">Diedrich L</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
+      <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -557,6 +557,16 @@
       <data key="d3">1</data>
       <data key="d4">Germany</data>
       <data key="d5">Institute of Pathology</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Dransfeld U">
+      <data key="d0">Dransfeld U</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -746,7 +756,7 @@
       <data key="d2">0</data>
       <data key="d3">5</data>
       <data key="d4">Germany</data>
-      <data key="d5">Max Delbrück Center for Molecular Medicine in the Helmholtz Association</data>
+      <data key="d5">Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC)</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -970,6 +980,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Hartl FU">
+      <data key="d0">Hartl FU</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Hartlmayr D">
       <data key="d0">Hartlmayr D</data>
       <data key="d1">Author</data>
@@ -1114,7 +1134,7 @@
       <data key="d0">Heymann T</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">3</data>
+      <data key="d3">4</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -1247,6 +1267,16 @@
       <data key="d3">1</data>
       <data key="d4">Denmark</data>
       <data key="d5">Eötvös Loránd Research Network</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Jasiqi Y">
+      <data key="d0">Jasiqi Y</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -1560,6 +1590,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Kuttler F">
+      <data key="d0">Kuttler F</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Kwon HJ">
       <data key="d0">Kwon HJ</data>
       <data key="d1">Author</data>
@@ -1587,6 +1627,16 @@
       <data key="d3">1</data>
       <data key="d4">Denmark</data>
       <data key="d5">University of Copenhagen</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Lashuel HA">
+      <data key="d0">Lashuel HA</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -1774,7 +1824,7 @@
       <data key="d0">Madden K</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
+      <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -1817,6 +1867,16 @@
       <data key="d3">1</data>
       <data key="d4">Denmark</data>
       <data key="d5">Eötvös Loránd Research Network</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Mahul Mellier A">
+      <data key="d0">Mahul Mellier A</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -1884,7 +1944,7 @@
       <data key="d0">Mann M</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">22</data>
+      <data key="d3">23</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -2244,7 +2304,7 @@
       <data key="d0">Oeller M</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">3</data>
+      <data key="d3">4</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -2264,7 +2324,7 @@
       <data key="d0">Oliinyk D</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">2</data>
+      <data key="d3">3</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -2460,6 +2520,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Prassler J">
+      <data key="d0">Prassler J</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Qian Z">
       <data key="d0">Qian Z</data>
       <data key="d1">Author</data>
@@ -2584,7 +2654,7 @@
       <data key="d0">Rodriguez E</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">3</data>
+      <data key="d3">4</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -2632,6 +2702,16 @@
     </node>
     <node id="Rossini S">
       <data key="d0">Rossini S</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Ruf V">
+      <data key="d0">Ruf V</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
       <data key="d3">1</data>
@@ -2790,6 +2870,16 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
+    <node id="Schüle A">
+      <data key="d0">Schüle A</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
     <node id="Selvanesan BC">
       <data key="d0">Selvanesan BC</data>
       <data key="d1">Author</data>
@@ -2917,6 +3007,16 @@
       <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Department of Proteomics and Signal Transduction; Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Sitron CS">
+      <data key="d0">Sitron CS</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3054,7 +3154,7 @@
       <data key="d0">Sun Y</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
+      <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -3224,7 +3324,7 @@
       <data key="d0">Ugur E</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
-      <data key="d3">1</data>
+      <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
@@ -3232,6 +3332,16 @@
     </node>
     <node id="Uhlén M">
       <data key="d0">Uhlén M</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Ulrich C">
+      <data key="d0">Ulrich C</data>
       <data key="d1">Author</data>
       <data key="d2">0</data>
       <data key="d3">1</data>
@@ -3267,6 +3377,16 @@
       <data key="d3">2</data>
       <data key="d4">Germany</data>
       <data key="d5">Max Delbrück Center for Molecular Medicine in the Helmholtz Association</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="Vasconez Grunauer S">
+      <data key="d0">Vasconez Grunauer S</data>
+      <data key="d1">Author</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">Germany</data>
+      <data key="d5">Max Planck Institute of Biochemistry</data>
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
@@ -3780,16 +3900,6 @@
       <data key="d6">0</data>
       <data key="d7">0</data>
     </node>
-    <node id="42918851">
-      <data key="d0">OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">3</data>
-    </node>
     <node id="42440036">
       <data key="d0">Bioimage analysis in deep visual proteomics: Advancing transparency, reproducibility, and FAIR principles</data>
       <data key="d1">Paper</data>
@@ -3802,16 +3912,6 @@
     </node>
     <node id="42381461">
       <data key="d0">Spatially Resolved Proteomic Cartography Illuminates the Earliest Molecular Programs in Pancreatic Cancer Evolution</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">0</data>
-    </node>
-    <node id="42427344">
-      <data key="d0">A guide to laser microdissection-based proteomics</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -3850,16 +3950,6 @@
       <data key="d6">2025</data>
       <data key="d7">8</data>
     </node>
-    <node id="42934244">
-      <data key="d0">Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">3</data>
-    </node>
     <node id="40675342">
       <data key="d0">Novel Insights Into the Progression of α1-Antitrypsin Deficiency-Associated Liver Disease Using Artificial Intelligence-Driven Deep Visual Proteomics</data>
       <data key="d1">Paper</data>
@@ -3879,6 +3969,16 @@
       <data key="d5" />
       <data key="d6">2026</data>
       <data key="d7">1</data>
+    </node>
+    <node id="42934244">
+      <data key="d0">Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">3</data>
     </node>
     <node id="40360936">
       <data key="d0">Deep Visual Proteomics elucidates α1-antitrypsin deficiency</data>
@@ -3920,6 +4020,16 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
+    <node id="42918851">
+      <data key="d0">OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">3</data>
+    </node>
     <node id="39814024">
       <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
       <data key="d1">Paper</data>
@@ -3928,10 +4038,10 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2025</data>
-      <data key="d7">38</data>
+      <data key="d7">43</data>
     </node>
-    <node id="41655216">
-      <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
+    <node id="41965357">
+      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -3940,8 +4050,8 @@
       <data key="d6">2026</data>
       <data key="d7">2</data>
     </node>
-    <node id="41965357">
-      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
+    <node id="41655216">
+      <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -3980,15 +4090,15 @@
       <data key="d6">2026</data>
       <data key="d7">1</data>
     </node>
-    <node id="40027887">
-      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
+    <node id="42427344">
+      <data key="d0">A guide to laser microdissection-based proteomics</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
       <data key="d4" />
       <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">19</data>
+      <data key="d6">2026</data>
+      <data key="d7">0</data>
     </node>
     <node id="40240610">
       <data key="d0">Deep Visual Proteomics maps proteotoxicity in a genetic liver disease</data>
@@ -4000,6 +4110,16 @@
       <data key="d6">2025</data>
       <data key="d7">56</data>
     </node>
+    <node id="40027887">
+      <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">19</data>
+    </node>
     <node id="41721135">
       <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
       <data key="d1">Paper</data>
@@ -4008,7 +4128,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">22</data>
+      <data key="d7">24</data>
     </node>
     <node id="40536875">
       <data key="d0">Protocol for spatial proteomic profiling of tonsil cancer microenvironments using multiplexed imaging-powered deep visual proteomics</data>
@@ -4070,16 +4190,6 @@
       <data key="d6">2026</data>
       <data key="d7">5</data>
     </node>
-    <node id="38513891">
-      <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2024</data>
-      <data key="d7">21</data>
-    </node>
     <node id="39415009">
       <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
       <data key="d1">Paper</data>
@@ -4089,6 +4199,16 @@
       <data key="d5" />
       <data key="d6">2024</data>
       <data key="d7">130</data>
+    </node>
+    <node id="38513891">
+      <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2024</data>
+      <data key="d7">21</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
@@ -4139,6 +4259,16 @@
       <data key="d5" />
       <data key="d6">2026</data>
       <data key="d7">6</data>
+    </node>
+    <node id="PPR1359019">
+      <data key="d0">Aggregate Deep Visual Proteomics reveals selective organization of α-synuclein inclusions</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">0</data>
     </node>
     <node id="PPR1346246">
       <data key="d0">Nationwide HER2 Testing, Prospective Trastuzumab-Based Therapy, and Deep Visual Proteomics in Esophageal Squamous Cell Carcinoma</data>
@@ -4308,6 +4438,9 @@
     <edge source="Beleon A" target="PPR1002479">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Ben-Moshe S" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Ben-Moshe S" target="PPR1242524">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4410,10 +4543,10 @@
     <edge source="Clement DL" target="40934911">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Coscia F" target="42918851">
+    <edge source="Coscia F" target="41629712">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Coscia F" target="41629712">
+    <edge source="Coscia F" target="42918851">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Coscia F" target="41965357">
@@ -4458,6 +4591,9 @@
     <edge source="Di Caterino T" target="PPR1346246">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Diedrich L" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Diedrich L" target="PPR1242524">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4468,6 +4604,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Dragomir MP" target="41233595">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Dransfeld U" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Drici L" target="39252972">
@@ -4524,10 +4663,10 @@
     <edge source="Frey N" target="41044418">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Fritzsche S" target="42918851">
+    <edge source="Fritzsche S" target="41629712">
       <data key="d8">Author-Paper</data>
     </edge>
-    <edge source="Fritzsche S" target="41629712">
+    <edge source="Fritzsche S" target="42918851">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Fritzsche S" target="37909047">
@@ -4608,6 +4747,9 @@
     <edge source="Hapek N" target="PPR1002479">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Hartl FU" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Hartlmayr D" target="38513891">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4651,6 +4793,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Herse F" target="PPR1051520">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Heymann T" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Heymann T" target="PPR1281006">
@@ -4711,6 +4856,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Iván ZZ" target="PPR1002479">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Jasiqi Y" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Jellesmark Thorsen LB" target="PPR1346246">
@@ -4830,6 +4978,9 @@
     <edge source="Kurnit KC" target="40578359">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Kuttler F" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Kwon HJ" target="42908276">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4837,6 +4988,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Larsen HL" target="40934911">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Lashuel HA" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Lastra RR" target="40578359">
@@ -4914,6 +5068,9 @@
     <edge source="MacDonald PE" target="42934244">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Madden K" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Madden K" target="37783884">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -4927,6 +5084,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mahdessian D" target="PPR1002479">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Mahul Mellier A" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Maimets M" target="40934911">
@@ -4954,6 +5114,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Manickavel P" target="40675342">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Mann M" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Mann M" target="PPR1281006">
@@ -5232,6 +5395,9 @@
     <edge source="Obermayr E" target="PPR1068194">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Oeller M" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Oeller M" target="PPR1242524">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5242,6 +5408,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Oldenburg L" target="42013410">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Oliinyk D" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Oliinyk D" target="PPR1242524">
@@ -5313,6 +5482,9 @@
     <edge source="Post F" target="39252972">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Prassler J" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Qian Z" target="41655216">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5356,6 +5528,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rinschen M" target="PPR1313175">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Rodriguez E" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rodriguez E" target="40578359">
@@ -5413,6 +5588,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Rossini S" target="PPR1068194">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Ruf V" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Sachs N" target="PPR1281006">
@@ -5490,6 +5668,9 @@
     <edge source="Schweizer L" target="35590073">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Schüle A" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Selvanesan BC" target="42013410">
       <data key="d8">Author-Paper</data>
     </edge>
@@ -5530,6 +5711,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Sinha A" target="39415009">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Sitron CS" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Sjöstedt E" target="PPR1242524">
@@ -5599,6 +5783,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Strnad P" target="40240610">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Sun Y" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Sun Y" target="42908276">
@@ -5679,10 +5866,16 @@
     <edge source="Tsui E" target="PPR1355814">
       <data key="d8">Author-Paper</data>
     </edge>
+    <edge source="Ugur E" target="PPR1359019">
+      <data key="d8">Author-Paper</data>
+    </edge>
     <edge source="Ugur E" target="PPR1029109">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Uhlén M" target="PPR1242524">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Ulrich C" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Ulrich J" target="PPR1051520">
@@ -5698,6 +5891,9 @@
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Valdes DS" target="PPR1051520">
+      <data key="d8">Author-Paper</data>
+    </edge>
+    <edge source="Vasconez Grunauer S" target="PPR1359019">
       <data key="d8">Author-Paper</data>
     </edge>
     <edge source="Vasconez S" target="PPR1029109">
