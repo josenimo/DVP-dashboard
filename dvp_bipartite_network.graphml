@@ -3970,16 +3970,6 @@
       <data key="d6">2026</data>
       <data key="d7">1</data>
     </node>
-    <node id="42934244">
-      <data key="d0">Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2026</data>
-      <data key="d7">3</data>
-    </node>
     <node id="40360936">
       <data key="d0">Deep Visual Proteomics elucidates α1-antitrypsin deficiency</data>
       <data key="d1">Paper</data>
@@ -3989,6 +3979,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">0</data>
+    </node>
+    <node id="42934244">
+      <data key="d0">Multiplexed deep visual proteomics resolves spatial heterogeneity and rare endocrine states in human pancreatic islets</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2026</data>
+      <data key="d7">3</data>
     </node>
     <node id="41629719">
       <data key="d0">Artificial Intelligence-Driven Laser Capture Microdissection</data>
@@ -4008,7 +4008,7 @@
       <data key="d4" />
       <data key="d5" />
       <data key="d6">2026</data>
-      <data key="d7">4</data>
+      <data key="d7">8</data>
     </node>
     <node id="40680990">
       <data key="d0">A perspective on integrating digital pathology, proteomics, clinical data and AI analytics in cancer research</data>
@@ -4020,6 +4020,16 @@
       <data key="d6">2025</data>
       <data key="d7">3</data>
     </node>
+    <node id="39814024">
+      <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">44</data>
+    </node>
     <node id="42918851">
       <data key="d0">OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics</data>
       <data key="d1">Paper</data>
@@ -4030,18 +4040,8 @@
       <data key="d6">2026</data>
       <data key="d7">3</data>
     </node>
-    <node id="39814024">
-      <data key="d0">Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">43</data>
-    </node>
-    <node id="41965357">
-      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
+    <node id="41655216">
+      <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -4050,8 +4050,8 @@
       <data key="d6">2026</data>
       <data key="d7">2</data>
     </node>
-    <node id="41655216">
-      <data key="d0">Integrating Spatial Proteogenomics in Cancer Research</data>
+    <node id="41965357">
+      <data key="d0">Deep visual proteomics uncovers nociceptor diversity and pain targets</data>
       <data key="d1">Paper</data>
       <data key="d2">1</data>
       <data key="d3">0</data>
@@ -4100,16 +4100,6 @@
       <data key="d6">2026</data>
       <data key="d7">0</data>
     </node>
-    <node id="40240610">
-      <data key="d0">Deep Visual Proteomics maps proteotoxicity in a genetic liver disease</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2025</data>
-      <data key="d7">56</data>
-    </node>
     <node id="40027887">
       <data key="d0">Toward spatial glycomics and glycoproteomics: Innovations and applications</data>
       <data key="d1">Paper</data>
@@ -4119,6 +4109,16 @@
       <data key="d5" />
       <data key="d6">2025</data>
       <data key="d7">19</data>
+    </node>
+    <node id="40240610">
+      <data key="d0">Deep Visual Proteomics maps proteotoxicity in a genetic liver disease</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2025</data>
+      <data key="d7">56</data>
     </node>
     <node id="41721135">
       <data key="d0">Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture</data>
@@ -4190,6 +4190,16 @@
       <data key="d6">2026</data>
       <data key="d7">5</data>
     </node>
+    <node id="38513891">
+      <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
+      <data key="d1">Paper</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4" />
+      <data key="d5" />
+      <data key="d6">2024</data>
+      <data key="d7">27</data>
+    </node>
     <node id="39415009">
       <data key="d0">Spatial proteomics identifies JAKi as treatment for a lethal skin disease</data>
       <data key="d1">Paper</data>
@@ -4199,16 +4209,6 @@
       <data key="d5" />
       <data key="d6">2024</data>
       <data key="d7">130</data>
-    </node>
-    <node id="38513891">
-      <data key="d0">An Automated and Fast Sample Preparation Workflow for Laser Microdissection Guided Ultrasensitive Proteomics</data>
-      <data key="d1">Paper</data>
-      <data key="d2">1</data>
-      <data key="d3">0</data>
-      <data key="d4" />
-      <data key="d5" />
-      <data key="d6">2024</data>
-      <data key="d7">21</data>
     </node>
     <node id="37783884">
       <data key="d0">Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome</data>
